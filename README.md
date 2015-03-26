@@ -83,6 +83,15 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 ![List prompt](https://dl.dropboxusercontent.com/s/kc1qxqitixx0hfp/isometric-contributions.jpg)
 
 
+## Gitter Helper [![Chrome][chrome]](https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi)
+
+Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
+
+[Sources](https://github.com/svincent/gitter-chrome)
+
+![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
