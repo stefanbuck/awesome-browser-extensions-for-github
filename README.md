@@ -92,6 +92,15 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 ![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 
 
+## Pages 2 Repo [![Chrome][chrome]](https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh)
+
+Makes it easy to access repository info from a GitHub pages website
+
+[Source](https://github.com/Frozenfire92/Pages2Repo)
+
+![List prompt](https://github.com/Frozenfire92/Pages2Repo/raw/master/screenshots/popup.png)
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
