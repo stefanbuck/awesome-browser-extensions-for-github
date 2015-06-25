@@ -100,6 +100,13 @@ Makes it easy to access repository info from a GitHub pages website
 
 ![List prompt](https://github.com/Frozenfire92/Pages2Repo/raw/master/screenshots/popup.png)
 
+## Lovely forks [![Chrome][chrome]](https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/lovely-forks/)
+
+See forks with the most stars under the names of repositories.
+
+[Source](https://github.com/musically-ut/github-forks-addon)
+
+![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
