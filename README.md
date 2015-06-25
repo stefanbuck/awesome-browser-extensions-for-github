@@ -106,8 +106,7 @@ See forks with the most stars under the names of repositories.
 
 [Source](https://github.com/musically-ut/github-forks-addon)
 
-<img alt="slate" src="https://musicallyut.in/docs/lovely-forks/slate-fork.png" width="80%" />
-
+![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
