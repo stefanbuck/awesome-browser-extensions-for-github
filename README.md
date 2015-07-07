@@ -91,6 +91,17 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 
 ![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 
+## Github Mate [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
+
+Adds various useful features to Github
+
+1. Download any file by click the file icon.
+2. Show tooltip of your unread notifications.
+3. Show Repo size.
+4. Show 'GH Page' link button if it has github pages. 
+5. Tab size customising between 2/4/8 whitespace.
+
+![Download file](https://lh3.googleusercontent.com/kTEhmep4hM1Mknr1ILHgFVIzS8a-WszsdKjV0qH8Qjp7M-rbYA-yNR-WA6voWY7gtG9DIBn7Uw=s640-h400-e365-rw)
 
 ## Pages 2 Repo [![Chrome][chrome]](https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh)
 
