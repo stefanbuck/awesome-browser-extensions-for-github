@@ -76,7 +76,7 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 
 
-## Isometric Contributions [![Chrome][chrome]](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien) 
+## Isometric Contributions [![Chrome][chrome]](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien) [![Safari][safari]](https://github.com/jasonlong/isometric-contributions#safari)
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
