@@ -1,6 +1,6 @@
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A collection of awesome browser extensions for GitHub. 
+> A collection of awesome browser extensions for GitHub.
 
 
 ## [GitHub Notifier](https://github.com/sindresorhus/github-notifier-safari) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-notifier/lmjdlojahmbbcodnpecnjnmlddbkjhnn) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/github-notifier/) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-notifier/) [![Safari][safari]](https://github.com/sindresorhus/github-notifier-safari/releases)
@@ -47,7 +47,7 @@ Simple and discreet extension that enhances GitHub's search, letting you search 
 
 ## [Octotree](https://github.com/buunguyen/octotree) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/octotree/) [![Safari][safari]](https://github.com/buunguyen/octotree/#install-on-safari-and-opera) [![Opera][opera]](https://github.com/buunguyen/octotree/#install-on-safari-and-opera)
 
-Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories. 
+Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
 ![List prompt](https://dl.dropboxusercontent.com/s/87zbki7vvkucphr/octotree.jpg)
 
@@ -87,7 +87,7 @@ Adds various useful features to Github
 1. Download any file by click the file icon.
 2. Show tooltip of your unread notifications.
 3. Show Repo size.
-4. Show 'GH Page' link button if it has Github Pages. 
+4. Show 'GH Page' link button if it has Github Pages.
 5. Tab size customising between 2/4/8 whitespace.
 
 ![Download file](https://lh3.googleusercontent.com/kTEhmep4hM1Mknr1ILHgFVIzS8a-WszsdKjV0qH8Qjp7M-rbYA-yNR-WA6voWY7gtG9DIBn7Uw=s640-h400-e365-rw)
@@ -105,6 +105,12 @@ Makes it easy to access repository info from a GitHub pages website
 See forks with the most stars under the names of repositories.
 
 ![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
+
+## [Github Pr Filter](https://github.com/danielhusar/github-pr-filter) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee)
+
+Add ability to filter files in pull requests
+
+![Github Pr Filter](https://raw.githubusercontent.com/danielhusar/github-pr-filter/master/demo.png)
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
