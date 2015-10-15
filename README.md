@@ -112,6 +112,12 @@ Add ability to filter files in pull requests
 
 ![Github Pr Filter](https://raw.githubusercontent.com/danielhusar/github-pr-filter/master/demo.png)
 
+## [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh)
+
+View the abstract syntax tree (AST) of code on GitHub.
+
+![GitHub AST Viewer](http://i.imgur.com/jumGRMd.gif)
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
