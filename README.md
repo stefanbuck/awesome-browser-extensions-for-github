@@ -10,7 +10,7 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 ![List prompt](https://dl.dropboxusercontent.com/s/c7egcrhq1wvff5r/github-notifier.jpg)
 
 
-## [Github Tab Size](https://github.com/sindresorhus/github-tab-size) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-tab-size/ofjbgncegkdemndciafljngjbdpfmbkn) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-tab-size/)
+## [GitHub Tab Size](https://github.com/sindresorhus/github-tab-size) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-tab-size/ofjbgncegkdemndciafljngjbdpfmbkn) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-tab-size/)
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
@@ -80,14 +80,14 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 ![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 
 
-## [Github Mate](https://github.com/camsong/chrome-github-mate) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
+## [GitHub Mate](https://github.com/camsong/chrome-github-mate) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
 
-Adds various useful features to Github
+Adds various useful features to GitHub:
 
 1. Download any file by click the file icon.
 2. Show tooltip of your unread notifications.
 3. Show Repo size.
-4. Show 'GH Page' link button if it has Github Pages.
+4. Show 'GH Page' link button if it has GitHub Pages.
 5. Tab size customising between 2/4/8 whitespace.
 
 ![Download file](https://lh3.googleusercontent.com/kTEhmep4hM1Mknr1ILHgFVIzS8a-WszsdKjV0qH8Qjp7M-rbYA-yNR-WA6voWY7gtG9DIBn7Uw=s640-h400-e365-rw)
@@ -95,7 +95,7 @@ Adds various useful features to Github
 
 ## [Pages2Repo](https://github.com/Frozenfire92/Pages2Repo) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh)
 
-Makes it easy to access repository info from a GitHub pages website
+Makes it easy to access repository info from a GitHub pages website.
 
 ![List prompt](https://github.com/Frozenfire92/Pages2Repo/raw/master/screenshots/popup.png)
 
@@ -106,11 +106,19 @@ See forks with the most stars under the names of repositories.
 
 ![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
 
-## [Github Pr Filter](https://github.com/danielhusar/github-pr-filter) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee)
 
-Add ability to filter files in pull requests
+## [GitHub Pr Filter](https://github.com/danielhusar/github-pr-filter) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee)
 
-![Github Pr Filter](https://raw.githubusercontent.com/danielhusar/github-pr-filter/master/demo.png)
+Add ability to filter files in pull requests.
+
+![GitHub Pr Filter](https://raw.githubusercontent.com/danielhusar/github-pr-filter/master/demo.png)
+
+
+## [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh)
+
+View the abstract syntax tree (AST) of code on GitHub.
+
+![GitHub AST Viewer](http://i.imgur.com/jumGRMd.gif)
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
