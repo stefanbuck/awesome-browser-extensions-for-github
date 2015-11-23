@@ -120,6 +120,13 @@ View the abstract syntax tree (AST) of code on GitHub.
 
 ![GitHub AST Viewer](http://i.imgur.com/jumGRMd.gif)
 
+
+## [GitHub Hovercard](https://github.com/Justineo/github-hovercard) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/)
+
+Neat user/repo/issue hovercard for GitHub.
+
+![GitHub Hovercard](https://github.com/Justineo/github-hovercard/blob/gh-pages/screenshots/2.png)
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
