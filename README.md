@@ -24,9 +24,9 @@ Hide dotfiles from the GitHub file browser.
 ![List prompt](https://dl.dropboxusercontent.com/s/80jpb795dckfel7/github-hide-files.jpg)
 
 
-## [GitHub-Linker](https://github.com/github-linker/chrome-extension) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp)
+## [Octo-Linker](https://github.com/octo-linker/chrome-extension) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp)
 
-The GitHub Linker is a Google Chrome Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statments in a .js, .jsx, .coffee or .md file.
+Octo-Linker is a Google Chrome Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statments in a .js, .jsx, .coffee or .md file.
 
 ![List prompt](https://dl.dropboxusercontent.com/s/wl0s1rishc4e8lu/github-linker.jpg)
 
