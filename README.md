@@ -3,21 +3,21 @@
 > A collection of awesome browser extensions for GitHub.
 
 
-## [GitHub Notifier](https://github.com/sindresorhus/github-notifier-safari) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-notifier/lmjdlojahmbbcodnpecnjnmlddbkjhnn) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/github-notifier/) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-notifier/) [![Safari][safari]](https://github.com/sindresorhus/github-notifier-safari/releases)
+## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/notifier-for-github/) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-notifier/) [![Safari][safari]](https://github.com/sindresorhus/notifier-for-github-safari/releases)
 
 Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
 ![List prompt](https://dl.dropboxusercontent.com/s/c7egcrhq1wvff5r/github-notifier.jpg)
 
 
-## [GitHub Tab Size](https://github.com/sindresorhus/github-tab-size) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-tab-size/ofjbgncegkdemndciafljngjbdpfmbkn) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-tab-size/)
+## [Tab Size on GitHub](https://github.com/sindresorhus/tab-size-on-github) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-tab-size/)
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
 ![List prompt](https://dl.dropboxusercontent.com/s/srd0ik8tbpjzi0v/github-tab-size.jpg)
 
 
-## [GitHub Hide Files](https://github.com/sindresorhus/github-hide-files) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-hide-files/lpnakhpaodhdkleejaehlapdhbgjbddp) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-hide-files/)
+## [Hide files on GitHub](https://github.com/sindresorhus/hide-files-on-github) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-hide-files/)
 
 Hide dotfiles from the GitHub file browser.
 
@@ -31,7 +31,7 @@ Octo-Linker is a Google Chrome Extension which links NPM, bower, Composer & Duo 
 ![List prompt](https://dl.dropboxusercontent.com/s/wl0s1rishc4e8lu/github-linker.jpg)
 
 
-## [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj) [![Safari][safari]](https://github.com/Nuclides/github-highlight-selected)
+## [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj) [![Safari][safari]](https://github.com/Nuclides/github-highlight-selected/blob/master/README.md)
 
 Highlight selected word in GitHub source view like Sublime Text.
 
@@ -45,7 +45,7 @@ Simple and discreet extension that enhances GitHub's search, letting you search 
 ![List prompt](https://dl.dropboxusercontent.com/s/zg3cblx3q8fhbkl/github-awesome-autocomplete.jpg)
 
 
-## [Octotree](https://github.com/buunguyen/octotree) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/octotree/) [![Safari][safari]](https://github.com/buunguyen/octotree/#install-on-safari-and-opera) [![Opera][opera]](https://github.com/buunguyen/octotree/#install-on-safari-and-opera)
+## [Octotree](https://github.com/buunguyen/octotree) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/octotree/) [![Safari][safari]](https://github.com/buunguyen/octotree/#install-on-safari) [![Opera][opera]](https://addons.opera.com/en/extensions/details/octotree/)
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
@@ -97,10 +97,10 @@ Adds various useful features to GitHub:
 
 Makes it easy to access repository info from a GitHub pages website.
 
-![List prompt](https://github.com/Frozenfire92/Pages2Repo/raw/master/screenshots/popup.png)
+![List prompt](https://cloud.githubusercontent.com/assets/1393946/11908410/4027dc66-a5dc-11e5-9bce-b028aa884c9a.png)
 
 
-## [Lovely forks](https://github.com/musically-ut/github-forks-addon) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/lovely-forks/)
+## [Lovely forks](https://github.com/musically-ut/lovely-forks) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/lovely-forks/)
 
 See forks with the most stars under the names of repositories.
 
