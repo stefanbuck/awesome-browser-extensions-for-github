@@ -127,6 +127,14 @@ Neat user/repo/issue hovercard for GitHub.
 
 ![GitHub Hovercard](https://github.com/Justineo/github-hovercard/blob/gh-pages/screenshots/2.png)
 
+
+## [GitHub Canned Responses](https://github.com/notwaldorf/github-canned-responses) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-canned-responses/lhehmppafakahahobaibfcomknkhoina)
+
+Choose from a set of canned responses when commenting on your GitHub PRs or issues
+
+![GitHub Canned Responses](https://cloud.githubusercontent.com/assets/1393946/12688681/fd612190-c6d7-11e5-8d8f-0adb053f863e.png)
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
