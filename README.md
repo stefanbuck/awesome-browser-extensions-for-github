@@ -135,6 +135,13 @@ Choose from a set of canned responses when commenting on your GitHub PRs or issu
 ![GitHub Canned Responses](https://cloud.githubusercontent.com/assets/1393946/12688681/fd612190-c6d7-11e5-8d8f-0adb053f863e.png)
 
 
+## [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj)
+
+Displays a clickable outline of all topic headers for markdown documents on Github
+
+![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
