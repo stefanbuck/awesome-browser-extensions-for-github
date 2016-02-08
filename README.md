@@ -84,7 +84,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 
 Adds various useful features to GitHub:
 
-1. Download any file by click the file icon.
+1. Download any file by clicking the file icon.
 2. Show tooltip of your unread notifications.
 3. Show Repo size.
 4. Show 'GH Page' link button if it has GitHub Pages.
