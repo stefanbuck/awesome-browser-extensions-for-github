@@ -141,6 +141,12 @@ Displays a clickable outline of all topic headers for markdown documents on Gith
 
 ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
 
+## [GitHub Categoric](https://github.com/ozlerhakan/categoric) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg)
+
+Categorize your mixed GitHub notifications
+
+![GitHub Categoric](https://dl.dropboxusercontent.com/u/15056258/screeen.png)
+
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
