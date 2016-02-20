@@ -80,7 +80,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 ![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 
 
-## [GitHub Mate](https://github.com/rubyerme/chrome-github-mate) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
+## [Octo Mate](https://github.com/rubyerme/chrome-github-mate) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
 
 Adds various useful features to GitHub:
 
