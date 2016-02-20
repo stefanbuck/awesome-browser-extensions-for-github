@@ -80,7 +80,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 ![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 
 
-## [GitHub Mate](https://github.com/rubyerme/chrome-github-mate) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
+## [Octo Mate](https://github.com/rubyerme/chrome-github-mate) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon)
 
 Adds various useful features to GitHub:
 
@@ -152,3 +152,9 @@ Categorize your mixed GitHub notifications
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
 [opera]: https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_24x24.png
+
+## [OctoPreview](https://github.com/DrewML/octo-preview) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octo-preview/elomekmlfonmdhmpmdfldcjgdoacjcba)
+
+Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
+
+![GitHub OctoPreview Extension](https://raw.githubusercontent.com/DrewML/octo-preview/master/example.gif)
