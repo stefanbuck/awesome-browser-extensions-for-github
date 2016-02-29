@@ -158,3 +158,34 @@ Categorize your mixed GitHub notifications
 Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
 
 ![GitHub OctoPreview Extension](https://raw.githubusercontent.com/DrewML/octo-preview/master/example.gif)
+
+
+## [GitSense](https://github.com/gitsense/gitsense-extensions) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/gitsense/fgnjcebdincofoebkahonlphjoiinglo)
+
+GitSense brings branch level code management metrics and advanced search capability to GitHub. 
+
+To participate in the free GitSense beta trial, please send an email to privatebeta@gitsense.com
+
+![GitHub GitSense Extension](http://gitsense.github.io/images/github.gif)
+
+
+|   |GitHub|GitHub with GitSense|
+|---|:----:|:---------------:|
+|[Search for code in default branches only](https://help.github.com/articles/searching-code)|x||
+|[Search for code in non-forked repositories only](https://help.github.com/articles/searching-code)|x||	
+|[Search for code in files smaller than 345KB only](https://help.github.com/articles/searching-code)|x||
+|Search for code from any branch and repository||x|	
+|Search for commits from any branch and repository||x|
+|Search for diffs from any branch and repository||x|
+|Search for commits from multiple branches at once||x|	
+|Define searchable file sizes||x|		
+|At the glance branch metrics||x|
+|View every change from every commit in tree form||x|		
+|Filterable code churn (lines added, changed and deleted) metrics||x|	
+|Filterable lines of code metrics||x|
+|Bird's eye view branch comparison charts||x|
+|Build custom reports and CSV files that can be viewed with Excel, Tableau, and others||x|	
+|Case-sensitive and case-insensitive code searches||Planned|
+|Search for commits, diffs, and commits from the command line||Planned|
+|Define searchable non-word characters.||Planned|
+|Add custom links and other productivity features to GitHub commit titles and messages||Planned|	
