@@ -162,30 +162,6 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 
 ## [GitSense](https://github.com/gitsense/gitsense-extensions) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/gitsense/fgnjcebdincofoebkahonlphjoiinglo)
 
-GitSense brings branch level code management metrics and advanced search capability to GitHub. 
-
-To participate in the free GitSense beta trial, please send an email to privatebeta@gitsense.com
+GitSense brings advanced search capability and code management metrics to GitHub and GitHub Enterprise.  With GitSense, you'll finally be able to search for commits, a feature many have longed for.  Code searches are also no longer limited to non-forked repositories and default branches, a limitation many do not realize until it's needed the most and so much more.  To learn more about GitSense and how it's reimagining GitHub browsing, make sure to visit http://gitsense.github.io for more information.
 
 ![GitHub GitSense Extension](http://gitsense.github.io/images/github.gif)
-
-
-|   |GitHub|GitHub with GitSense|
-|---|:----:|:---------------:|
-|[Search for code in default branches only](https://help.github.com/articles/searching-code)|x||
-|[Search for code in non-forked repositories only](https://help.github.com/articles/searching-code)|x||	
-|[Search for code in files smaller than 345KB only](https://help.github.com/articles/searching-code)|x||
-|Search for code from any branch and repository||x|	
-|Search for commits from any branch and repository||x|
-|Search for diffs from any branch and repository||x|
-|Search for commits from multiple branches at once||x|	
-|Define searchable file sizes||x|		
-|At the glance branch metrics||x|
-|View every change from every commit in tree form||x|		
-|Filterable code churn (lines added, changed and deleted) metrics||x|	
-|Filterable lines of code metrics||x|
-|Bird's eye view branch comparison charts||x|
-|Build custom reports and CSV files that can be viewed with Excel, Tableau, and others||x|	
-|Case-sensitive and case-insensitive code searches||Planned|
-|Search for commits, diffs, and commits from the command line||Planned|
-|Define searchable non-word characters.||Planned|
-|Add custom links and other productivity features to GitHub commit titles and messages||Planned|	
