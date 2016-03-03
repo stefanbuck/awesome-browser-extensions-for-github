@@ -158,3 +158,10 @@ Categorize your mixed GitHub notifications
 Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
 
 ![GitHub OctoPreview Extension](https://raw.githubusercontent.com/DrewML/octo-preview/master/example.gif)
+
+
+## [GitSense](https://github.com/gitsense/gitsense-extensions) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/gitsense/fgnjcebdincofoebkahonlphjoiinglo)
+
+GitSense brings advanced search capability and code management metrics to GitHub and GitHub Enterprise.  With GitSense, you'll be able to search for commits, a feature many GitHubbers have longed for.  Code searches are also no longer limited to non-forked repositories and so much more.  For a more detailed description on how GitSense is reimagining GitHub browsing, make sure to visit http://gitsense.github.io for more information.
+
+![GitHub GitSense Extension](http://gitsense.github.io/images/github.gif)
