@@ -121,7 +121,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 ![GitHub AST Viewer](http://i.imgur.com/jumGRMd.gif)
 
 
-## [GitHub Hovercard](https://github.com/Justineo/github-hovercard) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/)
+## [GitHub Hovercard](https://github.com/Justineo/github-hovercard) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) [![Firefox][firefox]](https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-hovercard/)
 
 Neat user/repo/issue hovercard for GitHub.
 
