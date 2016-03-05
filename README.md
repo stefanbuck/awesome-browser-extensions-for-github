@@ -162,6 +162,13 @@ Extension that simplifies the GitHub interface and adds useful features.
 ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/screenshot-dashboard.png)
 
 
+## [Show All GitHub Issues](https://github.com/sindresorhus/show-all-github-issues) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/show-all-github-issues/ahkcgmpcfiijldaijfjekdffckpidieb) [![Opera][opera]](https://addons.opera.com/en/extensions/details/github-issues-all/)
+
+Show both Issues and Pull Requests in the Issues tab by default. As it previously did.
+
+![Show All GitHub Issues](https://raw.githubusercontent.com/sindresorhus/show-all-github-issues/master/screenshot.png)
+
+
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
