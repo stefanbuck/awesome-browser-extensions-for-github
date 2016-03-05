@@ -52,7 +52,7 @@ Useful for developers who frequently read source in GitHub and do not want to do
 ![List prompt](https://dl.dropboxusercontent.com/s/87zbki7vvkucphr/octotree.jpg)
 
 
-## ZenHub [![Chrome][chrome]](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd)
+## ZenHub [![Chrome][chrome]](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) [![Firefox][firefox]](https://www.zenhub.io/firefox)
 
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
