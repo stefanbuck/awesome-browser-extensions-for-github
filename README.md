@@ -148,13 +148,13 @@ Categorize your mixed GitHub notifications
 ![GitHub Categoric](https://dl.dropboxusercontent.com/u/15056258/screeen.png)
 
 
-[firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
-[safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
-[chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
-[opera]: https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_24x24.png
-
 ## [OctoPreview](https://github.com/DrewML/octo-preview) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/octo-preview/elomekmlfonmdhmpmdfldcjgdoacjcba)
 
 Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
 
 ![GitHub OctoPreview Extension](https://raw.githubusercontent.com/DrewML/octo-preview/master/example.gif)
+
+[firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
+[safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
+[chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
+[opera]: https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_24x24.png
