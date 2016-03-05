@@ -154,6 +154,15 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 
 ![GitHub OctoPreview Extension](https://raw.githubusercontent.com/DrewML/octo-preview/master/example.gif)
 
+
+## [Refined GitHub](https://github.com/sindresorhus/refined-github) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) [![Safari][safari]](https://github.com/fantattitude/refined-github-safari)
+
+Extension that simplifies the GitHub interface and adds useful features.
+
+![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/screenshot-dashboard.png)
+
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
