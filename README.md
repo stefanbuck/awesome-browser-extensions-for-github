@@ -176,6 +176,13 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 ![Contributors on Github](https://github.com/hzoo/contributors-on-github/blob/master/firstpr.gif)
 
 
+## [GifHub](https://github.com/DrewML/GifHub) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/gifhub/lponagpckglibniamicamklhfkoebpeb/)
+
+A Chrome extension that adds a button on GitHub comment toolbars, allowing you to search for (and include) GIFs in comments.
+
+![GifHub](https://cloud.githubusercontent.com/assets/1393946/13860430/911b4ce6-ec88-11e5-9952-11f19baa0190.gif)
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
