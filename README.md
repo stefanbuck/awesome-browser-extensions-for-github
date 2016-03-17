@@ -169,6 +169,12 @@ Show both Issues and Pull Requests in the Issues tab by default. As it previousl
 ![Show All GitHub Issues](https://raw.githubusercontent.com/sindresorhus/show-all-github-issues/master/screenshot.png)
 
 
+## [Contributors on Github](https://github.com/hzoo/contributors-on-github) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph)
+
+Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
+
+![Contributors on Github](https://github.com/hzoo/contributors-on-github/blob/master/firstpr.gif)
+
 
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
