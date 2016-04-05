@@ -181,6 +181,14 @@ Omnibar for Github just like [bitbucket's](https://developer.atlassian.com/blog/
 
 ![](https://cloud.githubusercontent.com/assets/1235045/13912608/00623f8a-ef7a-11e5-92dc-20cd9815007d.png)
 
+
+## [Twitter for GitHub](https://github.com/bevacqua/twitter-for-github) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/twitter-for-github/joalalcafnlmimkfkihjbdgmphgedojc)
+
+Infers or tries to find GitHub users' Twitter handles and present them to you in the GitHub interface.
+
+![](https://cloud.githubusercontent.com/assets/1393946/14272254/9a83b0a2-fb01-11e5-8d04-52687ae367f8.png)
+
+
 [firefox]: https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_24x24.png
 [safari]: https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_24x24.png
 [chrome]: https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_24x24.png
