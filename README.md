@@ -128,13 +128,6 @@ Neat user/repo/issue hovercard for GitHub.
 ![GitHub Hovercard](https://github.com/Justineo/github-hovercard/blob/gh-pages/screenshots/2.png)
 
 
-## [GitHub Canned Responses](https://github.com/notwaldorf/github-canned-responses) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-canned-responses/lhehmppafakahahobaibfcomknkhoina)
-
-Choose from a set of canned responses when commenting on your GitHub PRs or issues
-
-![GitHub Canned Responses](https://cloud.githubusercontent.com/assets/1393946/12688681/fd612190-c6d7-11e5-8d8f-0adb053f863e.png)
-
-
 ## [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) [![Chrome][chrome]](https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj)
 
 Displays a clickable outline of all topic headers for markdown documents on Github
