@@ -31,6 +31,7 @@
 - [GifHub](#gifhub)
 - [GitHub Omnibar](#github-omnibar)
 - [Twitter for GitHub](#twitter-for-github)
+- [Where is it?](#where-is-it)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -261,3 +262,14 @@ Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/
 Infers or tries to find GitHub users' Twitter handles and present them to you in the GitHub interface.
 
 ![](https://cloud.githubusercontent.com/assets/1393946/14272254/9a83b0a2-fb01-11e5-8d04-52687ae367f8.png)
+
+
+## [Where is it?](https://github.com/WhereIsItDev/whereisit)
+<a href="https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Whereisit makes code navigation on GitHub easier. Look up and jump around class/method definitions with a single click.
+
+![](https://cloud.githubusercontent.com/assets/1393946/15090769/d0472958-1433-11e6-8af0-c5294aae94d6.png)
+
+
+
