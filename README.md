@@ -273,7 +273,7 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 ![](https://cloud.githubusercontent.com/assets/1393946/15090769/d0472958-1433-11e6-8af0-c5294aae94d6.png)
 
 
-## Review on Github
+## [Review on Github](https://github.com/bastilian/ReviewOnGitHub)
 
 <a href="https://chrome.google.com/webstore/detail/review-on-github/eenlonmglmdookfbknbmcgjkpomndjdp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 
