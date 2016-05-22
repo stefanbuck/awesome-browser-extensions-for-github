@@ -33,6 +33,7 @@
 - [Twitter for GitHub](#twitter-for-github)
 - [Where is it?](#where-is-it)
 - [Review on GitHub](#review-on-github)
+- [GitHub Extended](#github-extended)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -278,3 +279,9 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 <a href="https://chrome.google.com/webstore/detail/review-on-github/eenlonmglmdookfbknbmcgjkpomndjdp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 
 Review repositories on GitHub like a Pull Request. This extension adds the ability to github.com to make notes in files and add them as a compiled list to an issue.
+
+## [GitHub Extended](https://github.com/onmyway133/github-extended)
+
+<a href="https://chrome.google.com/webstore/detail/github-extended/doidfnmbfadacpcjkekkgofkmnkljnhi/related"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+A Chrome extension to discover more repositories
