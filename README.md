@@ -8,7 +8,7 @@
 - [Notifier for GitHub](#notifier-for-github)
 - [Tab Size on GitHub](#tab-size-on-github)
 - [Hide files on GitHub](#hide-files-on-github)
-- [Octo-Linker](#octo-linker)
+- [OctoLinker](#octolinker)
 - [GitHub Highlight Selected](#github-highlight-selected)
 - [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
 - [Octotree](#octotree)
@@ -34,6 +34,7 @@
 - [Where is it?](#where-is-it)
 - [Review on GitHub](#review-on-github)
 - [GitHub Extended](#github-extended)
+- [npm-hub](#npm-hub)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -65,8 +66,8 @@ Hide dotfiles from the GitHub file browser.
 ![List prompt](https://dl.dropboxusercontent.com/s/80jpb795dckfel7/github-hide-files.jpg)
 
 
-## [Octo-Linker](https://github.com/octo-linker/chrome-extension)
-<a href="https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+## [OctoLinker](https://github.com/OctoLinker/browser-extension)
+<a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 
 Octo-Linker is a Google Chrome Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statments in a .js, .jsx, .coffee or .md file.
 
@@ -136,7 +137,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 ![List prompt](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 
 
-## [Octo Mate](https://github.com/rubyerme/chrome-github-mate)
+## [Octo Mate](https://github.com/camsong/chrome-github-mate)
 <a href="https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 
 Adds various useful features to GitHub:
@@ -285,3 +286,11 @@ Review repositories on GitHub like a Pull Request. This extension adds the abili
 <a href="https://chrome.google.com/webstore/detail/github-extended/doidfnmbfadacpcjkekkgofkmnkljnhi/related"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 
 A Chrome extension to discover more repositories
+
+
+## [npm-hub](https://github.com/zeke/npm-hub)
+<a href="https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
+
+<img width="531" src="https://cloud.githubusercontent.com/assets/1393946/15631842/9dfd38f6-257d-11e6-96b8-f7008937e1ad.png">
