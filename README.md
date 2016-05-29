@@ -34,6 +34,7 @@
 - [Where is it?](#where-is-it)
 - [Review on GitHub](#review-on-github)
 - [GitHub Extended](#github-extended)
+- [npm-hub](#npm-hub)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -285,3 +286,11 @@ Review repositories on GitHub like a Pull Request. This extension adds the abili
 <a href="https://chrome.google.com/webstore/detail/github-extended/doidfnmbfadacpcjkekkgofkmnkljnhi/related"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 
 A Chrome extension to discover more repositories
+
+
+## [npm-hub](https://github.com/zeke/npm-hub)
+<a href="https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
+
+<img width="531" src="https://cloud.githubusercontent.com/assets/1393946/15631842/9dfd38f6-257d-11e6-96b8-f7008937e1ad.png">
