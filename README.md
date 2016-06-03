@@ -14,6 +14,7 @@
 - [Octotree](#octotree)
 - [ZenHub](#zenhub)
 - [github.expandinizr](#github.expandinizr)
+- [News Feed for GitHub](#news-feed-for-github)
 - [Isometric Contributions](#isometric-contributions)
 - [Gitter Helper](#gitter-helper)
 - [Octo Mate](#octo-mate)
@@ -119,6 +120,13 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 ![List prompt](https://dl.dropboxusercontent.com/s/7e9g9g0l445j90m/github-expandinizr.jpg)
 
+## [News Feed for GitHub](https://github.com/julmot/news-feed-for-github)
+<a href="https://chrome.google.com/webstore/detail/news-feed-for-github/gbpajmknkcgjeinfbmfeiafhogbhgkjh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/news-feed-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a>
+
+A Chrome and Firefox extension that shows notifications when something happens in your GitHub news feed.
+
+![News Feed for GitHub](https://raw.githubusercontent.com/julmot/news-feed-for-github/master/screenshots/chrome.png)
 
 ## [Isometric Contributions](https://github.com/jasonlong/isometric-contributions)
 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
