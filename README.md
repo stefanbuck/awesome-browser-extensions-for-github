@@ -38,6 +38,7 @@
 - [npm-hub](#npm-hub)
 - [PR file filter for Github](#pr-file-filter-for-github)
 - [Github Travis Stat](#github-travis-stat)
+- [GitHub Grouped News](#github-grouped-news)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -323,3 +324,10 @@ This Chrome extension extends the file search of a pull request to allow for act
 This extension is to display travis-ci status for repos in github. There is a visual chart which shows build status and duration changes for recent 10 times.
 
 <img src='http://yaowenjie.github.io/images/2016/travis0.png'/>
+
+## [GitHub Grouped News](https://github.com/bfred-it/GitHub-Grouped-News)
+<a href="https://chrome.google.com/webstore/detail/github-grouped-news/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Group stars, forks, and other events in your dashboard/news feed.
+
+<img src="https://raw.githubusercontent.com/bfred-it/GitHub-Grouped-News/master/screenshot.png">
