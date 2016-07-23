@@ -37,6 +37,7 @@
 - [GitHub Extended](#github-extended)
 - [npm-hub](#npm-hub)
 - [PR file filter for Github](#pr-file-filter-for-github)
+- [Github Travis Stat](#github-travis-stat)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -314,3 +315,11 @@ When viewing a repository on github.com that has a package.json file, this exten
 This Chrome extension extends the file search of a pull request to allow for actual filtering with globs.
 
 <img src="https://raw.githubusercontent.com/siggysamson/pr-file-filter-for-github/master/assets/demo.gif">
+
+
+## [Github Travis Stat](https://github.com/Yaowenjie/travis-github-chrome-extension)
+<a href="https://chrome.google.com/webstore/detail/github-travis-stat/ekkfhiophiaakmeppcnkblpbbjlnlnmh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+This extension is to display travis-ci status for repos in github. There is a visual chart which shows build status and duration changes for recent 10 times.
+
+<img src='http://yaowenjie.github.io/images/2016/travis0.png'/>
