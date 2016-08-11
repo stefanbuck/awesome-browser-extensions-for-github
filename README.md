@@ -39,6 +39,7 @@
 - [PR file filter for Github](#pr-file-filter-for-github)
 - [Github Travis Stat](#github-travis-stat)
 - [GitHub Grouped News](#github-grouped-news)
+- [Github Repo Size](#github-repo-size)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -331,3 +332,9 @@ This extension is to display travis-ci status for repos in github. There is a vi
 Group stars, forks, and other events in your dashboard/news feed.
 
 <img src="https://raw.githubusercontent.com/bfred-it/GitHub-Grouped-News/master/screenshot.png">
+
+## [Github Repo Size](https://github.com/harshjv/github-repo-size)
+<a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>  
+Automatically adds repository size to GitHub's repository summary.
+
+<img src="https://raw.githubusercontent.com/harshjv/github-repo-size/master/screenshot.png">
