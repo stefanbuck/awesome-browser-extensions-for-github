@@ -40,6 +40,7 @@
 - [Github Travis Stat](#github-travis-stat)
 - [GitHub Grouped News](#github-grouped-news)
 - [Github Repo Size](#github-repo-size)
+- [GitHub Classifier](#github-classifier)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -338,3 +339,11 @@ Group stars, forks, and other events in your dashboard/news feed.
 Automatically adds repository size to GitHub's repository summary.
 
 <img src="https://raw.githubusercontent.com/harshjv/github-repo-size/master/screenshot.png">
+
+## [GitHub Classifier](https://github.com/prabhakar267/github-classifier)
+<a href="https://chrome.google.com/webstore/detail/github-classifier/kdbnkkmpgelemganemfbojehfobhkgcl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Extension to linguistically classify and count the number of repositories according to filters for any user on GitHub
+
+![GitHub Classifier](https://raw.githubusercontent.com/prabhakar267/github-classifier/master/assets/images/zR1pRX8GsnHVQ74w33Jh.gif)
+
