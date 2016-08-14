@@ -5,6 +5,7 @@
 
 ## Table of Content
 
+- [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [Notifier for GitHub](#notifier-for-github)
 - [Tab Size on GitHub](#tab-size-on-github)
 - [Hide files on GitHub](#hide-files-on-github)
@@ -41,6 +42,17 @@
 - [GitHub Grouped News](#github-grouped-news)
 - [Github Repo Size](#github-repo-size)
 - [GitHub Classifier](#github-classifier)
+
+
+## [Codecov: Code Coverage Overlay](https://codecov.io)
+<a href="https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a>
+<a href="https://addons.opera.com/en/extensions/details/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a>
+
+Overlay code coverage in Github and Bitbucket. Supporting commits, blobs, blame, compare, pulls and more.
+Free for open source repositories.
+
+![Codecov](https://cloud.githubusercontent.com/assets/2041757/10658044/5a971f60-7893-11e5-8e89-a51cac2b21cf.png)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
