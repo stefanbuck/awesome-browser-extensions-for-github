@@ -41,6 +41,7 @@
 - [GitHub Grouped News](#github-grouped-news)
 - [Github Repo Size](#github-repo-size)
 - [GitHub Classifier](#github-classifier)
+- [Follow Me or Not](#follow-me-or-not)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -347,3 +348,9 @@ Extension to linguistically classify and count the number of repositories accord
 
 ![GitHub Classifier](https://raw.githubusercontent.com/prabhakar267/github-classifier/master/assets/images/zR1pRX8GsnHVQ74w33Jh.gif)
 
+## [Follow Me or Not](https://github.com/mkstn/follow-me-or-not)
+<a href="https://chrome.google.com/webstore/detail/follow-me-or-not/mjfndaiehjlhhdcbafamkgieeljffngj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension to check if the GitHub profile you are visiting, follows you or not in a Twitter-like UI
+
+![Follow Me or Not](https://raw.githubusercontent.com/mkstn/follow-me-or-not/master/assets/images/Screenshot%20from%202016-08-14%2003%3A07%3A39.png)
