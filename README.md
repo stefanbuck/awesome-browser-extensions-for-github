@@ -42,6 +42,7 @@
 - [Github Repo Size](#github-repo-size)
 - [GitHub Classifier](#github-classifier)
 - [Follow Me or Not](#follow-me-or-not)
+- [GitHub Email Extractor](#github-email-extractor)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -354,3 +355,12 @@ Extension to linguistically classify and count the number of repositories accord
 Chrome extension to check if the GitHub profile you are visiting, follows you or not in a Twitter-like UI
 
 ![Follow Me or Not](https://raw.githubusercontent.com/mkstn/follow-me-or-not/master/assets/images/Screenshot%20from%202016-08-14%2003%3A07%3A39.png)
+
+## [GitHub Email Extractor](https://github.com/prabhakar267/github-email-extractor)
+<a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
+
+| Before | After |
+| --- | --- |
+| ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-09-33.png) | ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-05-54.png) |
