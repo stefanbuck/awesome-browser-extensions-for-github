@@ -43,6 +43,7 @@
 - [GitHub Classifier](#github-classifier)
 - [Follow Me or Not](#follow-me-or-not)
 - [GitHub Email Extractor](#github-email-extractor)
+- [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -364,3 +365,13 @@ Chrome extension to fetch the email ID of a user even if they haven't made it pu
 | Before | After |
 | --- | --- |
 | ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-09-33.png) | ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-05-54.png) |
+
+## [Codecov: Code Coverage Overlay](https://codecov.io)
+<a href="https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a>
+<a href="https://addons.opera.com/en/extensions/details/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a>
+
+Overlay code coverage in Github and Bitbucket. Supporting commits, blobs, blame, compare, pulls and more.
+Free for open source repositories.
+
+![Codecov](https://cloud.githubusercontent.com/assets/2041757/10658044/5a971f60-7893-11e5-8e89-a51cac2b21cf.png)
