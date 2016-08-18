@@ -4,47 +4,48 @@
 
 
 ## Table of Content
-
-- [Notifier for GitHub](#notifier-for-github)
-- [Tab Size on GitHub](#tab-size-on-github)
-- [Hide files on GitHub](#hide-files-on-github)
-- [OctoLinker](#octolinker)
-- [GitHub Highlight Selected](#github-highlight-selected)
-- [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
-- [Octotree](#octotree)
-- [ZenHub](#zenhub)
-- [github.expandinizr](#github.expandinizr)
-- [News Feed for GitHub](#news-feed-for-github)
-- [Isometric Contributions](#isometric-contributions)
-- [Gitter Helper](#gitter-helper)
-- [Octo Mate](#octo-mate)
-- [Pages2Repo](#pages2repo)
-- [Lovely forks](#lovely-forks)
-- [GitHub Pr Filter](#github-pr-filter)
-- [GitHub AST Viewer](#github-ast-viewer)
-- [GitHub Hovercard](#github-hovercard)
-- [GitHub Markdown Outline Extension](#github-markdown-outline-extension)
-- [GitHub Categoric](#github-categoric)
-- [OctoPreview](#octopreview)
-- [Refined GitHub](#refined-github)
-- [Show All GitHub Issues](#show-all-github-issues)
-- [Contributors on GitHub](#contributors-on-github)
-- [GifHub](#gifhub)
-- [GitHub Omnibar](#github-omnibar)
-- [Twitter for GitHub](#twitter-for-github)
-- [Where is it?](#where-is-it)
-- [Review on GitHub](#review-on-github)
-- [GitHub Extended](#github-extended)
-- [npm-hub](#npm-hub)
-- [PR file filter for Github](#pr-file-filter-for-github)
-- [Github Travis Stat](#github-travis-stat)
-- [GitHub Grouped News](#github-grouped-news)
-- [Github Repo Size](#github-repo-size)
-- [GitHub Classifier](#github-classifier)
-- [Follow Me or Not](#follow-me-or-not)
-- [GitHub Email Extractor](#github-email-extractor)
-- [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
-- [MiniGitHub](#minigithub)
+| Extension Name | Supported Browsers |
+|---|---|
+| [Notifier for GitHub](#notifier-for-github) | <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/github-notifier/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a><a href="https://github.com/sindresorhus/notifier-for-github-safari/releases"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_48x48.png" width="24" /></a> |
+| [Tab Size on GitHub](#tab-size-on-github) | <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/github-tab-size/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [Hide files on GitHub](#hide-files-on-github) | <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/github-hide-files/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [OctoLinker](#octolinker) | <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a><a href="https://github.com/buunguyen/octotree/#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [GitHub Highlight Selected](#github-highlight-selected) | <a href="https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://github.com/Nuclides/github-highlight-selected/blob/master/README.md"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_48x48.png" width="24" /></a> |
+| [GitHub Awesome Autocomplete](#github-awesome-autocomplete) | <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Octotree](#octotree) | <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a><a href="https://github.com/buunguyen/octotree/#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [ZenHub](#zenhub) | <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://www.zenhub.com/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a> |
+| [github.expandinizr](#github.expandinizr) | <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [News Feed for GitHub](#news-feed-for-github) | <a href="https://chrome.google.com/webstore/detail/news-feed-for-github/gbpajmknkcgjeinfbmfeiafhogbhgkjh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/news-feed-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a> |
+| [Isometric Contributions](#isometric-contributions) | <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://github.com/jasonlong/isometric-contributions#safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_48x48.png" width="24" /></a> |
+| [Gitter Helper](#gitter-helper) | <a href="https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Octo Mate](#octo-mate) | <a href="https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Pages2Repo](#pages2repo) | <a href="https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Lovely forks](#lovely-forks) | <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a> |
+| [GitHub Pr Filter](#github-pr-filter) | <a href="https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub AST Viewer](#github-ast-viewer) | <a href="https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Hovercard](#github-hovercard) | <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [GitHub Markdown Outline Extension](#github-markdown-outline-extension) | <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Categoric](#github-categoric) | <a href="https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [OctoPreview](#octopreview) | <a href="https://chrome.google.com/webstore/detail/octo-preview/elomekmlfonmdhmpmdfldcjgdoacjcba"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Refined GitHub](#refined-github) | <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://github.com/fantattitude/refined-github-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/safari/safari_48x48.png" width="24" /></a> |
+| [Show All GitHub Issues](#show-all-github-issues) | <a href="https://chrome.google.com/webstore/detail/show-all-github-issues/ahkcgmpcfiijldaijfjekdffckpidieb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/github-issues-all/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [Contributors on GitHub](#contributors-on-github) | <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GifHub](#gifhub) | <a href="https://chrome.google.com/webstore/detail/gifhub/lponagpckglibniamicamklhfkoebpeb/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Omnibar](#github-omnibar) | <a href="https://chrome.google.com/webstore/detail/github-omnibar/njccjmmakcbdpnlbodllfgiloenfpocb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://github.com/jcouyang/gh-omnibar#firefox"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a> |
+| [Twitter for GitHub](#twitter-for-github) | <a href="https://chrome.google.com/webstore/detail/twitter-for-github/joalalcafnlmimkfkihjbdgmphgedojc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Where is it?](#where-is-it) | <a href="https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Review on GitHub](#review-on-github) | <a href="https://chrome.google.com/webstore/detail/review-on-github/eenlonmglmdookfbknbmcgjkpomndjdp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Extended](#github-extended) | <a href="https://chrome.google.com/webstore/detail/github-extended/doidfnmbfadacpcjkekkgofkmnkljnhi/related"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [npm-hub](#npm-hub) | <a href="https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="http://crossrider.com/install/36212-npm-hub"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a> |
+| [PR file filter for Github](#pr-file-filter-for-github) | <a href="https://chrome.google.com/webstore/detail/pr-file-filter-for-github/jahafomboikfnemnncinlmohmbbbnbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Github Travis Stat](#github-travis-stat) | <a href="https://chrome.google.com/webstore/detail/github-travis-stat/ekkfhiophiaakmeppcnkblpbbjlnlnmh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Grouped News](#github-grouped-news) | <a href="https://chrome.google.com/webstore/detail/github-grouped-news/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Github Repo Size](#github-repo-size) | <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Classifier](#github-classifier) | <a href="https://chrome.google.com/webstore/detail/github-classifier/kdbnkkmpgelemganemfbojehfobhkgcl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Follow Me or Not](#follow-me-or-not) | <a href="https://chrome.google.com/webstore/detail/follow-me-or-not/mjfndaiehjlhhdcbafamkgieeljffngj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [GitHub Email Extractor](#github-email-extractor) | <a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a> |
+| [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay) | <a href="https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a><a href="https://addons.opera.com/en/extensions/details/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/opera/opera_48x48.png" width="24" /></a> |
+| [MiniGitHub](#minigithub) | <a href="https://addons.mozilla.org/en-us/firefox/addon/minigithub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a> |
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
