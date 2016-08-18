@@ -44,6 +44,7 @@
 - [Follow Me or Not](#follow-me-or-not)
 - [GitHub Email Extractor](#github-email-extractor)
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
+- [MiniGitHub](#minigithub)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -447,4 +448,13 @@ Free for open source repositories.
 
 <details><summary>Screenshots</summary>
 ![Codecov](https://cloud.githubusercontent.com/assets/2041757/10658044/5a971f60-7893-11e5-8e89-a51cac2b21cf.png)
+</details>
+
+## [MiniGitHub](https://github.com/mbad0la/MiniGitHub)
+<a href="https://addons.mozilla.org/en-us/firefox/addon/minigithub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a>
+
+An add-on for a quick gist of Github.
+
+<details><summary>Screenshots</summary>
+![Trend Screen](https://raw.githubusercontent.com/mbad0la/MiniGitHub/master/screenshots/minigithub.gif)
 </details>
