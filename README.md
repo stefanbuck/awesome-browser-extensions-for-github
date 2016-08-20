@@ -45,6 +45,7 @@
 - [GitHub Email Extractor](#github-email-extractor)
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [MiniGitHub](#minigithub)
+- [Github Plus](#github-plus)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -402,7 +403,7 @@ Group stars, forks, and other events in your dashboard/news feed.
 </details>
 
 ## [Github Repo Size](https://github.com/harshjv/github-repo-size)
-<a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>  
+<a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
 Automatically adds repository size to GitHub's repository summary.
 
 <details><summary>Screenshots</summary>
@@ -457,4 +458,14 @@ An add-on for a quick gist of Github.
 
 <details><summary>Screenshots</summary>
 ![Trend Screen](https://raw.githubusercontent.com/mbad0la/MiniGitHub/master/screenshots/minigithub.gif)
+</details>
+
+## [Github Plus](https://github.com/softvar/github-plus)
+<a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Displays size of each file, download link and an option of copying file contents directly to clipboard
+
+<details><summary>Screenshots</summary>
+  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshot-home.png">
+  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshot-file.png">
 </details>
