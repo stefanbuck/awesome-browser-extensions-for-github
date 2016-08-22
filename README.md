@@ -466,6 +466,6 @@ An add-on for a quick gist of Github.
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
 <details><summary>Screenshots</summary>
-  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshot-home.png">
-  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshot-file.png">
+  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-home.png">
+  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-file.png">
 </details>
