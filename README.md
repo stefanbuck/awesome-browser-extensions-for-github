@@ -46,6 +46,7 @@
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [MiniGitHub](#minigithub)
 - [Github Plus](#github-plus)
+- [Octomerge](#octomerge)
 
 
 ## [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github)
@@ -246,7 +247,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 Neat user/repo/issue hovercard for GitHub.
 
 <details><summary>Screenshots</summary>
- ![GitHub Hovercard](https://github.com/Justineo/github-hovercard/blob/gh-pages/screenshots/2.png)
+ ![GitHub Hovercard](https://raw.githubusercontent.com/Justineo/github-hovercard/master/screenshots/2.png)
 </details>
 
 
@@ -468,4 +469,14 @@ Displays size of each file, download link and an option of copying file contents
 <details><summary>Screenshots</summary>
   <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-home.png">
   <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-file.png">
+</details>
+
+
+## [Octomerge](https://github.com/tennisonchan/octomerge)
+<a href="https://chrome.google.com/webstore/detail/octomerge/bcfdlpkdamkbcidkenogbahohlnonebo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24"/></a>
+
+A missing button for automatic merge on build succeeds on Github. If you've reviewed a merge request, but the CI builds are still running, it can be annoying to have to wait for them to finish. This way, you don't have to wait for the builds to finish and remember to merge the request manually. Less waiting, more reviewing!
+
+<details><summary>Screenshots</summary>
+  <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/master/screenshots/screenshot-1.png">
 </details>
