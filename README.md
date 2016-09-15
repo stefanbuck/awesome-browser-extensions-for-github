@@ -12,7 +12,6 @@
 - [GitHub AST Viewer](#github-ast-viewer)
 - [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
 - [GitHub Categoric](#github-categoric)
-- [GitHub Classifier](#github-classifier)
 - [GitHub Email Extractor](#github-email-extractor)
 - [GitHub Extended](#github-extended)
 - [GitHub Grouped News](#github-grouped-news)
@@ -120,16 +119,6 @@ Categorize your mixed GitHub notifications
 
 <details><summary>Screenshots</summary>
  ![GitHub Categoric](https://dl.dropboxusercontent.com/u/15056258/screeen.png)
-</details>
-
-
-## [GitHub Classifier](https://github.com/prabhakar267/github-classifier)
-<a href="https://chrome.google.com/webstore/detail/github-classifier/kdbnkkmpgelemganemfbojehfobhkgcl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
-
-Extension to linguistically classify and count the number of repositories according to filters for any user on GitHub
-
-<details><summary>Screenshots</summary>
- ![GitHub Classifier](https://raw.githubusercontent.com/prabhakar267/github-classifier/master/assets/images/zR1pRX8GsnHVQ74w33Jh.gif)
 </details>
 
 
