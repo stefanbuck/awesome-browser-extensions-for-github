@@ -6,6 +6,7 @@
 ## Table of Content
 
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
+- [CoderStats link for GitHub](#coderstats-link-for-github)
 - [Contributors on GitHub](#contributors-on-github)
 - [Follow Me or Not](#follow-me-or-not)
 - [GifHub](#gifhub)
@@ -58,6 +59,18 @@ Free for open source repositories.
 
 <details><summary>Screenshots</summary>
 ![Codecov](https://cloud.githubusercontent.com/assets/2041757/10658044/5a971f60-7893-11e5-8e89-a51cac2b21cf.png)
+</details>
+
+
+## [CoderStats link for GitHub](https://github.com/coderstats/cxt_coderstats)
+<a href="https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/coderstats/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/firefox/firefox_48x48.png" width="24" /></a>
+
+The CoderStats link for Github Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on Github.
+
+<details><summary>Screenshots</summary>
+![GitHub Profile](https://raw.githubusercontent.com/coderstats/cxt_coderstats/master/Screenshot_Github_Coderstats_yaph.png)
+![CoderStats Profile](https://raw.githubusercontent.com/coderstats/cxt_coderstats/master/Screenshot_Coderstats_yaph.png)
 </details>
 
 
