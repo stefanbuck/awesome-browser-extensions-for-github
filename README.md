@@ -38,6 +38,7 @@
 - [Octomerge](#octomerge)
 - [OctoPreview](#octopreview)
 - [Octotree](#octotree)
+- [OctoTern](#octotern)
 - [Pages2Repo](#pages2repo)
 - [PR file filter for Github](#pr-file-filter-for-github)
 - [Refined GitHub](#refined-github)
@@ -404,6 +405,15 @@ Useful for developers who frequently read source in GitHub and do not want to do
 
 <details><summary>Screenshots</summary>
  ![Octotree](https://dl.dropboxusercontent.com/s/87zbki7vvkucphr/octotree.jpg)
+</details>
+
+## [OctoTern](https://github.com/mattzeunert/OctoTern)
+<a href="https://chrome.google.com/webstore/detail/octotern/fhgodjaafcddpfdpfmoimnjpelemhnmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png" width="24" /></a>
+
+Jump to a variable's definition when viewing JavaScript code on Github. Also highlights all variable refernces.
+
+<details><summary>Screenshots</summary>
+ ![OctoTern](https://cloud.githubusercontent.com/assets/1303660/16002717/0198e584-3151-11e6-8ac3-21758d36aa58.gif)
 </details>
 
 
