@@ -25,6 +25,7 @@
 - [Github Repo Size](#github-repo-size)
 - [Github Travis Stat](#github-travis-stat)
 - [github.expandinizr](#github.expandinizr)
+- [GitSense](#gitsense)
 - [Gitter Helper](#gitter-helper)
 - [Hide files on GitHub](#hide-files-on-github)
 - [Isometric Contributions](#isometric-contributions)
@@ -256,6 +257,15 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 <details><summary>Screenshots</summary>
  ![github.expandinizr](https://dl.dropboxusercontent.com/s/7e9g9g0l445j90m/github-expandinizr.jpg)
+</details>
+
+## [GitSense](https://github.com/gitsense/insight)
+<a href="https://chrome.google.com/webstore/detail/gitsense-insight/fgnjcebdincofoebkahonlphjoiinglo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Makes searching in GitHub better. With GitHub, you can only search one branch per non-forked repository. With [GitSense](https://gitsense.com), you search any branch, from any repository, and much more.
+
+<details><summary>Screenshots</summary>
+ ![gitsense](https://raw.githubusercontent.com/gitsense/insight/misc_images/images/search-any-branch.png)
 </details>
 
 
