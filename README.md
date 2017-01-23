@@ -13,6 +13,7 @@
 - [GitHub AST Viewer](#github-ast-viewer)
 - [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
 - [GitHub Categoric](#github-categoric)
+- [GitHub Custom Tab Size](#github-custom-tab-size)
 - [GitHub Email Extractor](#github-email-extractor)
 - [GitHub Extended](#github-extended)
 - [GitHub Grouped News](#github-grouped-news)
@@ -134,6 +135,16 @@ Categorize your mixed GitHub notifications
 
 <details><summary>Screenshots</summary>
  ![GitHub Categoric](https://dl.dropboxusercontent.com/u/15056258/screeen.png)
+</details>
+
+
+## [GitHub Custom Tab Size](https://github.com/lukechilds/github-custom-tab-size)
+<a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Set custom tab size for code view on GitHub.com
+
+<details><summary>Screenshots</summary>
+ ![GitHub Custom Tab Size](https://i.imgur.com/Y3Rf9SF.gif)
 </details>
 
 
