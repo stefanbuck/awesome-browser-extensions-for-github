@@ -192,8 +192,9 @@ Highlight selected word in GitHub source view like Sublime Text.
 <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 <a href="https://addons.opera.com/en/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+<a href="https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
-Neat user/repo/issue hovercard for GitHub.
+Neat hovercards for GitHub.
 
 <details><summary>Screenshots</summary>
  ![GitHub Hovercard](https://raw.githubusercontent.com/Justineo/github-hovercard/master/screenshots/2.png)
