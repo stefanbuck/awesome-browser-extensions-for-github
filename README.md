@@ -21,6 +21,7 @@
 - [GitHub Hovercard](#github-hovercard)
 - [GitHub Markdown Outline Extension](#github-markdown-outline-extension)
 - [GitHub Omnibar](#github-omnibar)
+- [GitHub News Pics](#github-news-pics)
 - [Github Plus](#github-plus)
 - [GitHub Pr Filter](#github-pr-filter)
 - [Github Repo Size](#github-repo-size)
@@ -208,6 +209,15 @@ Displays a clickable outline of all topic headers for markdown documents on GitH
 
 <details><summary>Screenshots</summary>
  ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
+</details>
+
+## [GitHub News Pics](https://github.com/surdu/github-news-pics)
+<a href="https://chrome.google.com/webstore/detail/github-news-pics/fkdieaaoplknkhnhbfmbacphglmenppg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Show pictures for all entries in the news feed on GitHub's dashboard
+
+<details><summary>Screenshots</summary>
+ ![](https://cloud.githubusercontent.com/assets/11520795/22998679/79690376-f3e0-11e6-8623-d96e565e1878.jpg)
 </details>
 
 
