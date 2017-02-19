@@ -42,6 +42,7 @@
 - [OctoPreview](#octopreview)
 - [Octotree](#octotree)
 - [OctoTern](#octotern)
+- [Package Hub](#package-hub)
 - [Pages2Repo](#pages2repo)
 - [PR file filter for Github](#pr-file-filter-for-github)
 - [Refined GitHub](#refined-github)
@@ -448,6 +449,14 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
  ![OctoTern](https://cloud.githubusercontent.com/assets/1303660/16002717/0198e584-3151-11e6-8ac3-21758d36aa58.gif)
 </details>
 
+## [Package Hub](https://github.com/BrainMaestro/packagehub)
+<a href="https://chrome.google.com/webstore/detail/package-hub/hnnjnbmjanpeoeapjllonejjgoonilal"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+This package lists the dependencies in the package files of the various packages you encounter while browsing github.
+
+<details><summary>Screenshots</summary>
+ ![Package Hub](https://raw.githubusercontent.com/BrainMaestro/packagehub/master/screenshot.png)
+</details>
 
 ## [Pages2Repo](https://github.com/Frozenfire92/Pages2Repo)
 <a href="https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
