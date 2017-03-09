@@ -195,6 +195,7 @@ Highlight selected word in GitHub source view like Sublime Text.
 <a href="https://addons.mozilla.org/en-US/firefox/addon/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 <a href="https://addons.opera.com/en/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 <a href="https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Justineo/github-hovercard/tree/master/extensions/github-hovercard.safariextension"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Neat hovercards for GitHub.
 
