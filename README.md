@@ -129,7 +129,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 
 
 ## [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete)
-<a href="https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Simple and discreet extension that enhances GitHub's search, letting you search for repositories and people faster than ever.
@@ -179,7 +179,7 @@ A Chrome extension to discover more repositories
 
 
 ## [GitHub Clean Feed](https://github.com/bfred-it/github-clean-feed)
-<a href="https://chrome.google.com/webstore/detail/github-grouped-news/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/github-clean-feed/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Group stars, forks, and other events in your dashboard/news feed.
 
@@ -279,7 +279,7 @@ Automatically adds repository size to GitHub's repository summary.
 This extension is to display travis-ci status for repos in github. There is a visual chart which shows build status and duration changes for recent 10 times.
 
 <details><summary>Screenshots</summary>
-  <img src='http://yaowenjie.github.io/images/2016/travis0.png'/>
+  <img src='https://yaowenjie.github.io/images/2016/travis0.png'/>
 </details>
 
 
@@ -379,8 +379,8 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 </details>
 
 
-## [npm-hub](https://github.com/zeke/npm-hub)
-<a href="https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+## [npm-hub](https://github.com/npmhub/npmhub)
+<a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
