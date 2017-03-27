@@ -10,6 +10,7 @@
 - [Contributors on GitHub](#contributors-on-github)
 - [Follow Me or Not](#follow-me-or-not)
 - [GifHub](#gifhub)
+- [Git Git Hooray](#git-git-hooray)
 - [GitHub AST Viewer](#github-ast-viewer)
 - [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
 - [GitHub Categoric](#github-categoric)
@@ -108,6 +109,14 @@ A Chrome extension that adds a button on GitHub comment toolbars, allowing you t
  ![GifHub](https://cloud.githubusercontent.com/assets/1393946/13860430/911b4ce6-ec88-11e5-9952-11f19baa0190.gif)
 </details>
 
+## [Git Git Hooray](https://github.com/paulmolluzzo/git-git-hooray)
+<a href="https://chrome.google.com/webstore/detail/git-git-hooray/hdonhjpoakhlbpmehiogeaknnfdlgnad"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+A Chrome extension that celebrates first time contributors on GitHub with emoji!
+
+<details><summary>Gif Screenshot</summary>
+ ![Git Git Hooray](https://raw.githubusercontent.com/paulmolluzzo/git-git-hooray/65315b0714cefb68e3daf7a4fc9cb34c7a0fbe1e/git-git-hooray.gif)
+</details>
 
 ## [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer)
 <a href="https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
