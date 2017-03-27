@@ -419,12 +419,12 @@ Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo depend
 
 
 ## [Octomerge](https://github.com/tennisonchan/octomerge)
-<a href="https://chrome.google.com/webstore/detail/octomerge/bcfdlpkdamkbcidkenogbahohlnonebo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24"/></a>
+<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24"/>
 
 A missing button for automatic merge on build succeeds on Github. If you've reviewed a merge request, but the CI builds are still running, it can be annoying to have to wait for them to finish. This way, you don't have to wait for the builds to finish and remember to merge the request manually. Less waiting, more reviewing!
 
 <details><summary>Screenshots</summary>
-  <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/master/src/screenshots/screenshot-1.png">
+  <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/351bc660a7ad994f7f671a7a8365b09b0316c3f5/screenshots/screenshot-1.png">
 </details>
 
 
