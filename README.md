@@ -17,7 +17,7 @@
 - [GitHub Custom Tab Size](#github-custom-tab-size)
 - [GitHub Email Extractor](#github-email-extractor)
 - [GitHub Extended](#github-extended)
-- [GitHub Grouped News](#github-grouped-news)
+- [GitHub Clean Feed](#github-clean-feed)
 - [GitHub Highlight Selected](#github-highlight-selected)
 - [GitHub Hovercard](#github-hovercard)
 - [GitHub Markdown Outline Extension](#github-markdown-outline-extension)
@@ -129,7 +129,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 
 
 ## [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete)
-<a href="https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/github-awesome-autocomplete/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Simple and discreet extension that enhances GitHub's search, letting you search for repositories and people faster than ever.
@@ -178,13 +178,13 @@ Chrome extension to fetch the email ID of a user even if they haven't made it pu
 A Chrome extension to discover more repositories
 
 
-## [GitHub Grouped News](https://github.com/bfred-it/GitHub-Grouped-News)
-<a href="https://chrome.google.com/webstore/detail/github-grouped-news/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+## [GitHub Clean Feed](https://github.com/bfred-it/github-clean-feed)
+<a href="https://chrome.google.com/webstore/detail/github-clean-feed/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Group stars, forks, and other events in your dashboard/news feed.
 
 <details><summary>Screenshots</summary>
-  <img src="https://raw.githubusercontent.com/bfred-it/GitHub-Grouped-News/master/screenshot.png">
+  <img src="https://raw.githubusercontent.com/bfred-it/github-clean-feed/55c02c964161bb0886a5750eeeb57a5ae86bb33d/screenshot.png">
 </details>
 
 
@@ -279,7 +279,7 @@ Automatically adds repository size to GitHub's repository summary.
 This extension is to display travis-ci status for repos in github. There is a visual chart which shows build status and duration changes for recent 10 times.
 
 <details><summary>Screenshots</summary>
-  <img src='http://yaowenjie.github.io/images/2016/travis0.png'/>
+  <img src='https://yaowenjie.github.io/images/2016/travis0.png'/>
 </details>
 
 
@@ -379,9 +379,8 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 </details>
 
 
-## [npm-hub](https://github.com/zeke/npm-hub)
-<a href="https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-<a href="http://crossrider.com/install/36212-npm-hub"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+## [npm-hub](https://github.com/npmhub/npmhub)
+<a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
@@ -419,12 +418,12 @@ Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo depend
 
 
 ## [Octomerge](https://github.com/tennisonchan/octomerge)
-<a href="https://chrome.google.com/webstore/detail/octomerge/bcfdlpkdamkbcidkenogbahohlnonebo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24"/></a>
+<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24"/>
 
 A missing button for automatic merge on build succeeds on Github. If you've reviewed a merge request, but the CI builds are still running, it can be annoying to have to wait for them to finish. This way, you don't have to wait for the builds to finish and remember to merge the request manually. Less waiting, more reviewing!
 
 <details><summary>Screenshots</summary>
-  <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/master/src/screenshots/screenshot-1.png">
+  <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/351bc660a7ad994f7f671a7a8365b09b0316c3f5/screenshots/screenshot-1.png">
 </details>
 
 
