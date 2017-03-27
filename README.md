@@ -17,7 +17,7 @@
 - [GitHub Custom Tab Size](#github-custom-tab-size)
 - [GitHub Email Extractor](#github-email-extractor)
 - [GitHub Extended](#github-extended)
-- [GitHub Grouped News](#github-grouped-news)
+- [GitHub Clean Feed](#github-clean-feed)
 - [GitHub Highlight Selected](#github-highlight-selected)
 - [GitHub Hovercard](#github-hovercard)
 - [GitHub Markdown Outline Extension](#github-markdown-outline-extension)
@@ -178,13 +178,13 @@ Chrome extension to fetch the email ID of a user even if they haven't made it pu
 A Chrome extension to discover more repositories
 
 
-## [GitHub Grouped News](https://github.com/bfred-it/GitHub-Grouped-News)
+## [GitHub Clean Feed](https://github.com/bfred-it/github-clean-feed)
 <a href="https://chrome.google.com/webstore/detail/github-grouped-news/failppjoidijbialknplliogdmabniaf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Group stars, forks, and other events in your dashboard/news feed.
 
 <details><summary>Screenshots</summary>
-  <img src="https://raw.githubusercontent.com/bfred-it/GitHub-Grouped-News/master/screenshot.png">
+  <img src="https://raw.githubusercontent.com/bfred-it/github-clean-feed/55c02c964161bb0886a5750eeeb57a5ae86bb33d/screenshot.png">
 </details>
 
 
