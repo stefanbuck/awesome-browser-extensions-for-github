@@ -31,6 +31,7 @@
 - [GitSense](#gitsense)
 - [Gitter Helper](#gitter-helper)
 - [Hide files on GitHub](#hide-files-on-github)
+- [Infinite Commits](#infinite-commits)
 - [Isometric Contributions](#isometric-contributions)
 - [Lovely forks](#lovely-forks)
 - [MiniGitHub](#minigithub)
@@ -332,6 +333,12 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 <details><summary>Screenshots</summary>
  ![Isometric Contributions](https://dl.dropboxusercontent.com/s/kc1qxqitixx0hfp/isometric-contributions.jpg)
 </details>
+
+
+## [Infinite Commits](https://github.com/papernotes/infinite-commits)
+<a href="https://chrome.google.com/webstore/detail/infinite-commits/emggbgjkjkefhcdljpmfhdkaippihigo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+A Chrome extension for infinite scrolling on GitHub's commit pages.
 
 
 ## [Lovely forks](https://github.com/musically-ut/lovely-forks)
