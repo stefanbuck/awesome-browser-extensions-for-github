@@ -467,7 +467,7 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
 </details>
 
 ## [OctoTab](https://github.com/lockys/Octotab.crx)
-<a href="https://chrome.google.com/webstore/detail/octotern/fhgodjaafcddpfdpfmoimnjpelemhnmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/octotab/llfamhakdognknlckipgfkmikollbeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 ⚒ A super tiny chrome extension making your Github news feed more organized
 
