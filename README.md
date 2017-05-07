@@ -44,6 +44,7 @@
 - [OctoPreview](#octopreview)
 - [Octotree](#octotree)
 - [OctoTern](#octotern)
+- [Octotab](#octotab)
 - [Package Hub](#package-hub)
 - [Pages2Repo](#pages2repo)
 - [PR file filter for Github](#pr-file-filter-for-github)
@@ -464,6 +465,16 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
 <details><summary>Screenshots</summary>
  ![OctoTern](https://cloud.githubusercontent.com/assets/1303660/16002717/0198e584-3151-11e6-8ac3-21758d36aa58.gif)
 </details>
+
+## [OctoTab](https://github.com/lockys/Octotab.crx)
+<a href="https://chrome.google.com/webstore/detail/octotab/llfamhakdognknlckipgfkmikollbeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+⚒ A super tiny chrome extension making your Github news feed more organized
+
+<details><summary>Screenshots</summary>
+ ![OctoTab](https://raw.githubusercontent.com/lockys/Octotab.crx/master/assets/record.gif)
+</details>
+
 
 ## [Package Hub](https://github.com/BrainMaestro/packagehub)
 <a href="https://chrome.google.com/webstore/detail/package-hub/hnnjnbmjanpeoeapjllonejjgoonilal"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
