@@ -41,6 +41,7 @@
 - [Octo Mate](#octo-mate)
 - [OctoLinker](#octolinker)
 - [Octomerge](#octomerge)
+- [OctoPermalinker](#octopermalinker)
 - [OctoPreview](#octopreview)
 - [Octotree](#octotree)
 - [OctoTern](#octotern)
@@ -432,6 +433,21 @@ A missing button for automatic merge on build succeeds on Github. If you've revi
 
 <details><summary>Screenshots</summary>
   <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/351bc660a7ad994f7f671a7a8365b09b0316c3f5/screenshots/screenshot-1.png">
+</details>
+
+
+## [OctoPermalinker](https://github.com/josephfrazier/octopermalinker)
+<a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Fixes stale source code links in comments and gists.
+
+<details><summary>Screenshots</summary>
+
+### Before
+![Imgur](http://i.imgur.com/0x7mF6h.gif)
+
+### After
+![Imgur](http://i.imgur.com/NmyKDRk.gif)
 </details>
 
 
