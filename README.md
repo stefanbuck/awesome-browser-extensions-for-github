@@ -66,6 +66,7 @@ Overlay code coverage in Github and Bitbucket. Supporting commits, blobs, blame,
 Free for open source repositories.
 
 <details><summary>Screenshots</summary>
+
 ![Codecov](https://cloud.githubusercontent.com/assets/2041757/10658044/5a971f60-7893-11e5-8e89-a51cac2b21cf.png)
 </details>
 
@@ -77,6 +78,7 @@ Free for open source repositories.
 The CoderStats link for Github Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on Github.
 
 <details><summary>Screenshots</summary>
+
 ![GitHub Profile](https://raw.githubusercontent.com/coderstats/cxt_coderstats/master/Screenshot_Github_Coderstats_yaph.png)
 ![CoderStats Profile](https://raw.githubusercontent.com/coderstats/cxt_coderstats/master/Screenshot_Coderstats_yaph.png)
 </details>
@@ -88,6 +90,7 @@ The CoderStats link for Github Chrome extension displays a link to the CoderStat
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
 
 <details><summary>Screenshots</summary>
+
  ![Contributors on GitHub](https://github.com/hzoo/contributors-on-github/blob/master/firstpr.gif)
 </details>
 
@@ -98,6 +101,7 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 Chrome extension to check if the GitHub profile you are visiting, follows you or not in a Twitter-like UI
 
 <details><summary>Screenshots</summary>
+
  ![Follow Me or Not](https://raw.githubusercontent.com/mkstn/follow-me-or-not/master/assets/images/Screenshot%20from%202016-08-14%2003%3A07%3A39.png)
 </details>
 
@@ -108,6 +112,7 @@ Chrome extension to check if the GitHub profile you are visiting, follows you or
 A Chrome extension that adds a button on GitHub comment toolbars, allowing you to search for (and include) GIFs in comments.
 
 <details><summary>Screenshots</summary>
+
  ![GifHub](https://cloud.githubusercontent.com/assets/1393946/13860430/911b4ce6-ec88-11e5-9952-11f19baa0190.gif)
 </details>
 
@@ -117,6 +122,7 @@ A Chrome extension that adds a button on GitHub comment toolbars, allowing you t
 A Chrome extension that celebrates first time contributors on GitHub with emoji!
 
 <details><summary>Gif Screenshot</summary>
+
  ![Git Git Hooray](https://raw.githubusercontent.com/paulmolluzzo/git-git-hooray/65315b0714cefb68e3daf7a4fc9cb34c7a0fbe1e/git-git-hooray.gif)
 </details>
 
@@ -126,6 +132,7 @@ A Chrome extension that celebrates first time contributors on GitHub with emoji!
 View the abstract syntax tree (AST) of code on GitHub.
 
 <details><summary>Screenshots</summary>
+
  ![GitHub AST Viewer](http://i.imgur.com/jumGRMd.gif)
 </details>
 
@@ -137,6 +144,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 Simple and discreet extension that enhances GitHub's search, letting you search for repositories and people faster than ever.
 
 <details><summary>Screenshots</summary>
+
  ![Pages2Repo](https://dl.dropboxusercontent.com/s/zg3cblx3q8fhbkl/github-awesome-autocomplete.jpg)
 </details>
 
@@ -147,6 +155,7 @@ Simple and discreet extension that enhances GitHub's search, letting you search 
 Categorize your mixed GitHub notifications
 
 <details><summary>Screenshots</summary>
+
  ![GitHub Categoric](https://dl.dropboxusercontent.com/u/15056258/screeen.png)
 </details>
 
@@ -157,6 +166,7 @@ Categorize your mixed GitHub notifications
 Set custom tab size for code view on GitHub.com
 
 <details><summary>Screenshots</summary>
+
  ![GitHub Custom Tab Size](https://i.imgur.com/Y3Rf9SF.gif)
 </details>
 
@@ -167,6 +177,7 @@ Set custom tab size for code view on GitHub.com
 Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
 
 <details><summary>Screenshots</summary>
+
 | Before | After |
 | --- | --- |
 | ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-09-33.png) | ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-05-54.png) |
@@ -186,6 +197,7 @@ A Chrome extension to discover more repositories
 Group stars, forks, and other events in your dashboard/news feed.
 
 <details><summary>Screenshots</summary>
+
   <img src="https://raw.githubusercontent.com/bfred-it/github-clean-feed/55c02c964161bb0886a5750eeeb57a5ae86bb33d/screenshot.png">
 </details>
 
@@ -197,6 +209,7 @@ Group stars, forks, and other events in your dashboard/news feed.
 Highlight selected word in GitHub source view like Sublime Text.
 
 <details><summary>Screenshots</summary>
+
  ![GitHub Highlight Selected](https://dl.dropboxusercontent.com/s/2un7ezpdipunn70/github-highlight-selected.jpg)
 </details>
 
@@ -211,6 +224,7 @@ Highlight selected word in GitHub source view like Sublime Text.
 Neat hovercards for GitHub.
 
 <details><summary>Screenshots</summary>
+
  ![GitHub Hovercard](https://raw.githubusercontent.com/Justineo/github-hovercard/master/screenshots/2.png)
 </details>
 
@@ -221,6 +235,7 @@ Neat hovercards for GitHub.
 Displays a clickable outline of all topic headers for markdown documents on GitHub
 
 <details><summary>Screenshots</summary>
+
  ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
 </details>
 
@@ -230,6 +245,7 @@ Displays a clickable outline of all topic headers for markdown documents on GitH
 Show pictures for all entries in the news feed on GitHub's dashboard
 
 <details><summary>Screenshots</summary>
+
  ![](https://cloud.githubusercontent.com/assets/11520795/22998679/79690376-f3e0-11e6-8623-d96e565e1878.jpg)
 </details>
 
@@ -241,6 +257,7 @@ Show pictures for all entries in the news feed on GitHub's dashboard
 Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
 
 <details><summary>Screenshots</summary>
+
  ![](https://cloud.githubusercontent.com/assets/1235045/13912608/00623f8a-ef7a-11e5-92dc-20cd9815007d.png)
 </details>
 
@@ -251,6 +268,7 @@ Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
 <details><summary>Screenshots</summary>
+
   <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-home.png">
   <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-file.png">
 </details>
@@ -262,6 +280,7 @@ Displays size of each file, download link and an option of copying file contents
 Add ability to filter files in pull requests.
 
 <details><summary>Screenshots</summary>
+
  ![GitHub Pr Filter](https://raw.githubusercontent.com/danielhusar/github-pr-filter/master/demo.png)
 </details>
 
@@ -271,6 +290,7 @@ Add ability to filter files in pull requests.
 Automatically adds repository size to GitHub's repository summary.
 
 <details><summary>Screenshots</summary>
+
   <img src="https://raw.githubusercontent.com/harshjv/github-repo-size/master/screenshot.png">
 </details>
 
@@ -281,6 +301,7 @@ Automatically adds repository size to GitHub's repository summary.
 This extension is to display travis-ci status for repos in github. There is a visual chart which shows build status and duration changes for recent 10 times.
 
 <details><summary>Screenshots</summary>
+
   <img src='https://yaowenjie.github.io/images/2016/travis0.png'/>
 </details>
 
@@ -291,6 +312,7 @@ This extension is to display travis-ci status for repos in github. There is a vi
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
 <details><summary>Screenshots</summary>
+
  ![github.expandinizr](https://dl.dropboxusercontent.com/s/7e9g9g0l445j90m/github-expandinizr.jpg)
 </details>
 
@@ -300,6 +322,7 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 Makes searching in GitHub better. With GitHub, you can only search one branch per non-forked repository. With [GitSense](https://gitsense.com), you search any branch, from any repository, and much more.
 
 <details><summary>Screenshots</summary>
+
  ![gitsense](https://raw.githubusercontent.com/gitsense/insight/misc_images/images/search-any-branch.png)
 </details>
 
@@ -310,6 +333,7 @@ Makes searching in GitHub better. With GitHub, you can only search one branch pe
 Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 
 <details><summary>Screenshots</summary>
+
  ![Gitter Helper](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
 </details>
 
@@ -321,6 +345,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 Hide dotfiles from the GitHub file browser.
 
 <details><summary>Screenshots</summary>
+
  ![Hide files on GitHub](https://dl.dropboxusercontent.com/s/80jpb795dckfel7/github-hide-files.jpg)
 </details>
 
@@ -332,6 +357,7 @@ Hide dotfiles from the GitHub file browser.
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
 <details><summary>Screenshots</summary>
+
  ![Isometric Contributions](https://dl.dropboxusercontent.com/s/kc1qxqitixx0hfp/isometric-contributions.jpg)
 </details>
 
@@ -349,6 +375,7 @@ A Chrome extension for infinite scrolling on GitHub's commit pages.
 See forks with the most stars under the names of repositories.
 
 <details><summary>Screenshots</summary>
+
  ![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
 </details>
 
@@ -359,6 +386,7 @@ See forks with the most stars under the names of repositories.
 An add-on for a quick gist of Github.
 
 <details><summary>Screenshots</summary>
+
 ![Trend Screen](https://raw.githubusercontent.com/mbad0la/MiniGitHub/master/screenshots/minigithub.gif)
 </details>
 
@@ -370,6 +398,7 @@ An add-on for a quick gist of Github.
 A Chrome and Firefox extension that shows notifications when something happens in your GitHub news feed.
 
 <details><summary>Screenshots</summary>
+
  ![News Feed for GitHub](https://raw.githubusercontent.com/julmot/news-feed-for-github/master/screenshots/chrome.png)
 </details>
 
@@ -383,6 +412,7 @@ A Chrome and Firefox extension that shows notifications when something happens i
 Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
 <details><summary>Screenshots</summary>
+
  ![Notifier for GitHub](https://dl.dropboxusercontent.com/s/c7egcrhq1wvff5r/github-notifier.jpg)
 </details>
 
@@ -393,6 +423,7 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
 <details><summary>Screenshots</summary>
+
   <img width="531" src="https://cloud.githubusercontent.com/assets/1393946/15631842/9dfd38f6-257d-11e6-96b8-f7008937e1ad.png">
 </details>
 
@@ -409,6 +440,7 @@ Adds various useful features to GitHub:
 5. Tab size customising between 2/4/8 whitespace.
 
 <details><summary>Screenshots</summary>
+
  ![Download file](https://lh3.googleusercontent.com/kTEhmep4hM1Mknr1ILHgFVIzS8a-WszsdKjV0qH8Qjp7M-rbYA-yNR-WA6voWY7gtG9DIBn7Uw=s640-h400-e365-rw)
 </details>
 
@@ -421,6 +453,7 @@ Adds various useful features to GitHub:
 Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statments in a .js, .jsx, .coffee or .md file.
 
 <details><summary>Screenshots</summary>
+
  ![OctoLinker](https://dl.dropboxusercontent.com/s/wl0s1rishc4e8lu/github-linker.jpg)
 </details>
 
@@ -431,6 +464,7 @@ Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo depend
 A missing button for automatic merge on build succeeds on Github. If you've reviewed a merge request, but the CI builds are still running, it can be annoying to have to wait for them to finish. This way, you don't have to wait for the builds to finish and remember to merge the request manually. Less waiting, more reviewing!
 
 <details><summary>Screenshots</summary>
+
   <img src="https://raw.githubusercontent.com/tennisonchan/octomerge/351bc660a7ad994f7f671a7a8365b09b0316c3f5/screenshots/screenshot-1.png">
 </details>
 
@@ -441,6 +475,7 @@ A missing button for automatic merge on build succeeds on Github. If you've revi
 Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
 
 <details><summary>Screenshots</summary>
+
  ![GitHub OctoPreview Extension](https://raw.githubusercontent.com/DrewML/octo-preview/master/example.gif)
 </details>
 
@@ -454,6 +489,7 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
 <details><summary>Screenshots</summary>
+
  ![Octotree](https://dl.dropboxusercontent.com/s/87zbki7vvkucphr/octotree.jpg)
 </details>
 
@@ -463,6 +499,7 @@ Useful for developers who frequently read source in GitHub and do not want to do
 Jump to a variable's definition when viewing JavaScript code on Github. Also highlights all variable refernces.
 
 <details><summary>Screenshots</summary>
+
  ![OctoTern](https://cloud.githubusercontent.com/assets/1303660/16002717/0198e584-3151-11e6-8ac3-21758d36aa58.gif)
 </details>
 
@@ -472,6 +509,7 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
 ⚒ A super tiny chrome extension making your Github news feed more organized
 
 <details><summary>Screenshots</summary>
+
  ![OctoTab](https://raw.githubusercontent.com/lockys/Octotab.crx/master/assets/record.gif)
 </details>
 
@@ -482,6 +520,7 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
 This package lists the dependencies in the package files of the various packages you encounter while browsing github.
 
 <details><summary>Screenshots</summary>
+
  ![Package Hub](https://raw.githubusercontent.com/BrainMaestro/packagehub/master/screenshot.png)
 </details>
 
@@ -491,6 +530,7 @@ This package lists the dependencies in the package files of the various packages
 Makes it easy to access repository info from a GitHub pages website.
 
 <details><summary>Screenshots</summary>
+
  ![Pages2Repo](https://cloud.githubusercontent.com/assets/1393946/11908410/4027dc66-a5dc-11e5-9bce-b028aa884c9a.png)
 </details>
 
@@ -501,6 +541,7 @@ Makes it easy to access repository info from a GitHub pages website.
 This Chrome extension extends the file search of a pull request to allow for actual filtering with globs.
 
 <details><summary>Screenshots</summary>
+
   <img src="https://raw.githubusercontent.com/siggysamson/pr-file-filter-for-github/master/assets/demo.gif">
 </details>
 
@@ -512,6 +553,7 @@ This Chrome extension extends the file search of a pull request to allow for act
 Extension that simplifies the GitHub interface and adds useful features.
 
 <details><summary>Screenshots</summary>
+
  ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/screenshot-dashboard.png)
 </details>
 
@@ -530,6 +572,7 @@ Review repositories on GitHub like a Pull Request. This extension adds the abili
 Show both Issues and Pull Requests in the Issues tab by default. As it previously did.
 
 <details><summary>Screenshots</summary>
+
  ![Show All GitHub Issues](https://raw.githubusercontent.com/sindresorhus/show-all-github-issues/master/screenshot.png)
 </details>
 
@@ -541,6 +584,7 @@ Show both Issues and Pull Requests in the Issues tab by default. As it previousl
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
 <details><summary>Screenshots</summary>
+
  ![Tab Size on GitHub](https://dl.dropboxusercontent.com/s/srd0ik8tbpjzi0v/github-tab-size.jpg)
 </details>
 
@@ -551,6 +595,7 @@ Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 Infers or tries to find GitHub users' Twitter handles and present them to you in the GitHub interface.
 
 <details><summary>Screenshots</summary>
+
  ![](https://cloud.githubusercontent.com/assets/1393946/14272254/9a83b0a2-fb01-11e5-8d04-52687ae367f8.png)
 </details>
 
@@ -561,6 +606,7 @@ Infers or tries to find GitHub users' Twitter handles and present them to you in
 Whereisit makes code navigation on GitHub easier. Look up and jump around class/method definitions with a single click.
 
 <details><summary>Screenshots</summary>
+
  ![](https://cloud.githubusercontent.com/assets/1393946/15090769/d0472958-1433-11e6-8af0-c5294aae94d6.png)
 </details>
 
@@ -572,5 +618,6 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
 <details><summary>Screenshots</summary>
+
  ![ZenHub](https://dl.dropboxusercontent.com/s/yosmyg8zsl5tyc5/zenhub.jpg)
 </details>
