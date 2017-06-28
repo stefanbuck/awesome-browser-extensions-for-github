@@ -5,6 +5,7 @@
 
 ## Table of Content
 
+- [Builds Tab for Github](#builds-tab-for-github)
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [CoderStats link for GitHub](#coderstats-link-for-github)
 - [Contributors on GitHub](#contributors-on-github)
@@ -56,6 +57,17 @@
 - [Twitter for GitHub](#twitter-for-github)
 - [Where is it?](#where-is-it)
 - [ZenHub](#zenhub)
+
+
+## [Builds Tab for Github](https://github.com/duxet/builds-tab)
+<a href="https://chrome.google.com/webstore/detail/builds-tab-for-github/jnmdkbflmkjehkkdbjdfpmhgdafpcdkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/builds-tab-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+This extension will add "builds" tab to Github in your browser.
+
+<details><summary>Screenshots</summary>
+![Builds Tab for Github](https://i.imgur.com/r85028r.png)
+</details>
 
 
 ## [Codecov: Code Coverage Overlay](https://codecov.io)
