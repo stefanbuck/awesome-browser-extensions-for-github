@@ -40,6 +40,7 @@
 - [Notifier for GitHub](#notifier-for-github)
 - [npm-hub](#npm-hub)
 - [Octo Mate](#octo-mate)
+- [OctoEdit](#octoedit)
 - [OctoLinker](#octolinker)
 - [Octomerge](#octomerge)
 - [OctoPermalinker](#octopermalinker)
@@ -455,6 +456,17 @@ Adds various useful features to GitHub:
 <details><summary>Screenshots</summary>
 
  ![Download file](https://lh3.googleusercontent.com/kTEhmep4hM1Mknr1ILHgFVIzS8a-WszsdKjV0qH8Qjp7M-rbYA-yNR-WA6voWY7gtG9DIBn7Uw=s640-h400-e365-rw)
+</details>
+
+
+## [OctoEdit](https://github.com/DrewML/OctoEdit)
+<a href="https://chrome.google.com/webstore/detail/octoedit/ecnglinljpjkbgmdpeiglonddahpbkeb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+OctoEdit is a Browser Extension which adds a new tab to the comment edit area in GitHub, providing Markdown syntax highlighting and tabbing behavior.
+
+<details><summary>Screenshots</summary>
+
+ ![OctoEdit](https://github.com/DrewML/OctoEdit/raw/master/example.gif)
 </details>
 
 
