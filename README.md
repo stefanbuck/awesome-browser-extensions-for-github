@@ -591,7 +591,7 @@ Extension that simplifies the GitHub interface and adds useful features.
 
 <details><summary>Screenshots</summary>
 
- ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/screenshot-dashboard.png)
+ ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/media/screenshot-dashboard.png)
 </details>
 
 
