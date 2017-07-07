@@ -36,7 +36,7 @@
 - [Isometric Contributions](#isometric-contributions)
 - [Lovely forks](#lovely-forks)
 - [MiniGitHub](#minigithub)
-- [My Git Repo News](#github-extension-my-repo-news)
+- [My Git Repo News](#my-git-repo-news)
 - [News Feed for GitHub](#news-feed-for-github)
 - [Notifier for GitHub](#notifier-for-github)
 - [npm-hub](#npm-hub)
