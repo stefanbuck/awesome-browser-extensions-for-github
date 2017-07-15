@@ -433,6 +433,7 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 
 ## [npm-hub](https://github.com/npmhub/npmhub)
 <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/firefox/addon/npm-hub/?src=search"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
