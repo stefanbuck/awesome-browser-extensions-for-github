@@ -36,6 +36,7 @@
 - [Isometric Contributions](#isometric-contributions)
 - [Lovely forks](#lovely-forks)
 - [MiniGitHub](#minigithub)
+- [My Git Repo News](#my-git-repo-news)
 - [News Feed for GitHub](#news-feed-for-github)
 - [Notifier for GitHub](#notifier-for-github)
 - [npm-hub](#npm-hub)
@@ -402,6 +403,18 @@ An add-on for a quick gist of Github.
 <details><summary>Screenshots</summary>
 
 ![Trend Screen](https://raw.githubusercontent.com/mbad0la/MiniGitHub/master/screenshots/minigithub.gif)
+</details>
+
+
+## [My Git Repo News](https://github.com/greybax/github-extension-my-repo-news)
+<a href="https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension which helps you not to miss important changes in your news thread related to your repo
+
+<details><summary>Screenshots</summary>
+
+ ![Before](https://raw.githubusercontent.com/greybax/github-extension-my-repo-news/master/images/before.png)
+ ![After](https://raw.githubusercontent.com/greybax/github-extension-my-repo-news/master/images/after.png)
 </details>
 
 
