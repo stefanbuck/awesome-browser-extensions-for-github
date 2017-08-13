@@ -16,6 +16,7 @@
 - [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
 - [GitHub Categoric](#github-categoric)
 - [GitHub Custom Tab Size](#github-custom-tab-size)
+- [GitHub Diffs](#github-diffs)
 - [GitHub Email Extractor](#github-email-extractor)
 - [GitHub Extended](#github-extended)
 - [GitHub Clean Feed](#github-clean-feed)
@@ -185,6 +186,15 @@ Set custom tab size for code view on GitHub.com
  ![GitHub Custom Tab Size](https://i.imgur.com/Y3Rf9SF.gif)
 </details>
 
+## [GitHub Diffs](https://github.com/kamranahmedse/github-diffs)
+<a href="https://chrome.google.com/webstore/detail/github-diffs/dhcpmhfjmlgjfhpeeloohoffbmpjfmgh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Expand and collapse file diffs on GitHub.com
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Diffs](https://lh3.googleusercontent.com/AWUu9P702CPbmnOHf5ouw4t8-qf29eA00wdRUmsbXF79-NPbJyDaTNLMZzTCLOQneB-kBtCUBx0=w640-h400-e365)
+</details>
 
 ## [GitHub Email Extractor](https://github.com/prabhakar267/github-email-extractor)
 <a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
