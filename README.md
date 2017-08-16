@@ -35,6 +35,7 @@
 - [Hide files on GitHub](#hide-files-on-github)
 - [Infinite Commits](#infinite-commits)
 - [Isometric Contributions](#isometric-contributions)
+- [Like On Github](#like-on-github)
 - [Lovely forks](#lovely-forks)
 - [MiniGitHub](#minigithub)
 - [My Git Repo News](#my-git-repo-news)
@@ -392,6 +393,15 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 
 A Chrome extension for infinite scrolling on GitHub's commit pages.
 
+## [Like On Github](https://github.com/Idnan/like-on-github)
+<a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension that lets you save links to a Github repository
+
+<details><summary>Screenshots</summary>
+
+ ![Like On Github](http://i.imgur.com/hUC9ed8r.png)
+</details>
 
 ## [Lovely forks](https://github.com/musically-ut/lovely-forks)
 <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
