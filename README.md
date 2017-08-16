@@ -5,6 +5,7 @@
 
 ## Table of Content
 
+- [Advanced GitHub Notifier](#advanced-github-notifier)
 - [Builds Tab for Github](#builds-tab-for-github)
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [CoderStats link for GitHub](#coderstats-link-for-github)
@@ -61,6 +62,15 @@
 - [Where is it?](#where-is-it)
 - [ZenHub](#zenhub)
 
+
+## [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier)
+<a href="https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
+
+<details><summary>Screenshots</summary>
+![Advanced GitHub Notifier](http://i.imgur.com/Qy2fbRC.png)
+</details>
 
 ## [Builds Tab for Github](https://github.com/duxet/builds-tab)
 <a href="https://chrome.google.com/webstore/detail/builds-tab-for-github/jnmdkbflmkjehkkdbjdfpmhgdafpcdkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
