@@ -69,6 +69,7 @@
 This extension will add "builds" tab to Github in your browser.
 
 <details><summary>Screenshots</summary>
+
 ![Builds Tab for Github](https://i.imgur.com/r85028r.png)
 </details>
 
