@@ -394,9 +394,9 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 A Chrome extension for infinite scrolling on GitHub's commit pages.
 
 ## [Like On Github](https://github.com/Idnan/like-on-github)
-<a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Chrome extension that lets you save links to a Github repository
+Chrome extension that adds a button in browser and links this button to a Github repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
 
 <details><summary>Screenshots</summary>
 
