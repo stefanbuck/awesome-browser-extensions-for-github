@@ -24,6 +24,7 @@
 - [GitHub Highlight Selected](#github-highlight-selected)
 - [GitHub Hovercard](#github-hovercard)
 - [GitHub Markdown Outline Extension](#github-markdown-outline-extension)
+- [GitHub Npm Stats](#github-npm-stats)
 - [GitHub Omnibar](#github-omnibar)
 - [GitHub News Pics](#github-news-pics)
 - [Github Plus](#github-plus)
@@ -274,6 +275,16 @@ Displays a clickable outline of all topic headers for markdown documents on GitH
 <details><summary>Screenshots</summary>
 
  ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
+</details>
+
+## [GitHub Npm Stats](https://github.com/katranci/github-npm-stats)
+<a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Displays npm package stats on GitHub
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Markdown Outline Extension](https://lh3.googleusercontent.com/0gjsw1qwSb7Dif3RL02oPcTsx2NjlkKe9NOjJL86HzyVulp7akmi2ksSuJHgXj5dJ23lP2Pa=w640-h400-e365)
 </details>
 
 ## [GitHub News Pics](https://github.com/surdu/github-news-pics)
