@@ -522,7 +522,7 @@ OctoEdit is a Browser Extension which adds a new tab to the comment edit area in
 OctoDraft is a Browser Extension which adds a save draft button in the issues section in GitHub, for those times when one doesn't have time to write the whole issue.
 
 <details><summary>Screenshots</summary>
- ![OctoDraft](https://github.com/wildeyes/octodraft/raw/master/on.png)
+ ![OctoDraft](https://raw.githubusercontent.com/wildeyes/octodraft/master/on.png)
 </details>
 
 
