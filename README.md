@@ -47,6 +47,7 @@
 - [Octo Mate](#octo-mate)
 - [OctoEdit](#octoedit)
 - [OctoLinker](#octolinker)
+- [OctoDraft](#octodraft)
 - [Octomerge](#octomerge)
 - [OctoPermalinker](#octopermalinker)
 - [OctoPreview](#octopreview)
@@ -523,6 +524,16 @@ OctoEdit is a Browser Extension which adds a new tab to the comment edit area in
 <details><summary>Screenshots</summary>
 
  ![OctoEdit](https://github.com/DrewML/OctoEdit/raw/master/example.gif)
+</details>
+
+
+## [OctoDraft](https://github.com/wildeyes/OctoDraft)
+<a href="https://chrome.google.com/webstore/detail/octodraft/mjfaidoickdplapkfhajfkehpepmccfg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+OctoDraft is a Browser Extension which adds a save draft button in the issues section in GitHub, for those times when one doesn't have time to write the whole issue.
+
+<details><summary>Screenshots</summary>
+ ![OctoDraft](https://raw.githubusercontent.com/wildeyes/octodraft/master/on.png)
 </details>
 
 
