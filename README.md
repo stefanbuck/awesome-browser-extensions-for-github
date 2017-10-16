@@ -59,6 +59,7 @@
 - [Pages2Repo](#pages2repo)
 - [PR file filter for Github](#pr-file-filter-for-github)
 - [Refined GitHub](#refined-github)
+- [Render Whitespace on GitHub](#render-whitespace-on-github)
 - [Review on GitHub](#review-on-github)
 - [Show All GitHub Issues](#show-all-github-issues)
 - [Tab Size on GitHub](#tab-size-on-github)
@@ -686,6 +687,18 @@ Extension that simplifies the GitHub interface and adds useful features.
  ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/media/screenshot-dashboard.png)
 </details>
 
+
+## [Render Whitespace on GitHub](https://github.com/glebm/render-whitespace-on-github)
+<a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Are they tabs? Are they spaces? How many? Never wonder again!
+Renders spaces as `·` and tabs as `→` in all the code on GitHub.
+
+<details><summary>Screenshots</summary>
+
+ ![Render Whitespace on GitHub](https://raw.githubusercontent.com/glebm/render-whitespace-on-github/master/store-assets/screenshot-render.png)
+</details>
 
 ## [Review on Github](https://github.com/bastilian/ReviewOnGitHub)
 
