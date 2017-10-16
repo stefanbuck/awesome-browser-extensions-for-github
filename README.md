@@ -42,6 +42,7 @@
 - [MiniGitHub](#minigithub)
 - [My Git Repo News](#my-git-repo-news)
 - [News Feed for GitHub](#news-feed-for-github)
+- [Notifications Preview for GitHub](#notifications-preview-for-github)
 - [Notifier for GitHub](#notifier-for-github)
 - [npm-hub](#npm-hub)
 - [Octo Mate](#octo-mate)
@@ -470,6 +471,18 @@ A Chrome and Firefox extension that shows notifications when something happens i
 <details><summary>Screenshots</summary>
 
  ![News Feed for GitHub](https://raw.githubusercontent.com/julmot/news-feed-for-github/master/screenshots/chrome.png)
+</details>
+
+
+## [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github)
+<a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
+
+<details><summary>Screenshots</summary>
+
+<img src="https://raw.githubusercontent.com/tanmayrajani/notifications-preview-github/master/media/screenshot.png" width="640" height="400">
 </details>
 
 
