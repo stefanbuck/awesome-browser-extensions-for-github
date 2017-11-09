@@ -10,6 +10,7 @@
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [CoderStats link for GitHub](#coderstats-link-for-github)
 - [Contributors on GitHub](#contributors-on-github)
+- [Contrib Awakens](#contrib-awakens)
 - [Follow Me or Not](#follow-me-or-not)
 - [GifHub](#gifhub)
 - [Git Git Hooray](#git-git-hooray)
@@ -121,12 +122,20 @@ The CoderStats link for Github Chrome extension displays a link to the CoderStat
 <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
-
 <details><summary>Screenshots</summary>
 
  ![Contributors on GitHub](https://github.com/hzoo/contributors-on-github/blob/master/firstpr.gif)
 </details>
 
+
+## [Contrib Awakens](https://github.com/Zhouzi/contrib-awakens)
+<a href="https://chrome.google.com/webstore/detail/contrib-awakens/ghdkhcgdgpapfcgkbchkdplfmchnglcg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Play games in GitHub's contribution graph. Among the few games available, a random one is picked every time you load a profile page.
+<details><summary>Screenshots</summary>
+
+ ![Contrib Awakens](https://github.com/Zhouzi/contrib-awakens/blob/master/recording.gif)
+</details>
 
 ## [Follow Me or Not](https://github.com/mkstn/follow-me-or-not)
 <a href="https://chrome.google.com/webstore/detail/follow-me-or-not/mjfndaiehjlhhdcbafamkgieeljffngj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
