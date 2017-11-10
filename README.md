@@ -767,7 +767,7 @@ ZenHub is the first and only project management suite that works natively within
 </details>
 
 
-## [GitHub Chat](<a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>)
+## [GitHub Chat](https://github.com/onmyway133/github-chat)
 <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 A Chrome extension to enable chat within GitHub
