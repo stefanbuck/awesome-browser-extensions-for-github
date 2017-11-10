@@ -66,6 +66,7 @@
 - [Twitter for GitHub](#twitter-for-github)
 - [Where is it?](#where-is-it)
 - [ZenHub](#zenhub)
+- [GitHub Chat](#github-chat)
 
 
 ## [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier)
@@ -764,3 +765,9 @@ ZenHub is the first and only project management suite that works natively within
 
  ![ZenHub](https://dl.dropboxusercontent.com/s/yosmyg8zsl5tyc5/zenhub.jpg)
 </details>
+
+
+## [GitHub Chat](https://github.com/onmyway133/github-chat)
+<a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+A Chrome extension to enable chat within GitHub
