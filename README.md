@@ -189,7 +189,7 @@ Categorize your mixed GitHub notifications
 
 <details><summary>Screenshots</summary>
 
- ![GitHub Categoric](https://dl.dropboxusercontent.com/u/15056258/screeen.png)
+ ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
 </details>
 
 
