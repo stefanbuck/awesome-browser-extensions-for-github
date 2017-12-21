@@ -91,6 +91,16 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 </details>
 
 ## Comments
+
+### [GitHub Issue Link Status](https://github.com/bfred-it/github-issue-link-status/) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Colorize issue and PR links to see their status (open, closed, merged).
+
+<details><summary>Screenshots</summary>
+
+<img src="https://raw.githubusercontent.com/bfred-it/github-issue-link-status/master/screenshot.png" width=600 />
+</details>
+
 ### [OctoDraft](https://github.com/wildeyes/OctoDraft) <a href="https://chrome.google.com/webstore/detail/octodraft/mjfaidoickdplapkfhajfkehpepmccfg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 OctoDraft is a Browser Extension which adds a save draft button in the issues section in GitHub, for those times when one doesn't have time to write the whole issue.
