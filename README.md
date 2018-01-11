@@ -463,6 +463,15 @@ Hide dotfiles from the GitHub file browser.
  ![Hide files on GitHub](https://dl.dropboxusercontent.com/s/80jpb795dckfel7/github-hide-files.jpg)
 </details>
 
+### [GitHub File Icon](https://github.com/xxhomey19/github-file-icon) <a href="https://chrome.google.com/webstore/detail/github-file-icon/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+A browser extension which gives different filetypes different icons on GitHub.
+
+<details><summary>Screenshots</summary>
+
+  <img src='https://user-images.githubusercontent.com/12113222/34595351-31adce0a-f212-11e7-860a-c2ada55536c8.png'/>
+</details>
+
 ### [Lovely forks](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 See forks with the most stars under the names of repositories.
