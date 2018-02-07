@@ -472,6 +472,14 @@ A browser extension which gives different filetypes different icons on GitHub.
   <img src='https://user-images.githubusercontent.com/12113222/34595351-31adce0a-f212-11e7-860a-c2ada55536c8.png'/>
 </details>
 
+### [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+ 
+Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
+
+<details><summary>Screenshots</summary>
+  <img src="https://github.com/dderevjanik/github-vscode-icons/raw/master/docs/screenshots/repo_screens.png"/>
+</details>
+
 ### [Lovely forks](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 See forks with the most stars under the names of repositories.
