@@ -546,6 +546,22 @@ This extension is to display travis-ci status for repos in github. There is a vi
   <img src='https://yaowenjie.github.io/images/2016/travis0.png'/>
 </details>
 
+## Sourcegraph for GitHub <a href="https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/sourcegraph-addon-for-github/?src=search"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
+
+1. Go to definition
+2. Find references
+3. Powerful code search with regexp matching, diff searches, and other filters
+4. Hover tooltips
+5. File tree navigation
+
+
+<details><summary>Screenshots</summary>
+
+ ![Sourcegraph](https://images.contentful.com/le3mxztn6yoo/d9Pe31cX3aK6UGGImuKoM/58ecdd7ba9016d34445db86162e7f9dd/CodeReview2.gif?w=1440&h=1095&q=50)
+</details>
+
 ## ZenHub <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://www.zenhub.com/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
