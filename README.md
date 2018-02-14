@@ -187,6 +187,17 @@ Extension that simplifies the GitHub interface and adds useful features.
  ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/media/screenshot-dashboard.png)
 </details>
 
+
+### [Codeflower](https://github.com/code-flower) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Visualize github repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
+
+<details><summary>Screenshots</summary>
+
+ ![Codeflower](https://github.com/code-flower/chrome/blob/master/images/screenshot-1.jpg)
+</details>
+
+
 ## Navigation
 
 ### [Infinite Commits](https://github.com/papernotes/infinite-commits) <a href="https://chrome.google.com/webstore/detail/infinite-commits/emggbgjkjkefhcdljpmfhdkaippihigo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
