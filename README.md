@@ -55,7 +55,7 @@ Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo depend
 
 ### [OctoTern](https://github.com/mattzeunert/OctoTern) <a href="https://chrome.google.com/webstore/detail/octotern/fhgodjaafcddpfdpfmoimnjpelemhnmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Jump to a variable's definition when viewing JavaScript code on Github. Also highlights all variable refernces.
+Jump to a variable's definition when viewing JavaScript code on Github. Also highlights all variable references.
 
 <details><summary>Screenshots</summary>
 
