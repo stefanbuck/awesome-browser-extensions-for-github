@@ -383,6 +383,15 @@ Infers or tries to find GitHub users' Twitter handles and present them to you in
  ![](https://cloud.githubusercontent.com/assets/1393946/14272254/9a83b0a2-fb01-11e5-8d04-52687ae367f8.png)
 </details>
 
+### [GithubOriginalStreak](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+
+Extension to get back current and longest streak.
+
+<details><summary>Screenshots</summary>
+
+ ![GithubOriginalStreak](https://imgur.com/lkm6Hlx.png)
+</details>
+
 
 ## PullRequest
 
