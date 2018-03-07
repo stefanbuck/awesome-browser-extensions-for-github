@@ -182,11 +182,6 @@ Chrome extension that adds a button in browser and links this button to a Github
 
 Extension that simplifies the GitHub interface and adds useful features.
 
-<details><summary>Screenshots</summary>
-
- ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/media/screenshot-dashboard.png)
-</details>
-
 
 ### [Codeflower](https://github.com/code-flower) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
