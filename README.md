@@ -178,13 +178,19 @@ Chrome extension that adds a button in browser and links this button to a Github
 </details>
 
 
-### [Refined GitHub](https://github.com/sindresorhus/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/fantattitude/refined-github-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Refined GitHub](https://github.com/sindresorhus/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
-<details><summary>Screenshots</summary>
+<details><summary>Highlights</summary>
 
- ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/media/screenshot-dashboard.png)
+-  [Mark issues and pull requests as unread](https://user-images.githubusercontent.com/1402241/27847663-963b7d7c-6171-11e7-9470-6e86d8463771.png) (They will reappear in Notifications)
+- [Reaction avatars](https://user-images.githubusercontent.com/1402241/34438653-f66535a4-ecda-11e7-9406-2e1258050cfa.png)
+- [Waits for the PR checks before merging a PR](https://user-images.githubusercontent.com/1402241/35192861-3f4a1bf6-fecc-11e7-8b9f-35ee019c6cdf.gif)
+- [Linkifies issue/PR references in code, comments and titles](https://cloud.githubusercontent.com/assets/170270/25370217/61718820-29b3-11e7-89c5-2959eaf8cac8.png)
+- [Shows links to closing PR in issues and PR](https://user-images.githubusercontent.com/1402241/37037746-8b8eac8a-2185-11e8-94f6-4d50a9c8a152.png)
+- [And much more..](https://github.com/sindresorhus/refined-github#highlights)
+
 </details>
 
 
