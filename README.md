@@ -259,6 +259,15 @@ Makes it easy to access repository info from a GitHub pages website.
  ![Pages2Repo](https://cloud.githubusercontent.com/assets/1393946/11908410/4027dc66-a5dc-11e5-9bce-b028aa884c9a.png)
 </details>
 
+### [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Displays a clickable outline of all topic headers for markdown documents on GitHub
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
+</details>
+
 ## Newsfeed
 
 ### [My Git Repo News](https://github.com/greybax/github-extension-my-repo-news) <a href="https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
@@ -522,15 +531,6 @@ See forks with the most stars under the names of repositories.
 <details><summary>Screenshots</summary>
 
  ![Slate fork](https://musicallyut.in/docs/lovely-forks/slate-fork-80.png)
-</details>
-
-### [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Displays a clickable outline of all topic headers for markdown documents on GitHub
-
-<details><summary>Screenshots</summary>
-
- ![GitHub Markdown Outline Extension](https://raw.githubusercontent.com/dbkaplun/github-markdown-outline-extension/master/screenshot.png)
 </details>
 
 ### [GitHub Npm Stats](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
