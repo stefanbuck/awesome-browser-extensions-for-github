@@ -19,7 +19,7 @@ A curated list of awesome browser extensions for GitHub.
 
 ### [GitHub AST Viewer](https://github.com/lukehorvat/github-ast-viewer) <a href="https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-View the abstract syntax tree (AST) of code on GitHub.
+查看GitHub上代码的抽象语法树（AST）。
 
 <details><summary>Screenshots</summary>
 
@@ -28,7 +28,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 
 ### [GitHub Custom Tab Size](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Set custom tab size for code view on GitHub.com
+在GitHub.com上为代码视图设置自定义标签大小。
 
 <details><summary>Screenshots</summary>
 
@@ -37,7 +37,7 @@ Set custom tab size for code view on GitHub.com
 
 ### [OctoHint](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Octohint adds IntelliSense hint feature to GitHub.
+Octohint增加了IntelliSense提示功能给GitHub。
 
 <details><summary>Screenshots</summary>
 
@@ -46,7 +46,7 @@ Octohint adds IntelliSense hint feature to GitHub.
 
 ### [OctoLinker](https://github.com/OctoLinker/browser-extension) <a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statments in a .js, .jsx, .coffee or .md file.
+Octo-Linker是一个浏览器扩展，它将NPM，bower，Composer＆Duo依赖关系链接到他们的GitHub存储库页面。它还可以解决.js，.jsx，.coffee或.md文件中的require（）语句。
 
 <details><summary>Screenshots</summary>
 
@@ -55,7 +55,7 @@ Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo depend
 
 ### [OctoTern](https://github.com/mattzeunert/OctoTern) <a href="https://chrome.google.com/webstore/detail/octotern/fhgodjaafcddpfdpfmoimnjpelemhnmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Jump to a variable's definition when viewing JavaScript code on Github. Also highlights all variable references.
+在Github上查看JavaScript代码时跳转到变量的定义。还突出了所有变量引用。
 
 <details><summary>Screenshots</summary>
 
@@ -64,8 +64,7 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
 
 ### [Render Whitespace on GitHub](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Are they tabs? Are they spaces? How many? Never wonder again!
-Renders spaces as `·` and tabs as `→` in all the code on GitHub.
+他们是标签吗？他们是空间吗？多少？永远不要再怀疑！像GitHub上的所有代码·一样呈现空格和标签→。
 
 <details><summary>Screenshots</summary>
 
@@ -74,7 +73,7 @@ Renders spaces as `·` and tabs as `→` in all the code on GitHub.
 
 ### [Tab Size on GitHub](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-tab-size/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-Make tab indented code more readable by forcing the tab size to 4 instead of 8.
+通过强制将标签大小设置为4而不是8，可使制表符缩进代码更具可读性。
 
 <details><summary>Screenshots</summary>
 
@@ -83,7 +82,7 @@ Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
 ### [Where is it?](https://github.com/WhereIsItDev/whereisit) <a href="https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Whereisit makes code navigation on GitHub easier. Look up and jump around class/method definitions with a single click.
+Whereisit使GitHub上的代码导航更容易。只需单击一下，就可以查看并跳过类/方法定义。
 
 <details><summary>Screenshots</summary>
 
@@ -92,7 +91,7 @@ Whereisit makes code navigation on GitHub easier. Look up and jump around class/
 
 ### [GitHub Code Folding](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
+代码折叠 - 有选择地隐藏和显示代码段的功能 - 在许多文本编辑器和IDE中都是非常重要的功能。现在，开发人员可以利用相同风格的代码折叠，同时仔细阅读GitHub网站上的源代码。适用于任何类型的缩进空间或制表符。
 
 <details><summary>Screenshots</summary>
 
@@ -112,7 +111,7 @@ Colorize issue and PR links to see their status (open, closed, merged).
 
 ### [OctoDraft](https://github.com/wildeyes/OctoDraft) <a href="https://chrome.google.com/webstore/detail/octodraft/mjfaidoickdplapkfhajfkehpepmccfg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-OctoDraft is a Browser Extension which adds a save draft button in the issues section in GitHub, for those times when one doesn't have time to write the whole issue.
+OctoDraft是一个浏览器扩展，它在GitHub的问题部分添加了一个保存草稿按钮，用于那些没有时间写完整个问题的时间。
 
 <details><summary>Screenshots</summary>
 
@@ -121,7 +120,7 @@ OctoDraft is a Browser Extension which adds a save draft button in the issues se
 
 ### [OctoEdit](https://github.com/DrewML/OctoEdit) <a href="https://chrome.google.com/webstore/detail/octoedit/ecnglinljpjkbgmdpeiglonddahpbkeb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-OctoEdit is a Browser Extension which adds a new tab to the comment edit area in GitHub, providing Markdown syntax highlighting and tabbing behavior.
+OctoEdit是一个浏览器扩展，它在GitHub的注释编辑区域添加了一个新选项卡，提供Markdown语法突出显示和Tab键行为。
 
 <details><summary>Screenshots</summary>
 
@@ -130,7 +129,7 @@ OctoEdit is a Browser Extension which adds a new tab to the comment edit area in
 
 ### [OctoPreview](https://github.com/DrewML/octo-preview) <a href="https://chrome.google.com/webstore/detail/octo-preview/elomekmlfonmdhmpmdfldcjgdoacjcba"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Displays live previews of Markdown comments while you type. Works with Issues + Pull Requests.
+在键入时显示Markdown评论的实时预览。适用于问题+拉取请求。
 
 <details><summary>Screenshots</summary>
 
@@ -139,13 +138,13 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 
 ### [Review on Github](https://github.com/bastilian/ReviewOnGitHub) <a href="https://chrome.google.com/webstore/detail/review-on-github/eenlonmglmdookfbknbmcgjkpomndjdp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Review repositories on GitHub like a Pull Request. This extension adds the ability to github.com to make notes in files and add them as a compiled list to an issue.
+在GitHub上查看存储库，如拉取请求。这个扩展增加了github.com在文件中做笔记并将它们作为编译列表添加到问题中的功能。
 
 ## Miscellaneous
 
 ### [Builds Tab for Github](https://github.com/duxet/builds-tab) <a href="https://chrome.google.com/webstore/detail/builds-tab-for-github/jnmdkbflmkjehkkdbjdfpmhgdafpcdkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/builds-tab-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-This extension will add "builds" tab to Github in your browser.
+这个扩展将在您的浏览器中向Github添加“构建”选项卡。
 
 <details><summary>Screenshots</summary>
 
@@ -154,13 +153,13 @@ This extension will add "builds" tab to Github in your browser.
 
 ### [Octo Mate](https://github.com/camsong/chrome-github-mate) <a href="https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Adds various useful features to GitHub:
+向GitHub添加各种有用的功能：
 
-1. Download any file by clicking the file icon.
-2. Show tooltip of your unread notifications.
-3. Show Repo size.
-4. Show 'GH Page' link button if it has GitHub Pages.
-5. Tab size customising between 2/4/8 whitespace.
+1. 通过单击文件图标下载任何文件。
+2. 显示未读通知的工具提示。
+3. 显示回购规模。
+4. 如果它有GitHub页面，则显示'GH Page'链接按钮。
+5. 制表符大小在2/4/8空白符之间自定义。
 
 <details><summary>Screenshots</summary>
 
@@ -169,7 +168,7 @@ Adds various useful features to GitHub:
 
 ### [github.expandinizr](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
+在1400像素，1600像素和1800像素的大屏幕上增加GitHub体验的断点。还删除了资源库浏览器中文件和目录名称的截断。
 
 <details><summary>Screenshots</summary>
 
@@ -179,7 +178,7 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 ### [Like On Github](https://github.com/Idnan/like-on-github) <a href="https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Chrome extension that adds a button in browser and links this button to a Github repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
+Chrome浏览器扩展程序在浏览器中添加一个按钮，并将该按钮链接到您将配置的Github存储库，然后在任何网页上单击此扩展按钮，它将添加给定链接以及该存储库中页面的标题。
 
 <details><summary>Screenshots</summary>
 
@@ -189,7 +188,7 @@ Chrome extension that adds a button in browser and links this button to a Github
 
 ### [Refined GitHub](https://github.com/sindresorhus/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Extension that simplifies the GitHub interface and adds useful features.
+扩展，简化GitHub界面并添加有用的功能。
 
 <details><summary>Highlights</summary>
 
@@ -205,7 +204,7 @@ Extension that simplifies the GitHub interface and adds useful features.
 
 ### [Codeflower](https://github.com/code-flower) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Visualize github repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
+将github回购视为可视化为d3力指向图。该扩展可以让您快速了解任何回购的大小和组成。
 
 <details><summary>Screenshots</summary>
 
@@ -217,20 +216,12 @@ Visualize github repos as d3 force-directed graphs. The extension gives you a qu
 
 ### [Infinite Commits](https://github.com/papernotes/infinite-commits) <a href="https://chrome.google.com/webstore/detail/infinite-commits/emggbgjkjkefhcdljpmfhdkaippihigo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-A Chrome extension for infinite scrolling on GitHub's commit pages.
+Chrome扩展程序，用于在GitHub的提交页面上进行无限滚动。
 
 ### [OctoPermalinker](https://github.com/josephfrazier/octopermalinker) <a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+OctoPermalinker是一个浏览器扩展，它搜索GitHub注释/文件以链接到分支上的文件，并添加一个链接，指向分支在评论/文件创建/更新时指向的位置。这可以帮助您避免发布后发布的链接。对于上下文，下面是关于破碎的GitHub链接的一些讨论：[不要链接到GitHub中的行号。](https://news.ycombinator.com/item?id=8046710).
 
-OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches,
-and adds a link to where the branch pointed when the comment/file was made/updated.
-This helps you avoid following a link that was broken after being posted.
-For context, here's some discussion about broken GitHub links:
-[Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
-
-For example, suppose you're looking at a gist that links to a file on the master branch of a repo.
-At the time the gist was made, the link worked, but if the file gets removed, the link is broken.
-OctoPermalinker uses the gist creation date to add a permalink that still works.
-Here are some screencasts demonstrating the difference:
+例如，假设您正在查看链接到仓库主分支上的文件的要点。当时的要点是，链接工作，但如果文件被删除，链接被打破。OctoPermalinker使用主要创建日期来添加仍然有效的固定链接。以下是一些展示差异的截屏：
 
 <details><summary>Screenshots</summary>
 
@@ -243,7 +234,7 @@ Here are some screencasts demonstrating the difference:
 
 ### [Octotree](https://github.com/buunguyen/octotree) <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/buunguyen/octotree/#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
+对于经常在GitHub中阅读源代码并且不想下载或检出太多存储库的开发人员非常有用。
 
 <details><summary>Screenshots</summary>
 
@@ -252,7 +243,7 @@ Useful for developers who frequently read source in GitHub and do not want to do
 
 ### [GitHub Omnibar](https://github.com/jcouyang/gh-omnibar) <a href="https://chrome.google.com/webstore/detail/github-omnibar/njccjmmakcbdpnlbodllfgiloenfpocb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/jcouyang/gh-omnibar#firefox"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
+Omnibar for GitHub就像[bitbucket](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)一样。
 
 <details><summary>Screenshots</summary>
 
@@ -261,7 +252,7 @@ Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/
 
 ### [Pages2Repo](https://github.com/Frozenfire92/Pages2Repo) <a href="https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Makes it easy to access repository info from a GitHub pages website.
+通过GitHub页面网站可以轻松访问存储库信息。
 
 <details><summary>Screenshots</summary>
 
@@ -270,7 +261,7 @@ Makes it easy to access repository info from a GitHub pages website.
 
 ### [GitHub Markdown Outline Extension](https://github.com/dbkaplun/github-markdown-outline-extension) <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Displays a clickable outline of all topic headers for markdown documents on GitHub
+在GitHub上显示Markdown文档的所有主题标题的可点击轮廓
 
 <details><summary>Screenshots</summary>
 
@@ -281,7 +272,7 @@ Displays a clickable outline of all topic headers for markdown documents on GitH
 
 ### [My Git Repo News](https://github.com/greybax/github-extension-my-repo-news) <a href="https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Chrome extension which helps you not to miss important changes in your news thread related to your repo
+Chrome扩展程序可帮助您不会错过与您的回购相关的新闻帖子中的重要更改
 
 <details><summary>Screenshots</summary>
 
@@ -291,7 +282,7 @@ Chrome extension which helps you not to miss important changes in your news thre
 
 ### [GitHub News Pics](https://github.com/surdu/github-news-pics) <a href="https://chrome.google.com/webstore/detail/github-news-pics/fkdieaaoplknkhnhbfmbacphglmenppg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Show pictures for all entries in the news feed on GitHub's dashboard
+在GitHub的仪表板上显示新闻Feed中所有条目的图片
 
 <details><summary>Screenshots</summary>
 
@@ -300,7 +291,7 @@ Show pictures for all entries in the news feed on GitHub's dashboard
 
 ### [OctoTab](https://github.com/lockys/Octotab.crx) <a href="https://chrome.google.com/webstore/detail/octotab/llfamhakdognknlckipgfkmikollbeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-⚒ A super tiny chrome extension making your Github news feed more organized
+⚒ 超级微小的Chrome扩展使您的Github新闻馈送更有条理
 
 <details><summary>Screenshots</summary>
 
@@ -312,7 +303,7 @@ Show pictures for all entries in the news feed on GitHub's dashboard
 
 ### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
+当你在GitHub上得到新的通知时显示通知，并提供对弹出窗口中所有通知的快速访问。
 
 <details><summary>Screenshots</summary>
 
@@ -321,7 +312,7 @@ Shows notifications when you get a new notification on GitHub and provides quick
 
 ### [News Feed for GitHub](https://github.com/julmot/news-feed-for-github) <a href="https://chrome.google.com/webstore/detail/news-feed-for-github/gbpajmknkcgjeinfbmfeiafhogbhgkjh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/news-feed-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-A Chrome and Firefox extension that shows notifications when something happens in your GitHub news feed.
+Chrome和Firefox扩展程序在您的GitHub新闻提要中发生某些事件时显示通知。
 
 <details><summary>Screenshots</summary>
 
@@ -331,7 +322,7 @@ A Chrome and Firefox extension that shows notifications when something happens i
 
 ### [Notifications Preview for GitHub](https://github.com/tanmayrajani/notifications-preview-github) <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
+Chrome和Firefox扩展程序可快速在弹出窗口中看到您的通知，而无需离开当前页面。
 
 <details><summary>Screenshots</summary>
 
@@ -340,7 +331,7 @@ A Chrome and Firefox extension to quickly see your notifications in a popup with
 
 ### [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github) <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-notifier/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/notifier-for-github-safari/releases"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
-Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
+显示您的GitHub通知未读计数。支持GitHub Enterprise和一个选项，只显示您参与的问题的未读计数。您可以单击该图标以快速查看未读通知。
 
 <details><summary>Screenshots</summary>
 
@@ -352,7 +343,7 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 
 ### [CoderStats link for GitHub](https://github.com/coderstats/cxt_coderstats) <a href="https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/coderstats/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-The CoderStats link for Github Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on Github.
+Github Chrome扩展的CoderStats链接显示Github上当前显示的用户或组织配置文件页面的CoderStats页面的链接。
 
 <details><summary>Screenshots</summary>
 
@@ -362,7 +353,7 @@ The CoderStats link for Github Chrome extension displays a link to the CoderStat
 
 ### [GitHub Email Extractor](https://github.com/prabhakar267/github-email-extractor) <a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
+Chrome扩展程序可以获取用户的电子邮件ID，即使他们没有在其GitHub配置文件中公开它
 
 <details><summary>Screenshots</summary>
 
@@ -373,7 +364,7 @@ Chrome extension to fetch the email ID of a user even if they haven't made it pu
 
 ### [Follow Me or Not](https://github.com/mkstn/follow-me-or-not) <a href="https://chrome.google.com/webstore/detail/follow-me-or-not/mjfndaiehjlhhdcbafamkgieeljffngj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Chrome extension to check if the GitHub profile you are visiting, follows you or not in a Twitter-like UI
+Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter类似的用户界面
 
 <details><summary>Screenshots</summary>
 
@@ -382,7 +373,7 @@ Chrome extension to check if the GitHub profile you are visiting, follows you or
 
 ### [GitHub Hovercard](https://github.com/Justineo/github-hovercard) <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Justineo/github-hovercard/tree/master/extensions/github-hovercard.safariextension"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
-Neat hovercards for GitHub.
+整洁的GitHub hovercards。
 
 <details><summary>Screenshots</summary>
 
@@ -391,7 +382,7 @@ Neat hovercards for GitHub.
 
 ### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/jasonlong/isometric-contributions#safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
-Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
+允许您在正常的GitHub贡献图表和等距像素艺术版本之间切换。
 
 <details><summary>Screenshots</summary>
 
@@ -400,7 +391,7 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 
 ### [Twitter for GitHub](https://github.com/bevacqua/twitter-for-github) <a href="https://chrome.google.com/webstore/detail/twitter-for-github/joalalcafnlmimkfkihjbdgmphgedojc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Infers or tries to find GitHub users' Twitter handles and present them to you in the GitHub interface.
+推断或试图找到GitHub用户的Twitter句柄，并在GitHub界面中呈现给你。
 
 <details><summary>Screenshots</summary>
 
@@ -409,7 +400,7 @@ Infers or tries to find GitHub users' Twitter handles and present them to you in
 
 ### [GithubOriginalStreak](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-Extension to get back current and longest streak.
+扩展获取当前和最长的连胜。
 
 <details><summary>Screenshots</summary>
 
@@ -421,7 +412,7 @@ Extension to get back current and longest streak.
 
 ### [GitHub Categoric](https://github.com/ozlerhakan/categoric) <a href="https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Categorize your mixed GitHub notifications
+对混合的GitHub通知进行分类。
 
 <details><summary>Screenshots</summary>
 
@@ -431,8 +422,7 @@ Categorize your mixed GitHub notifications
 
 ### [Codecov: Code Coverage Overlay](https://codecov.io) <a href="https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-Overlay code coverage in Github and Bitbucket. Supporting commits, blobs, blame, compare, pulls and more.
-Free for open source repositories.
+在Github和Bitbucket中覆盖代码覆盖率。支持提交，blob，责备，比较，拉等等。免费的开放源代码库。
 
 <details><summary>Screenshots</summary>
 
@@ -441,7 +431,7 @@ Free for open source repositories.
 
 ### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
+在问题/ PR选项卡中显示PR和其他贡献者统计信息的数量。对于想知道它是否是贡献者的第一个公关的维护人员可能会有所帮助。
 
 <details><summary>Screenshots</summary>
 
@@ -451,7 +441,7 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 ### [GitHub Diffs](https://github.com/kamranahmedse/github-diffs) <a href="https://chrome.google.com/webstore/detail/github-diffs/dhcpmhfjmlgjfhpeeloohoffbmpjfmgh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Expand and collapse file diffs on GitHub.com
+在GitHub.com上展开和折叠文件差异
 
 <details><summary>Screenshots</summary>
 
@@ -461,7 +451,7 @@ Expand and collapse file diffs on GitHub.com
 
 ### [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/Nuclides/github-highlight-selected/blob/master/README.md"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
-Highlight selected word in GitHub source view like Sublime Text.
+高亮显示GitHub源视图中的所选单词，如Sublime Text。
 
 <details><summary>Screenshots</summary>
 
@@ -470,7 +460,7 @@ Highlight selected word in GitHub source view like Sublime Text.
 
 ### [PR file filter for Github](https://github.com/siggysamson/pr-file-filter-for-github#pr-file-filter-for-github) <a href="https://chrome.google.com/webstore/detail/pr-file-filter-for-github/jahafomboikfnemnncinlmohmbbbnbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-This Chrome extension extends the file search of a pull request to allow for actual filtering with globs.
+此Chrome扩展程序扩展了拉取请求的文件搜索，以允许用globs进行实际过滤。
 
 <details><summary>Screenshots</summary>
 
@@ -479,7 +469,7 @@ This Chrome extension extends the file search of a pull request to allow for act
 
 ### [GitHub Pr Filter](https://github.com/danielhusar/github-pr-filter) <a href="https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Add ability to filter files in pull requests.
+增加在拉取请求中过滤文件的功能。
 
 <details><summary>Screenshots</summary>
 
@@ -488,7 +478,7 @@ Add ability to filter files in pull requests.
 
 ### [GitHub Review Filter](https://github.com/andersonba/github-review-filter) <a href="https://chrome.google.com/webstore/detail/github-review-filter/gnpcfigiidmljgiidkhmmcgbfkolnacg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-A helpful extension to filter files in GitHub PRs using glob patterns
+一个有用的扩展，使用glob模式过滤GitHub PR中的文件。
 
 <details><summary>Screenshots</summary>
 
@@ -500,7 +490,7 @@ A helpful extension to filter files in GitHub PRs using glob patterns
 
 ### [Gitter Helper](https://github.com/svincent/gitter-chrome) <a href="https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
+可以很容易地看到GitHub项目是否具有[Gitter](https://gitter.im)空间。
 
 <details><summary>Screenshots</summary>
 
@@ -509,7 +499,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 
 ### [Hide files on GitHub](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-hide-files/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-Hide dotfiles from the GitHub file browser.
+隐藏来自GitHub文件浏览器的点文件。
 
 <details><summary>Screenshots</summary>
 
@@ -518,7 +508,7 @@ Hide dotfiles from the GitHub file browser.
 
 ### [GitHub File Icon](https://github.com/xxhomey19/github-file-icon) <a href="https://chrome.google.com/webstore/detail/github-file-icon/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-A browser extension which gives different filetypes different icons on GitHub.
+一个浏览器扩展，在GitHub上给出不同的文件类型不同的图标。
 
 <details><summary>Screenshots</summary>
 
@@ -527,7 +517,7 @@ A browser extension which gives different filetypes different icons on GitHub.
 
 ### [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
  
-Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
+在资源库浏览器中显示 [vscode-icons](https://github.com/vscode-icons/vscode-icons) 
 
 <details><summary>Screenshots</summary>
   <img src="https://github.com/dderevjanik/github-vscode-icons/raw/master/docs/screenshots/repo_screens.png"/>
@@ -535,7 +525,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the reposit
 
 ### [Lovely forks](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-See forks with the most stars under the names of repositories.
+请参阅存储库名称中星号最多的分支。
 
 <details><summary>Screenshots</summary>
 
@@ -544,7 +534,7 @@ See forks with the most stars under the names of repositories.
 
 ### [GitHub Npm Stats](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Displays npm package stats on GitHub
+在GitHub上显示npm包统计信息
 
 <details><summary>Screenshots</summary>
 
@@ -553,7 +543,7 @@ Displays npm package stats on GitHub
 
 ### [npm-hub](https://github.com/npmhub/npmhub) <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/npm-hub/?src=search"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
+在github.com上查看具有package.json文件的存储库时，此扩展将反省package.json中的依赖关系，并显示每个依赖关系的链接和说明，仅位于repo的README下。
 
 <details><summary>Screenshots</summary>
 
@@ -562,7 +552,7 @@ When viewing a repository on github.com that has a package.json file, this exten
 
 ### [Package Hub](https://github.com/BrainMaestro/packagehub) <a href="https://chrome.google.com/webstore/detail/package-hub/hnnjnbmjanpeoeapjllonejjgoonilal"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-This package lists the dependencies in the package files of the various packages you encounter while browsing github.
+该软件包列出了浏览github时遇到的各种软件包的软件包文件中的依赖关系。
 
 <details><summary>Screenshots</summary>
 
@@ -572,7 +562,7 @@ This package lists the dependencies in the package files of the various packages
 
 ### [Github Plus](https://github.com/softvar/github-plus) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Displays size of each file, download link and an option of copying file contents directly to clipboard
+显示每个文件的大小，下载链接以及将文件内容直接复制到剪贴板的选项
 
 <details><summary>Screenshots</summary>
 
@@ -582,7 +572,8 @@ Displays size of each file, download link and an option of copying file contents
 
 
 ### [Github Repo Size](https://github.com/harshjv/github-repo-size) <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-Automatically adds repository size to GitHub's repository summary.
+
+自动将存储库大小添加到GitHub的存储库摘要中。
 
 <details><summary>Screenshots</summary>
 
@@ -591,7 +582,7 @@ Automatically adds repository size to GitHub's repository summary.
 
 ### [Github Travis Stat](https://github.com/Yaowenjie/travis-github-chrome-extension) <a href="https://chrome.google.com/webstore/detail/github-travis-stat/ekkfhiophiaakmeppcnkblpbbjlnlnmh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-This extension is to display travis-ci status for repos in github. There is a visual chart which shows build status and duration changes for recent 10 times.
+这个扩展是为了在github中显示repos的travis-ci状态。有一个可视图表显示了近10次的建造状态和持续时间的变化。
 
 <details><summary>Screenshots</summary>
 
@@ -600,13 +591,13 @@ This extension is to display travis-ci status for repos in github. There is a vi
 
 ## Sourcegraph for GitHub <a href="https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/sourcegraph-addon-for-github/?src=search"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
+Sourcegraph浏览器扩展在查看代码，拉取请求和差异时提供了类似于GitHub IDE的功能：
 
-1. Go to definition
-2. Find references
-3. Powerful code search with regexp matching, diff searches, and other filters
-4. Hover tooltips
-5. File tree navigation
+1. 去定义
+2. 查找参考
+3. 使用正则表达式匹配，差异搜索和其他过滤器进行强大的代码搜索
+4. 悬停工具提示
+5. 文件树导航
 
 
 <details><summary>Screenshots</summary>
@@ -616,7 +607,7 @@ The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewi
 
 ## ZenHub <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://www.zenhub.com/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
+ZenHub是第一个也是唯一一个可以在GitHub内部工作的项目管理套件; 利用为创业公司，快速变化的工程团队和开源社区专门构建的功能增强您的工作流程。该产品是一个浏览器扩展，可以注入高级功能，包括实时拖放问题任务板，通过+1按钮进行同伴反馈，以及支持将任何文件类型直接上传到GitHub界面。ZenHub可以轻松地将所有流程集中到GitHub中，保持团队精益和敏捷。
 
 <details><summary>Screenshots</summary>
 
@@ -627,7 +618,7 @@ ZenHub is the first and only project management suite that works natively within
 
 ### [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete) <a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-awesome-autocomplete/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Simple and discreet extension that enhances GitHub's search, letting you search for repositories and people faster than ever.
+简单而谨慎的扩展，增强了GitHub的搜索功能，让您可以比以往更快地搜索存储库和人员。
 
 <details><summary>Screenshots</summary>
 
@@ -636,7 +627,7 @@ Simple and discreet extension that enhances GitHub's search, letting you search 
 
 ### [GitSense](https://github.com/gitsense/insight) <a href="https://chrome.google.com/webstore/detail/gitsense-insight/fgnjcebdincofoebkahonlphjoiinglo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Makes searching in GitHub better. With GitHub, you can only search one branch per non-forked repository. With [GitSense](https://gitsense.com), you search any branch, from any repository, and much more.
+在GitHub中进行更好的搜索。使用GitHub，每个非分叉存储库只能搜索一个分支。借助[GitSense](https://gitsense.com)，您可以从任何存储库中搜索任何分支，等等。
 
 <details><summary>Screenshots</summary>
 
