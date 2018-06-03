@@ -212,6 +212,15 @@ Visualize GitHub repos as d3 force-directed graphs. The extension gives you a qu
  ![Codeflower](https://github.com/code-flower/chrome/blob/master/images/screenshot-1.jpg)
 </details>
 
+### [Quick add issue to GitHub](https://github.com/stilliard/quick-add-github-issue-browser-extension) <a href="https://chrome.google.com/webstore/detail/quick-add-issue-to-github/mgamfhobfmlghohfjdiecjhddoigenkk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/quick-add-issue-to-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Quickly submit issues to GitHub repos direct from your browser, with options to submit debug info too, issue templates & screenshots.
+
+<details><summary>Screenshots</summary>
+
+ ![Quick add issue to GitHub](https://raw.githubusercontent.com/stilliard/quick-add-github-issue-browser-extension/master/images/chrome-ext/chrome-screenshot-1.png)
+</details>
+
 
 ## Navigation
 
