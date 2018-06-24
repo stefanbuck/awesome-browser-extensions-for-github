@@ -416,6 +416,15 @@ Extension to get back current and longest streak.
  ![GithubOriginalStreak](https://imgur.com/lkm6Hlx.png)
 </details>
 
+### [GitHub User Languages](https://github.com/crnbrdrck/github-user-languages) <a href="https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
+
+<details><summary>Screenshots</summary>
+ 
+  ![GitHub User Languages](https://github.com/crnbrdrck/github-user-languages/blob/master/demo.png)
+</details>   
+
 
 ## PullRequest
 
