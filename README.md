@@ -212,6 +212,15 @@ Visualize GitHub repos as d3 force-directed graphs. The extension gives you a qu
  ![Codeflower](https://github.com/code-flower/chrome/blob/master/images/screenshot-1.jpg)
 </details>
 
+### [OctoLenses](https://github.com/rgehan/octolenses-browser-extension) <a href="https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
+
+<details><summary>Screenshots</summary>
+
+![OctoLenses](https://raw.githubusercontent.com/rgehan/octolenses-browser-extension/5fc2ddf83234930f54b90b719facb1b8f58a641c/.github/dashboard_screenshot.png)
+</details>
+
 
 ## Navigation
 
