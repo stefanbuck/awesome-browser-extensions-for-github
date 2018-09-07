@@ -99,6 +99,16 @@ Code folding - the ability to selectively hide and display sections of a code - 
  ![](https://github.com/noam3127/github-code-folding/raw/master/images/demo.gif)
 </details>
 
+### [GitHub Diff Navigator](https://github.com/daattali/github-diff-navigator-extension) <a href="https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Easily navigate through the changes in a file that has been edited on GitHub.
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Diff Navigator screenshot](https://github.com/daattali/github-diff-navigator-extension/blob/master/img/doc/screenshot-markdown-example.png?raw=true)
+ ![GitHub Diff Navigator video](https://github.com/daattali/github-diff-navigator-extension/raw/master/img/doc/demo.gif)
+</details>
+
 ## Comments
 
 ### [GitHub Issue Link Status](https://github.com/bfred-it/github-issue-link-status/) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
