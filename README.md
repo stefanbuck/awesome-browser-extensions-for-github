@@ -326,6 +326,15 @@ Show pictures for all entries in the news feed on GitHub's dashboard
  ![OctoTab](https://raw.githubusercontent.com/lockys/Octotab.crx/master/assets/record.gif)
 </details>
 
+### [What's New on GitHub](https://github.com/flawyte/whats-new-github) <a href="https://chrome.google.com/webstore/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Helps you see easily which activities happened since you last visited GitHub.
+
+<details><summary>Screenshots</summary>
+
+ ![What's New on GitHub](https://lh3.googleusercontent.com/y6qym1cFHDaY5R4e3F-p2ruKpUYT68pQ2wWiQy_1RGcPK3IS_e6C8R67_67UrRLa1mhSUaXewn8=w640-h400-e365)
+</details>
+
 
 ## Notifications
 
