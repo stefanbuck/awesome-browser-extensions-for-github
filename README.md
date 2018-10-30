@@ -450,7 +450,7 @@ Generates a pie chart on user profile pages displaying a breakdown of what langu
 
 <details><summary>Screenshots</summary>
  
-  ![GitHub User Languages](https://github.com/crnbrdrck/github-user-languages/blob/master/demo.png)
+  ![GitHub User Languages](https://github.com/crnbrdrck/github-user-languages/blob/master/img/demo.png)
 </details>   
 
 
