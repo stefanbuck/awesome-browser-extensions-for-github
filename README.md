@@ -53,6 +53,15 @@ Octo-Linker is a Browser Extension which links NPM, bower, Composer & Duo depend
  ![OctoLinker](https://dl.dropboxusercontent.com/s/wl0s1rishc4e8lu/github-linker.jpg)
 </details>
 
+### [Module Linker](https://module-linker.alhur.es/) <a href="https://chrome.google.com/webstore/detail/module-linker/dglofghjinifeolcpjfjmfdnnbaanggn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
+
+<details><summary>Screenshots</summary>
+
+ ![Module Linker](https://module-linker.alhur.es/screenshot/dart-screencast.gif)
+</details>
+
 ### [OctoTern](https://github.com/mattzeunert/OctoTern) <a href="https://chrome.google.com/webstore/detail/octotern/fhgodjaafcddpfdpfmoimnjpelemhnmm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Jump to a variable's definition when viewing JavaScript code on GitHub. Also highlights all variable references.
