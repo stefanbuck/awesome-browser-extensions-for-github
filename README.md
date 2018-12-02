@@ -240,6 +240,14 @@ Filter your pull requests/issues in different categories giving you a big boost 
 ![OctoLenses](https://raw.githubusercontent.com/rgehan/octolenses-browser-extension/5fc2ddf83234930f54b90b719facb1b8f58a641c/.github/dashboard_screenshot.png)
 </details>
 
+### [Code Collapse](https://github.com/chikamichi/github-code-collapse) <a href="https://addons.mozilla.org/firefox/addon/github-code-collapse/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Collapse code area on github.com to more directly access README files.
+
+<details><summary>Screenshots</summary>
+
+ ![Code Collapse](https://raw.githubusercontent.com/chikamichi/github-code-collapse/master/animation.gif)
+</details>
 
 ## Navigation
 
