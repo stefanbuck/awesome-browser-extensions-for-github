@@ -397,17 +397,6 @@ The CoderStats link for GitHub Chrome extension displays a link to the CoderStat
 ![CoderStats Profile](https://raw.githubusercontent.com/coderstats/cxt_coderstats/master/Screenshot_Coderstats_yaph.png)
 </details>
 
-### [GitHub Email Extractor](https://github.com/prabhakar267/github-email-extractor) <a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
-
-<details><summary>Screenshots</summary>
-
-| Before | After |
-| --- | --- |
-| ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-09-33.png) | ![GitHub Email Extractor](https://raw.githubusercontent.com/prabhakar267/github-email-extractor/master/screenshots/Screenshot%20from%202016-08-16%2000-05-54.png) |
-</details>
-
 ### [Follow Me or Not](https://github.com/mkstn/follow-me-or-not) <a href="https://chrome.google.com/webstore/detail/follow-me-or-not/mjfndaiehjlhhdcbafamkgieeljffngj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Chrome extension to check if the GitHub profile you are visiting, follows you or not in a Twitter-like UI
@@ -472,17 +461,6 @@ Categorize your mixed GitHub notifications
 <details><summary>Screenshots</summary>
 
  ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
-</details>
-
-
-### [Codecov: Code Coverage Overlay](https://codecov.io) <a href="https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
-
-Overlay code coverage in GitHub and Bitbucket. Supporting commits, blobs, blame, compare, pulls and more.
-Free for open source repositories.
-
-<details><summary>Screenshots</summary>
-
-![Codecov](https://cloud.githubusercontent.com/assets/2041757/10658044/5a971f60-7893-11e5-8e89-a51cac2b21cf.png)
 </details>
 
 ### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
