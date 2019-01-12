@@ -240,6 +240,15 @@ Filter your pull requests/issues in different categories giving you a big boost 
 ![OctoLenses](https://raw.githubusercontent.com/rgehan/octolenses-browser-extension/5fc2ddf83234930f54b90b719facb1b8f58a641c/.github/dashboard_screenshot.png)
 </details>
 
+### [GitHub Story Points](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension to see story points in GitHub projects.
+
+<details><summary>Screenshots</summary>
+
+![GitHub Story Points](https://raw.githubusercontent.com/banyan/github-story-points/master/assets/images/example.png)
+</details>
+
 
 ## Navigation
 
