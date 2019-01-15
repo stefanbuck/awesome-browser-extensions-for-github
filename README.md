@@ -526,6 +526,15 @@ Chrome extension to optimize GitHub for handling big pull request. 🚀
 
 You can enable the extension to optimize the page whenever a big pull request page is getting unresponsive while you are reviewing the code.
 
+### [Potential changes for GitHub](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Browser extension that shows which pull requests contain changes related to a file.
+
+<details><summary>Screenshots</summary>
+
+ ![Potential changes demo](https://raw.githubusercontent.com/dzhavat/potential-changes-for-github/master/demo.gif)
+</details>
+
 ## Repository
 
 ### [Gitter Helper](https://github.com/svincent/gitter-chrome) <a href="https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
