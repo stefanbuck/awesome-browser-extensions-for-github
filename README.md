@@ -492,16 +492,6 @@ Highlight selected word in GitHub source view like Sublime Text.
  ![GitHub Highlight Selected](https://dl.dropboxusercontent.com/s/2un7ezpdipunn70/github-highlight-selected.jpg)
 </details>
 
-
-### [GitHub Pr Filter](https://github.com/danielhusar/github-pr-filter) <a href="https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Add ability to filter files in pull requests.
-
-<details><summary>Screenshots</summary>
-
- ![GitHub Pr Filter](https://raw.githubusercontent.com/danielhusar/github-pr-filter/master/demo.png)
-</details>
-
 ### [GitHub Review Filter](https://github.com/andersonba/github-review-filter) <a href="https://chrome.google.com/webstore/detail/github-review-filter/gnpcfigiidmljgiidkhmmcgbfkolnacg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 A helpful extension to filter files in GitHub PRs using glob patterns
