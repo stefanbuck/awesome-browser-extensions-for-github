@@ -233,7 +233,7 @@ Visualize GitHub repos as d3 force-directed graphs. The extension gives you a qu
 
 ### [OctoLenses](https://github.com/rgehan/octolenses-browser-extension) <a href="https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
+* your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
 
 <details><summary>Screenshots</summary>
 
@@ -492,14 +492,6 @@ Highlight selected word in GitHub source view like Sublime Text.
  ![GitHub Highlight Selected](https://dl.dropboxusercontent.com/s/2un7ezpdipunn70/github-highlight-selected.jpg)
 </details>
 
-### [PR file filter for GitHub](https://github.com/siggysamson/pr-file-filter-for-github#pr-file-filter-for-github) <a href="https://chrome.google.com/webstore/detail/pr-file-filter-for-github/jahafomboikfnemnncinlmohmbbbnbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-This Chrome extension extends the file search of a pull request to allow for actual filtering with globs.
-
-<details><summary>Screenshots</summary>
-
-  <img src="https://raw.githubusercontent.com/siggysamson/pr-file-filter-for-github/master/assets/demo.gif">
-</details>
 
 ### [GitHub Pr Filter](https://github.com/danielhusar/github-pr-filter) <a href="https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
