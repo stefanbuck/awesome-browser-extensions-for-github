@@ -118,6 +118,16 @@ Easily navigate through the changes in a file that has been edited on GitHub.
  ![GitHub Diff Navigator video](https://github.com/daattali/github-diff-navigator-extension/raw/master/img/doc/demo.gif)
 </details>
 
+
+### [Git History](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Quickly browse the history of a file from any git repository.
+
+<details><summary>Screenshots</summary>
+
+ ![Git History screenshot](https://user-images.githubusercontent.com/1911623/52460615-f3899d80-2b49-11e9-8c21-06af4097a527.gif)
+</details>
+
 ## Comments
 
 ### [GitHub Issue Link Status](https://github.com/bfred-it/github-issue-link-status/) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
