@@ -521,6 +521,12 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 Find the best GIFs for your awesome pull requests. 
 
+<details><summary>Screenshots</summary>
+
+ ![Gifhub Pull Request demo](![](https://imgur.com/0D9VKUk))
+ 
+</details>
+
 ## Repository
 
 ### [Gitter Helper](https://github.com/svincent/gitter-chrome) <a href="https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
