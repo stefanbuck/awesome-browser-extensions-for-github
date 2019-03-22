@@ -523,7 +523,7 @@ Find the best GIFs for your awesome pull requests.
 
 <details><summary>Screenshots</summary>
 
- ![Gifhub Pull Request demo](![](https://imgur.com/0D9VKUk))
+ ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
  
 </details>
 
