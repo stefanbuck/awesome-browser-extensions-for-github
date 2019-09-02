@@ -372,6 +372,15 @@ Helps you see easily which activities happened since you last visited GitHub.
  ![What's New on GitHub](https://camo.githubusercontent.com/b167c82ff1f87582150a03ff81d20dc429274601/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7832744d704e41357757363330385a694e5a42474669506d714172653653716a48546d4d4d6d30585049764d43323063487167784e30362d324533566e375361367872695061595074673d77313238302d68383030)
 </details>
 
+### [Follow GitHub Organization](https://github.com/follow-github-organisation/fghx) <a href="https://chrome.google.com/webstore/detail/follow-github-organizatio/nihhgppianmnaaomafdoemomnnpdnfjn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/follow-github-organization/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Follow your favorite GitHub organizations and receive activities in the main feed.
+
+<details><summary>Screenshots</summary>
+
+ ![Follow GitHub Organization](https://raw.githubusercontent.com/follow-github-organisation/follow-github-organisation.github.io/master/images/followgithub-og.png)
+</details>
+
 
 ## Notifications
 
