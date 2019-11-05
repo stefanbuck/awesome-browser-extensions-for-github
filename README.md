@@ -384,6 +384,15 @@ Follow your favorite GitHub organizations and receive activities in the main fee
 
 ## Notifications
 
+### [GitHub Categoric](https://github.com/ozlerhakan/categoric) <a href="https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Categorize your mixed GitHub notifications
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
+</details>
+
 ### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
@@ -490,15 +499,6 @@ Generates a pie chart on user profile pages displaying a breakdown of what langu
 
 
 ## PullRequest
-
-### [GitHub Categoric](https://github.com/ozlerhakan/categoric) <a href="https://chrome.google.com/webstore/detail/github-categoric/gbfpmfhnfmobaichcfnhdobencecomhg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Categorize your mixed GitHub notifications
-
-<details><summary>Screenshots</summary>
-
- ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
-</details>
 
 ### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
