@@ -175,7 +175,8 @@ Review repositories on GitHub like a Pull Request. This extension adds the abili
 Display the number of lines in text files or the number of files in folders.
 
 <details><summary>Screenshots</summary>
- ![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
+
+![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
 </details>
 
 ## Miscellaneous
