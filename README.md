@@ -170,15 +170,6 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 
 Review repositories on GitHub like a Pull Request. This extension adds the ability to github.com to make notes in files and add them as a compiled list to an issue.
 
-### [OctoPeek](https://github.com/sheonhan/octopeek) <a href="https://chrome.google.com/webstore/detail/peek-github/kclmhhfmocpclelcncaeolccnomgjhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Display the number of lines in text files or the number of files in folders.
-
-<details><summary>Screenshots</summary>
-
-![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
-</details>
-
 ## Miscellaneous
 
 ### [Builds Tab for GitHub](https://github.com/duxet/builds-tab) <a href="https://chrome.google.com/webstore/detail/builds-tab-for-github/jnmdkbflmkjehkkdbjdfpmhgdafpcdkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/builds-tab-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
@@ -707,6 +698,15 @@ This is a lightweight Chrome extension that automatically detects instances of [
 <details><summary>Screenshots</summary>
 
  ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
+</details>
+
+### [OctoPeek](https://github.com/sheonhan/octopeek) <a href="https://chrome.google.com/webstore/detail/peek-github/kclmhhfmocpclelcncaeolccnomgjhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Display the number of lines in text files or the number of files in folders.
+
+<details><summary>Screenshots</summary>
+
+![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
 </details>
 
 ## Search
