@@ -709,6 +709,15 @@ This is a chrome extension that shows you stars of repository on awesome list
  ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
 </details>
 
+### [OctoPeek](https://github.com/sheonhan/octopeek) <a href="https://chrome.google.com/webstore/detail/peek-github/kclmhhfmocpclelcncaeolccnomgjhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Display the number of lines in text files or the number of files in folders.
+
+<details><summary>Screenshots</summary>
+
+![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
+</details>
+
 ## Search
 
 ### [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete) <a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-awesome-autocomplete/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
