@@ -700,13 +700,13 @@ This is a lightweight Chrome extension that automatically detects instances of [
  ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
 </details>
 
-### [OctoPeek](https://github.com/sheonhan/octopeek) <a href="https://chrome.google.com/webstore/detail/peek-github/kclmhhfmocpclelcncaeolccnomgjhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+## [Awesome Stars](https://github.com/henry40408/awesome-stars) <a href="https://chrome.google.com/webstore/detail/awesome-stars/lcokkcbdmicofdahlooopcpinogephfb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Display the number of lines in text files or the number of files in folders.
+This is a chrome extension that shows you stars of repository on awesome list
 
 <details><summary>Screenshots</summary>
 
-![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
+ ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
 </details>
 
 ## Search
