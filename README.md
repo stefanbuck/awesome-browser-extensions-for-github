@@ -493,9 +493,9 @@ Extension to get back current and longest streak.
 Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
 
 <details><summary>Screenshots</summary>
- 
+
   ![GitHub User Languages](https://github.com/crnbrdrck/github-user-languages/blob/master/img/demo.png)
-</details>   
+</details>
 
 
 ## PullRequest
@@ -546,12 +546,12 @@ Browser extension that shows which pull requests contain changes related to a fi
 
 ### [Gifhub Pull Request](https://github.com/bguzmanrio/gifhub-pull-request) <a href="https://chrome.google.com/webstore/detail/gifhub-pull-request/gfjohbpkkbbflchpioebapldlmiflfho"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Find the best GIFs for your awesome pull requests. 
+Find the best GIFs for your awesome pull requests.
 
 <details><summary>Screenshots</summary>
 
  ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
- 
+
 </details>
 
 ### [PR Monitor](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
@@ -561,7 +561,7 @@ Helps you keep track of incoming and outgoing PRs, and notifies you when you rec
 <details><summary>Screenshots</summary>
 
  ![PR Monitor demo](https://github.com/fwouts/prmonitor/raw/master/screencasts/latest.gif)
- 
+
 </details>
 
 ## Repository
@@ -594,7 +594,7 @@ A browser extension which gives different filetypes different icons on GitHub.
 </details>
 
 ### [GitHub vscode-icons](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
- 
+
 Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
 <details><summary>Screenshots</summary>
@@ -707,6 +707,15 @@ This is a chrome extension that shows you stars of repository on awesome list
 <details><summary>Screenshots</summary>
 
  ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
+</details>
+
+### [OctoPeek](https://github.com/sheonhan/octopeek) <a href="https://chrome.google.com/webstore/detail/peek-github/kclmhhfmocpclelcncaeolccnomgjhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Display the number of lines in text files or the number of files in folders.
+
+<details><summary>Screenshots</summary>
+
+![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
 </details>
 
 ## Search
