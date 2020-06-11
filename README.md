@@ -41,7 +41,7 @@ CodeWyng provides lightning fast code navigation on GitHub: hover documentation,
 
 <details><summary>Screenshots</summary>
 
- ![CodeWyng](https://raw.githubusercontent.com/CodeWyng/codewyng/master/demo.gif)
+ ![CodeWyng](https://github.com/CodeWyng/codewyng/raw/master/readme/demo.gif)
 </details>
 
 ### [OctoHint](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
