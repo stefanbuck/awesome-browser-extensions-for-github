@@ -513,6 +513,15 @@ Generates a pie chart on user profile pages displaying a breakdown of what langu
 
 ## PullRequest
 
+### [Semantic Code Reviews](https://github.com/explore-dev/semantic-code-reviews-community) <a href="https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.
+
+<details><summary>Screenshots</summary>
+
+ ![Semantic Code Reviews](https://github.com/explore-dev/semantic-code-reviews-community/blob/master/resources/teaser.gif)
+</details>
+
 ### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
