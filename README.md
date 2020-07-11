@@ -513,6 +513,15 @@ Generates a pie chart on user profile pages displaying a breakdown of what langu
 
 ## PullRequest
 
+### [Autoviewed](https://github.com/Luismahou/autoviewed) <a href="https://chrome.google.com/webstore/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Removes clutter from your pull request by automatically marking as viewed files that aren't worth reviewing.
+
+<details><summary>Screenshots</summary>
+
+ ![Autoviewed](https://github.com/Luismahou/autoviewed/blob/master/docs/autoviewed-progress.gif)
+</details>
+
 ### [Semantic Code Reviews](https://github.com/explore-dev/semantic-code-reviews-community) <a href="https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.
