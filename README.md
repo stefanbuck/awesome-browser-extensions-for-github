@@ -697,23 +697,7 @@ This extension is to display travis-ci status for repos in GitHub. There is a vi
   <img src='https://yaowenjie.github.io/images/2016/travis0.png'/>
 </details>
 
-## [Sourcegraph](https://github.com/sourcegraph/browser-extensions) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/sourcegraph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
-
-1. Go to definition
-2. Find references
-3. Powerful code search with regexp matching, diff searches, and other filters
-4. Hover tooltips
-5. File tree navigation
-
-
-<details><summary>Screenshots</summary>
-
- ![Sourcegraph](https://images.contentful.com/le3mxztn6yoo/d9Pe31cX3aK6UGGImuKoM/58ecdd7ba9016d34445db86162e7f9dd/CodeReview2.gif?w=1440&h=1095&q=50)
-</details>
-
-## ZenHub <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://www.zenhub.com/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### ZenHub <a href="https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://www.zenhub.com/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.
 
@@ -722,7 +706,7 @@ ZenHub is the first and only project management suite that works natively within
  ![ZenHub](https://dl.dropboxusercontent.com/s/yosmyg8zsl5tyc5/zenhub.jpg)
 </details>
 
-## [asciinema Player for GitHub](https://github.com/plibither8/asciinema-player-for-github) <a href="https://chrome.google.com/webstore/detail/asciinema-player-for-gith/mkllmpcfhjcbkmegdpnaemhpdddffhil"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [asciinema Player for GitHub](https://github.com/plibither8/asciinema-player-for-github) <a href="https://chrome.google.com/webstore/detail/asciinema-player-for-gith/mkllmpcfhjcbkmegdpnaemhpdddffhil"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 This is a lightweight Chrome extension that automatically detects instances of [asciinema](https://asciinema.org) links in a README on GitHub and embeds the player in its place. Instead of being directed to the asciinema website to watch the "asciicast", watch it directly in the README (or any `.md`, `.rst`, `.textile`, [etc.](https://github.com/github/markup/blob/master/README.md#markups) file), thanks to the [embedded player widget](https://asciinema.org/docs/embedding). 🎉
 
@@ -731,7 +715,7 @@ This is a lightweight Chrome extension that automatically detects instances of [
  ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
 </details>
 
-## [Awesome Stars](https://github.com/henry40408/awesome-stars) <a href="https://chrome.google.com/webstore/detail/awesome-stars/lcokkcbdmicofdahlooopcpinogephfb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Awesome Stars](https://github.com/henry40408/awesome-stars) <a href="https://chrome.google.com/webstore/detail/awesome-stars/lcokkcbdmicofdahlooopcpinogephfb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 This is a chrome extension that shows you stars of repository on awesome list
 
@@ -767,4 +751,20 @@ Makes searching in GitHub better. With GitHub, you can only search one branch pe
 <details><summary>Screenshots</summary>
 
  ![gitsense](https://raw.githubusercontent.com/gitsense/insight/misc_images/images/search-any-branch.png)
+</details>
+
+### [Sourcegraph](https://github.com/sourcegraph/browser-extensions) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/sourcegraph/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
+
+1. Go to definition
+2. Find references
+3. Powerful code search with regexp matching, diff searches, and other filters
+4. Hover tooltips
+5. File tree navigation
+
+
+<details><summary>Screenshots</summary>
+
+ ![Sourcegraph](https://images.contentful.com/le3mxztn6yoo/d9Pe31cX3aK6UGGImuKoM/58ecdd7ba9016d34445db86162e7f9dd/CodeReview2.gif?w=1440&h=1095&q=50)
 </details>
