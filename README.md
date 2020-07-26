@@ -616,8 +616,8 @@ Displays size of each file, download link and an option of copying file contents
 
 <details><summary>Screenshots</summary>
 
-  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-home.png">
-  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-file.png">
+  <img src="https://raw.githubusercontent.com/softvar/enhanced-github/master/screenshots/github-repo-home-new.png">
+  <img src="https://raw.githubusercontent.com/softvar/enhanced-github/master/screenshots/github-file-new.png">
 </details>
 
 ### [GitHub File Icon](https://github.com/xxhomey19/github-file-icon) <a href="https://chrome.google.com/webstore/detail/github-file-icon/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
