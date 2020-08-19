@@ -1,0 +1,24 @@
+name: update-readme
+on:
+  push:
+    branches:
+      - 'master'
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - run: node ./generate-readme.js
+
+      - run: |
+            git config user.email "github@stefanbuck.com"
+            git config user.name "Stefan Buck"
+            git add README.md
+            git commit -m "Update awesome list"
+
+      - run: git push
