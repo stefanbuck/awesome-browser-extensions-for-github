@@ -10,7 +10,7 @@
     },
     "description": "CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definnition, and find-references.",
     "stars": 12,
-    "installCount": 94,
+    "installCount": 95,
     "lastUpdate": "5 Jul 2020"
   },
   {
@@ -24,7 +24,7 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 12179,
+    "stars": 12180,
     "installCount": 6264,
     "lastUpdate": "6 May 2020"
   },
@@ -96,7 +96,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
     },
     "description": "Octohint adds IntelliSense hint feature to GitHub.",
-    "stars": 891,
+    "stars": 892,
     "installCount": 5000,
     "lastUpdate": "25 Dec 2018"
   },
@@ -114,8 +114,8 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
     "description": "OctoLinker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statements in a .js, .jsx, .coffee or .md file.",
-    "stars": 4450,
-    "installCount": 28725,
+    "stars": 4452,
+    "installCount": 28726,
     "lastUpdate": "19 Aug 2020"
   },
   {
@@ -189,7 +189,7 @@
     },
     "description": "Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.",
     "stars": 5,
-    "installCount": 104,
+    "installCount": 102,
     "lastUpdate": "24 Jul 2020"
   },
   {
@@ -230,7 +230,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"
     },
     "description": "Replace browser new tab screen with GitHub trending projects.",
-    "stars": 243,
+    "stars": 244,
     "installCount": 3000,
     "lastUpdate": "21 Jun 2020"
   },
@@ -245,7 +245,7 @@
     },
     "description": "Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.",
     "stars": 211,
-    "installCount": 82,
+    "installCount": 83,
     "lastUpdate": "26 May 2018"
   },
   {
@@ -307,8 +307,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 20427,
-    "installCount": 327764,
+    "stars": 20426,
+    "installCount": 327765,
     "lastUpdate": "21 Jul 2020"
   },
   {
@@ -559,7 +559,7 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
-    "stars": 948,
+    "stars": 949,
     "installCount": 30014,
     "lastUpdate": "3 Aug 2020"
   },
@@ -634,7 +634,7 @@
     },
     "description": "Hide dotfiles from the GitHub file browser.",
     "stars": 262,
-    "installCount": 544,
+    "installCount": 547,
     "lastUpdate": "8 Aug 2020"
   },
   {
