@@ -1,5 +1,7 @@
 name: update-readme
 on:
+  schedule: 
+    - cron: '0 20 * * *'
   push:
     branches:
       - 'master'
@@ -13,12 +15,18 @@ jobs:
         with:
           node-version: 12
 
+      - run: yarn
+      
+      - run: node ./update.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - run: node ./generate-readme.js
 
       - run: |
             git config user.email "github@stefanbuck.com"
             git config user.name "Stefan Buck"
-            git add README.md
+            git add README.md data.json
             git commit -m "Update awesome list"
 
       - run: git push

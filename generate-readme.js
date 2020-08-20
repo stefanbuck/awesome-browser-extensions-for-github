@@ -18,7 +18,9 @@ const markdownList = listSorted.map(item => {
 
     return `### [${item.name}](${item.source || item.website}) ${browserIcons}
 
-${item.description}`
+${item.description}
+
+Installs: ${item.installCount || 'n/a'} | Stars: ${item.stars || 'n/a'} | Last update: ${item.lastUpdate || 'n/a'}`
 }).join('\n\n');
 
 fs.writeFileSync('./README.md', [`${intro}-->\n`, markdownList].join('\n'))
