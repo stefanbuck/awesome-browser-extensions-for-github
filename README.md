@@ -1,14 +1,17 @@
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome browser extensions for GitHub.
+All numbers are updated daily and include the overall  usage of an extension across all browser, the last publish date and stars of the GitHub reposiroty! Contributions are welcome but first see <a href="./contributing.md">Contributing</a>
 
-Visit [stefanbuck.com/awesome-browser-extensions-for-github](https://stefanbuck.com/awesome-browser-extensions-for-github) to view the online version with even more information and filter options.
+<br>
+<br>
+<div align="center">
+	<b>Visit the <a href="https://stefanbuck.com/awesome-browser-extensions-for-github">awesome browser extensions for GitHub</a> web version with additional filter options.</b>
+</div>
 
-## Contributing
-
-If you would like to contribute, edit `data.json` and submit a pull request. Please leave `stars`, `installCount` and `lastUpdate` blank since we auto update the value daily using a script. 
-
-## List
+<br>
+<br>
+<br>
+<br>
 
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
