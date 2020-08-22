@@ -4,7 +4,7 @@ on:
     - cron: '0 20 * * *'
   push:
     branches:
-      - 'master'
+      - 'main'
 jobs:
   sort:
     runs-on: ubuntu-latest
