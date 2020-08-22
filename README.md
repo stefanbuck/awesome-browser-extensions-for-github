@@ -237,7 +237,7 @@ Installs: 76 | Stars: 13 | Last update: 20 May 2017
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
-Installs: 328308 | Stars: 20428 | Last update: 21 Jul 2020
+Installs: 328310 | Stars: 20428 | Last update: 21 Jul 2020
 
 ### [PR Monitor](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
