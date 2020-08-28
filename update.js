@@ -78,7 +78,7 @@ async function downloadStats(regexDownloads, regexVersion, storeUrl) {
     if (regexVersion) {
         const matchesVersion = regexVersion.exec(res.body);
         if (matchesVersion && matchesVersion[1]) {
-            ret.lastUpdate = format(new Date(matchesVersion[1]), 'd MMM yyyy')
+            ret.lastUpdate = new Date(matchesVersion[1])
         }
     }
 
@@ -95,6 +95,10 @@ async function operaStats(storeUrl) {
     return downloadStats(/Downloads<\/dt><dd>([0-9,]+)/, '', storeUrl)
 }
 
+function findRecentVersion(dateList) {
+    return format(new Date(Math.max(...dateList.filter(Boolean).map(a => new Date(a)))), 'd MMM yyyy');
+}
+
 async function updateDownloadStats(itemIndex) {
     const item = readme[itemIndex - 1];
 
@@ -103,7 +107,7 @@ async function updateDownloadStats(itemIndex) {
     }
 
     let installCount = 0;
-    let lastUpdate = '';
+    const lastUpdates = [];
 
     if (item.store.chrome) {
         try {
@@ -111,7 +115,7 @@ async function updateDownloadStats(itemIndex) {
             const res = await chromeStats(item.store.chrome)
             console.log('chrome', res.download);
             if (res.download) installCount += res.download;
-            if (!lastUpdate) lastUpdate = res.lastUpdate;
+            lastUpdates.push(res.lastUpdate);
         } catch (error) {
             console.log('chrome', error);
         }
@@ -121,7 +125,7 @@ async function updateDownloadStats(itemIndex) {
             const res = await firefoxStats(item.store.firefox)
             if (res.download) installCount += res.download;
             console.log('firefox', res.download);
-            if (!lastUpdate) lastUpdate = res.lastUpdate;
+            lastUpdates.push(res.lastUpdate);
         } catch (error) {
             console.log('firefox', error);
         }
@@ -138,9 +142,9 @@ async function updateDownloadStats(itemIndex) {
     }
 
     if (installCount) item.installCount = installCount;
-    if (lastUpdate) item.lastUpdate = lastUpdate;
+    item.lastUpdate = findRecentVersion(lastUpdates);
 
-    console.log(item.name, lastUpdate, installCount)
+    console.log(item.name, item.lastUpdate, installCount)
 
     return updateDownloadStats(itemIndex - 1)
 }
