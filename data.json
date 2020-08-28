@@ -84,7 +84,7 @@
     "description": "An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.",
     "stars": 224,
     "installCount": 1103,
-    "lastUpdate": "24 Sep 2019"
+    "lastUpdate": "27 Nov 2019"
   },
   {
     "name": "OctoHint",
@@ -160,7 +160,7 @@
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
     "stars": 240,
     "installCount": 979,
-    "lastUpdate": "28 May 2020"
+    "lastUpdate": "16 Aug 2020"
   },
   {
     "name": "GitHub Writer",
@@ -414,8 +414,8 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1488,
-    "installCount": 18484,
-    "lastUpdate": "27 Mar 2019"
+    "installCount": 18491,
+    "lastUpdate": "28 Mar 2019"
   },
   {
     "name": "GitHub User Languages",
@@ -517,7 +517,7 @@
     "description": "Browser extension that shows which pull requests contain changes related to a file.",
     "stars": 91,
     "installCount": 60,
-    "lastUpdate": "24 Apr 2019"
+    "lastUpdate": "25 Apr 2019"
   },
   {
     "name": "PR Monitor",
@@ -666,7 +666,7 @@
     "description": "When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.",
     "stars": 422,
     "installCount": 1132,
-    "lastUpdate": "26 Jul 2020"
+    "lastUpdate": "26 Aug 2020"
   },
   {
     "name": "ZenHub",
