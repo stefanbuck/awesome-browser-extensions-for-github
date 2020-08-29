@@ -10,7 +10,7 @@
     },
     "description": "CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definnition, and find-references.",
     "stars": 12,
-    "installCount": 89,
+    "installCount": 86,
     "lastUpdate": "5 Jul 2020"
   },
   {
@@ -24,8 +24,8 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 12185,
-    "installCount": 6272,
+    "stars": 12191,
+    "installCount": 6279,
     "lastUpdate": "6 May 2020"
   },
   {
@@ -40,7 +40,7 @@
     },
     "description": "Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.",
     "stars": 218,
-    "installCount": 2198,
+    "installCount": 2200,
     "lastUpdate": "10 Apr 2019"
   },
   {
@@ -68,7 +68,7 @@
     },
     "description": "Easily navigate through the changes in a file that has been edited on GitHub.",
     "stars": 10,
-    "installCount": 186,
+    "installCount": 187,
     "lastUpdate": "7 Sep 2018"
   },
   {
@@ -83,7 +83,7 @@
     },
     "description": "An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.",
     "stars": 224,
-    "installCount": 1103,
+    "installCount": 1104,
     "lastUpdate": "27 Nov 2019"
   },
   {
@@ -114,8 +114,8 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
     "description": "OctoLinker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statements in a .js, .jsx, .coffee or .md file.",
-    "stars": 4462,
-    "installCount": 28855,
+    "stars": 4463,
+    "installCount": 28902,
     "lastUpdate": "19 Aug 2020"
   },
   {
@@ -130,7 +130,7 @@
     },
     "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.",
     "stars": 59,
-    "installCount": 604,
+    "installCount": 606,
     "lastUpdate": "25 Aug 2018"
   },
   {
@@ -158,8 +158,8 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"
     },
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
-    "stars": 240,
-    "installCount": 979,
+    "stars": 241,
+    "installCount": 975,
     "lastUpdate": "16 Aug 2020"
   },
   {
@@ -174,7 +174,7 @@
     },
     "description": "This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.",
     "stars": 193,
-    "installCount": 780,
+    "installCount": 774,
     "lastUpdate": "3 Jul 2020"
   },
   {
@@ -203,7 +203,7 @@
     },
     "description": "Chrome extension to see story points in GitHub projects.",
     "stars": 30,
-    "installCount": 328,
+    "installCount": 326,
     "lastUpdate": "17 Aug 2020"
   },
   {
@@ -244,8 +244,8 @@
       "chrome": "https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"
     },
     "description": "Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.",
-    "stars": 211,
-    "installCount": 83,
+    "stars": 212,
+    "installCount": 85,
     "lastUpdate": "26 May 2018"
   },
   {
@@ -275,8 +275,8 @@
       "safari": "https://github.com/lautis/refined-github-safari"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 12416,
-    "installCount": 35103,
+    "stars": 12427,
+    "installCount": 35200,
     "lastUpdate": "27 Aug 2020"
   },
   {
@@ -307,8 +307,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 20446,
-    "installCount": 328433,
+    "stars": 20448,
+    "installCount": 328683,
     "lastUpdate": "21 Jul 2020"
   },
   {
@@ -322,7 +322,7 @@
     },
     "description": "Chrome extension which helps you not to miss important changes in your news thread related to your repo",
     "stars": 10,
-    "installCount": 16,
+    "installCount": 15,
     "lastUpdate": "1 Oct 2018"
   },
   {
@@ -337,7 +337,7 @@
     },
     "description": "Helps you see easily which activities happened since you last visited GitHub.",
     "stars": 16,
-    "installCount": 44,
+    "installCount": 43,
     "lastUpdate": "18 May 2020"
   },
   {
@@ -351,7 +351,7 @@
     },
     "description": "Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.",
     "stars": 48,
-    "installCount": 216,
+    "installCount": 221,
     "lastUpdate": "7 Apr 2020"
   },
   {
@@ -365,8 +365,8 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"
     },
     "description": "A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.",
-    "stars": 84,
-    "installCount": 305,
+    "stars": 86,
+    "installCount": 307,
     "lastUpdate": "24 Jul 2020"
   },
   {
@@ -382,7 +382,7 @@
     },
     "description": "Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.",
     "stars": 1122,
-    "installCount": 9235,
+    "installCount": 9242,
     "lastUpdate": "7 Aug 2020"
   },
   {
@@ -397,7 +397,7 @@
     },
     "description": "The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.",
     "stars": 11,
-    "installCount": 505,
+    "installCount": 499,
     "lastUpdate": "15 Jun 2019"
   },
   {
@@ -414,7 +414,7 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1488,
-    "installCount": 18491,
+    "installCount": 18498,
     "lastUpdate": "28 Mar 2019"
   },
   {
@@ -428,7 +428,7 @@
     },
     "description": "Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.",
     "stars": 32,
-    "installCount": 291,
+    "installCount": 288,
     "lastUpdate": "19 Jul 2019"
   },
   {
@@ -444,7 +444,7 @@
     },
     "description": "Extension to get back current and longest streak.",
     "stars": 186,
-    "installCount": 769,
+    "installCount": 774,
     "lastUpdate": "6 Dec 2019"
   },
   {
@@ -457,7 +457,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"
     },
     "description": "Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.",
-    "stars": 2483,
+    "stars": 2488,
     "installCount": 10000,
     "lastUpdate": "8 Jul 2020"
   },
@@ -486,7 +486,7 @@
     },
     "description": "Find the best GIFs for your awesome pull requests.",
     "stars": 14,
-    "installCount": 183,
+    "installCount": 186,
     "lastUpdate": "4 Aug 2019"
   },
   {
@@ -516,7 +516,7 @@
     },
     "description": "Browser extension that shows which pull requests contain changes related to a file.",
     "stars": 91,
-    "installCount": 60,
+    "installCount": 63,
     "lastUpdate": "25 Apr 2019"
   },
   {
@@ -531,7 +531,7 @@
     },
     "description": "Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.",
     "stars": 36,
-    "installCount": 386,
+    "installCount": 390,
     "lastUpdate": "5 Jun 2020"
   },
   {
@@ -544,7 +544,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"
     },
     "description": "Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.",
-    "installCount": 61,
+    "installCount": 63,
     "lastUpdate": "10 Aug 2020"
   },
   {
@@ -559,8 +559,8 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
-    "stars": 954,
-    "installCount": 30022,
+    "stars": 956,
+    "installCount": 30023,
     "lastUpdate": "3 Aug 2020"
   },
   {
@@ -574,8 +574,8 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
-    "stars": 831,
-    "installCount": 9706,
+    "stars": 832,
+    "installCount": 9718,
     "lastUpdate": "22 Aug 2020"
   },
   {
@@ -589,7 +589,7 @@
     },
     "description": "Displays npm package stats on GitHub",
     "stars": 45,
-    "installCount": 489,
+    "installCount": 490,
     "lastUpdate": "31 May 2020"
   },
   {
@@ -602,7 +602,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"
     },
     "description": "Automatically adds repository size to GitHub's repository summary.",
-    "stars": 765,
+    "stars": 766,
     "installCount": 10000,
     "lastUpdate": "26 Jun 2020"
   },
@@ -618,7 +618,7 @@
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
     "stars": 86,
-    "installCount": 1138,
+    "installCount": 1141,
     "lastUpdate": "2 Jul 2020"
   },
   {
@@ -634,7 +634,7 @@
     },
     "description": "Hide dotfiles from the GitHub file browser.",
     "stars": 263,
-    "installCount": 560,
+    "installCount": 555,
     "lastUpdate": "8 Aug 2020"
   },
   {
@@ -650,7 +650,7 @@
     },
     "description": "See forks with the most stars under the names of repositories.",
     "stars": 324,
-    "installCount": 1220,
+    "installCount": 1224,
     "lastUpdate": "3 Aug 2020"
   },
   {
@@ -665,7 +665,7 @@
     },
     "description": "When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.",
     "stars": 422,
-    "installCount": 1132,
+    "installCount": 1134,
     "lastUpdate": "26 Aug 2020"
   },
   {
