@@ -711,5 +711,17 @@
     "stars": 3888,
     "installCount": 100000,
     "lastUpdate": "30 Jul 2020"
+  },
+  {
+    "name": "GitHub Dark Mode",
+    "source": "https://github.com/MrWillCom/github-dark-mode",
+    "tags": [
+      "dark-mode"
+    ],
+    "store": {
+      "firefox": "https://addons.mozilla.org/addon/github-dark-mode/",
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/mkmlkegjpmlpmdddbibkainphcilpagm"
+    },
+    "description": "The Dark Mode for GitHub.com"
   }
 ]
