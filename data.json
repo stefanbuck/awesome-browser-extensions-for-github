@@ -716,7 +716,7 @@
     "name": "GitHub Dark Mode",
     "source": "https://github.com/MrWillCom/github-dark-mode",
     "tags": [
-      "dark-mode"
+      "theme"
     ],
     "store": {
       "firefox": "https://addons.mozilla.org/addon/github-dark-mode/",
