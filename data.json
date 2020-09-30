@@ -8,7 +8,7 @@
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee"
     },
-    "description": "CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definnition, and find-references.",
+    "description": "CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definition, and find-references.",
     "stars": 12,
     "installCount": 92,
     "lastUpdate": "30 Aug 2020"
