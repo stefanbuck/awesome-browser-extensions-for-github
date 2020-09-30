@@ -29,7 +29,7 @@ Installs: 12 | Stars: 2 | Last update: 7 Jul 2020
 
 ### [CodeWyng](https://github.com/CodeWyng/codewyng) <a href="https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definnition, and find-references.
+CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definition, and find-references.
 
 Installs: 92 | Stars: 12 | Last update: 30 Aug 2020
 
@@ -243,7 +243,7 @@ Installs: 87 | Stars: 13 | Last update: 20 May 2017
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
-Installs: 329266 | Stars: 20551 | Last update: 29 Sep 2020
+Installs: 329267 | Stars: 20551 | Last update: 29 Sep 2020
 
 ### [PR Monitor](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
