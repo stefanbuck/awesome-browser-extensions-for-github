@@ -726,5 +726,18 @@
     "stars": 7,
     "installCount": 7,
     "lastUpdate": "5 Sep 2020"
+  },
+  {
+    "name": "GIFs for GitHub",
+    "source": "https://github.com/N1ck/gifs-for-github",
+    "tags": [
+      "pullrequest",
+      "comments"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gifs-for-github/"
+    },
+    "description": "Easily search GIPHY to add a GIF into any GitHub comment box."
   }
 ]
