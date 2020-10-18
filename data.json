@@ -308,7 +308,7 @@
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
     "stars": 20612,
-    "installCount": 329564,
+    "installCount": 329565,
     "lastUpdate": "13 Oct 2020"
   },
   {
@@ -561,7 +561,7 @@
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
     "stars": 1006,
     "installCount": 30083,
-    "lastUpdate": "14 Oct 2020"
+    "lastUpdate": "18 Oct 2020"
   },
   {
     "name": "GitHub File Icon",
@@ -738,6 +738,9 @@
       "chrome": "https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gifs-for-github/"
     },
-    "description": "Easily search GIPHY to add a GIF into any GitHub comment box."
+    "description": "Easily search GIPHY to add a GIF into any GitHub comment box.",
+    "stars": 37,
+    "installCount": 1189,
+    "lastUpdate": "14 Oct 2020"
   }
 ]
