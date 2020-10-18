@@ -113,7 +113,7 @@
       "opera": "https://addons.opera.com/extensions/details/octolinker/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
-    "description": "OctoLinker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statements in a .js, .jsx, .coffee or .md file.",
+    "description": "OctoLinker is a browser extension for GitHub, that turns language-specific statements like include require or import into links.",
     "stars": 4522,
     "installCount": 29569,
     "lastUpdate": "7 Oct 2020"
