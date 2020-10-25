@@ -720,7 +720,8 @@
     ],
     "store": {
       "firefox": "https://addons.mozilla.org/addon/github-dark-mode/",
-      "edge": "https://microsoftedge.microsoft.com/addons/detail/mkmlkegjpmlpmdddbibkainphcilpagm"
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/mkmlkegjpmlpmdddbibkainphcilpagm",
+      "safari": "https://github.com/aeilot/github-dark-mode-safari"
     },
     "description": "The Dark Mode for GitHub.com",
     "stars": 7,
