@@ -743,5 +743,16 @@
     "stars": 39,
     "installCount": 1191,
     "lastUpdate": "20 Oct 2020"
+  },
+  {
+    "name": "Github Saved Filters",
+    "website": "https://www.producthunt.com/posts/github-saved-filters",
+    "tags": [
+      "search"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"
+    },
+    "description": "Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list."
   }
 ]
