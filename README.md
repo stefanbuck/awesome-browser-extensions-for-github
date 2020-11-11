@@ -19,7 +19,7 @@ All numbers are updated daily and include the overall  usage of an extension acr
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
-Installs: 215 | Stars: 50 | Last update: 7 Apr 2020
+Installs: 216 | Stars: 50 | Last update: 7 Apr 2020
 
 ### [Autoviewed](https://github.com/Luismahou/autoviewed) <a href="https://chrome.google.com/webstore/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -49,7 +49,7 @@ Installs: 544 | Stars: 11 | Last update: 15 Jun 2019
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
-Installs: 30108 | Stars: 1028 | Last update: 18 Oct 2020
+Installs: 30110 | Stars: 1032 | Last update: 18 Oct 2020
 
 ### [GIFs for GitHub](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -67,7 +67,7 @@ Installs: 202 | Stars: 15 | Last update: 4 Aug 2019
 
 Quickly browse the history of a file from any git repository.
 
-Installs: 7282 | Stars: 12269 | Last update: 6 May 2020
+Installs: 7282 | Stars: 12272 | Last update: 6 May 2020
 
 ### [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete) <a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/algolia/github-awesome-autocomplete#installation"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -103,7 +103,7 @@ Installs: 206 | Stars: 11 | Last update: 7 Sep 2018
 
 A browser extension which gives different filetypes different icons on GitHub.
 
-Installs: 10745 | Stars: 857 | Last update: 9 Oct 2020
+Installs: 10750 | Stars: 858 | Last update: 9 Oct 2020
 
 ### [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/Nuclides/github-highlight-selected"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -115,13 +115,13 @@ Installs: 1000 | Stars: 131 | Last update: 8 Oct 2019
 
 Neat hovercards for GitHub.
 
-Installs: 19383 | Stars: 1523 | Last update: 24 Oct 2020
+Installs: 19398 | Stars: 1524 | Last update: 24 Oct 2020
 
 ### [GitHub Issue Link Status](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Colorize issue and PR links to see their status (open, closed, merged).
 
-Installs: 1027 | Stars: 243 | Last update: 26 Sep 2020
+Installs: 1026 | Stars: 243 | Last update: 26 Sep 2020
 
 ### [GitHub Npm Stats](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -133,7 +133,7 @@ Installs: 514 | Stars: 45 | Last update: 31 May 2020
 
 Automatically adds repository size to GitHub's repository summary.
 
-Installs: 10000 | Stars: 807 | Last update: 26 Jun 2020
+Installs: 10000 | Stars: 808 | Last update: 26 Jun 2020
 
 ### [GitHub Story Points](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -169,7 +169,7 @@ Installs: 28 | Stars: n/a | Last update: 23 Oct 2020
 
 Extension to get back current and longest streak.
 
-Installs: 763 | Stars: 191 | Last update: 6 Dec 2019
+Installs: 764 | Stars: 191 | Last update: 6 Dec 2019
 
 ### [Hacker Tab](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -181,7 +181,7 @@ Installs: 3000 | Stars: 256 | Last update: 21 Jun 2020
 
 Hide dotfiles from the GitHub file browser.
 
-Installs: 593 | Stars: 268 | Last update: 29 Oct 2020
+Installs: 593 | Stars: 269 | Last update: 29 Oct 2020
 
 ### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -223,7 +223,7 @@ Installs: 323 | Stars: 90 | Last update: 24 Jul 2020
 
 Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
-Installs: 10310 | Stars: 1180 | Last update: 10 Sep 2020
+Installs: 10310 | Stars: 1181 | Last update: 10 Sep 2020
 
 ### [OctoHint](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -241,7 +241,7 @@ Installs: 65 | Stars: 72 | Last update: 5 Mar 2020
 
 OctoLinker is a browser extension for GitHub, that turns language-specific statements like include require or import into links.
 
-Installs: 29650 | Stars: 4533 | Last update: 7 Oct 2020
+Installs: 29664 | Stars: 4534 | Last update: 7 Oct 2020
 
 ### [OctoPermalinker](https://github.com/josephfrazier/octopermalinker) <a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -255,7 +255,7 @@ Installs: 87 | Stars: 14 | Last update: 20 May 2017
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
-Installs: 330125 | Stars: 20700 | Last update: 9 Nov 2020
+Installs: 330166 | Stars: 20701 | Last update: 9 Nov 2020
 
 ### [PR Monitor](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -273,7 +273,7 @@ Installs: 65 | Stars: 91 | Last update: 15 Oct 2020
 
 Extension that simplifies the GitHub interface and adds useful features.
 
-Installs: 45191 | Stars: 12865 | Last update: 6 Nov 2020
+Installs: 45206 | Stars: 12872 | Last update: 6 Nov 2020
 
 ### [Render Whitespace on GitHub](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -297,7 +297,7 @@ The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewi
 4. Hover tooltips
 5. File tree navigation
 
-Installs: 100000 | Stars: 4054 | Last update: 27 Oct 2020
+Installs: 100000 | Stars: 4055 | Last update: 27 Oct 2020
 
 ### [Tab Size on GitHub](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
