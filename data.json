@@ -756,5 +756,17 @@
     "description": "Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.",
     "installCount": 32,
     "lastUpdate": "23 Oct 2020"
+  },
+  {
+    "name": "Tako - GitHub File Tree",
+    "source": "https://github.com/brumm/tako",
+    "tags": [
+      "navigation"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/tako-%E2%80%94-github-file-tree/fdmdpnmffpjdkjaapcbdnkhnidhgoabe",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/tako-github-file-tree/"
+    },
+    "description": "Tako replaces the default Github repository file list with an expandable file tree and file preview for rapid exploration of repositories.",
   }
 ]
