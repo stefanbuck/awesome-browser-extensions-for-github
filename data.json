@@ -105,7 +105,8 @@
     "website": "https://octolinker.now.sh",
     "source": "https://github.com/OctoLinker/OctoLinker",
     "tags": [
-      "code"
+      "code",
+      "navigation"
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
@@ -113,7 +114,7 @@
       "opera": "https://addons.opera.com/extensions/details/octolinker/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
-    "description": "OctoLinker is a browser extension for GitHub, that turns language-specific statements like include require or import into links.",
+    "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
     "stars": 4559,
     "installCount": 29686,
     "lastUpdate": "16 Nov 2020"
