@@ -309,8 +309,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 20933,
-    "installCount": 332046,
+    "stars": 20932,
+    "installCount": 332048,
     "lastUpdate": "19 Jan 2021"
   },
   {
@@ -416,7 +416,7 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1552,
-    "installCount": 20579,
+    "installCount": 20583,
     "lastUpdate": "15 Jan 2021"
   },
   {
@@ -561,7 +561,7 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
-    "stars": 1098,
+    "stars": 1099,
     "installCount": 40187,
     "lastUpdate": "2 Jan 2021"
   },
