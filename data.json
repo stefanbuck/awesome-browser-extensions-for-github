@@ -656,14 +656,15 @@
     "lastUpdate": "26 Dec 2020"
   },
   {
-    "name": "npm-hub",
+    "name": "npmhub",
     "source": "https://github.com/npmhub/npmhub",
     "tags": [
       "repository"
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj",
-      "firefox": "https://addons.mozilla.org/firefox/addon/npm-hub/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/npm-hub/",
+      "safari": "https://apps.apple.com/app/npmhub/id1542090429"
     },
     "description": "When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.",
     "stars": 538,
