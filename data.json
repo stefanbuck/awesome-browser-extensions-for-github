@@ -277,7 +277,7 @@
       "safari": "https://github.com/lautis/refined-github-safari"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 13964,
+    "stars": 13965,
     "installCount": 45342,
     "lastUpdate": "11 Mar 2021"
   },
@@ -309,7 +309,7 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 21100,
+    "stars": 21101,
     "installCount": 332599,
     "lastUpdate": "1 Mar 2021"
   },
@@ -383,7 +383,7 @@
       "opera": "https://github.com/sindresorhus/notifier-for-github#install"
     },
     "description": "Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.",
-    "stars": 1258,
+    "stars": 1257,
     "installCount": 10381,
     "lastUpdate": "19 Nov 2020"
   },
@@ -561,7 +561,7 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
-    "stars": 1138,
+    "stars": 1139,
     "installCount": 40241,
     "lastUpdate": "14 Mar 2021"
   },
