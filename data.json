@@ -762,7 +762,7 @@
   },
   {
     "name": "Open GitHub file links in IDE",
-    "website": "https://github.com/lmichelin/open-github-links-in-ide",
+    "source": "https://github.com/lmichelin/open-github-links-in-ide",
     "tags": [
       "ide",
       "code",
