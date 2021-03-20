@@ -9,7 +9,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"
     },
     "description": "Next level code navigation for GitHub.",
-    "stars": 14,
+    "stars": 15,
     "installCount": 113,
     "lastUpdate": "20 Mar 2021"
   },
@@ -117,7 +117,7 @@
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
     "stars": 4663,
-    "installCount": 30328,
+    "installCount": 30329,
     "lastUpdate": "2 Jan 2021"
   },
   {
@@ -416,7 +416,7 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1569,
-    "installCount": 21393,
+    "installCount": 21395,
     "lastUpdate": "15 Jan 2021"
   },
   {
@@ -775,6 +775,7 @@
     },
     "description": "This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.",
     "installCount": 221,
-    "lastUpdate": "14 Mar 2021"
+    "lastUpdate": "20 Mar 2021",
+    "stars": 13
   }
 ]
