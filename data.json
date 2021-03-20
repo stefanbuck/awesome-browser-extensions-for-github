@@ -1,14 +1,14 @@
 [
   {
-    "name": "CodeWyng",
-    "source": "https://github.com/CodeWyng/codewyng",
+    "name": "CodeWing",
+    "source": "https://github.com/codewing-dev/codewing",
     "tags": [
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee"
+      "chrome": "https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"
     },
-    "description": "CodeWyng provides lightning fast code navigation on GitHub: hover documentation, go-to-definition, and find-references.",
+    "description": "Next level code navigation for GitHub.",
     "stars": 14,
     "installCount": 113,
     "lastUpdate": "20 Mar 2021"
