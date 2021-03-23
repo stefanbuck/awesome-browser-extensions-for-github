@@ -37,7 +37,7 @@ Installs: 113 | Stars: 16 | Last update: 20 Mar 2021
 
 Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
 
-Installs: 147 | Stars: 7 | Last update: 18 Mar 2021
+Installs: 146 | Stars: 7 | Last update: 18 Mar 2021
 
 ### [CoderStats link for GitHub](https://github.com/coderstats/cxt_coderstats) <a href="https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/coderstats/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -49,7 +49,7 @@ Installs: 630 | Stars: 13 | Last update: 20 Nov 2020
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
 
-Installs: 40238 | Stars: 1148 | Last update: 14 Mar 2021
+Installs: 40237 | Stars: 1150 | Last update: 23 Mar 2021
 
 ### [GIFs for GitHub](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -67,7 +67,7 @@ Installs: 178 | Stars: 16 | Last update: 4 Aug 2019
 
 Quickly browse the history of a file from any git repository.
 
-Installs: 7265 | Stars: 12463 | Last update: 6 May 2020
+Installs: 7266 | Stars: 12463 | Last update: 6 May 2020
 
 ### [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete) <a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/algolia/github-awesome-autocomplete#installation"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -79,7 +79,7 @@ Installs: 10000 | Stars: 1015 | Last update: 22 Feb 2018
 
 Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
-Installs: 2179 | Stars: 227 | Last update: 10 Apr 2019
+Installs: 2178 | Stars: 227 | Last update: 10 Apr 2019
 
 ### [GitHub Custom Tab Size](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -103,7 +103,7 @@ Installs: 198 | Stars: 13 | Last update: 7 Sep 2018
 
 A browser extension which gives different filetypes different icons on GitHub.
 
-Installs: 10731 | Stars: 909 | Last update: 9 Oct 2020
+Installs: 10727 | Stars: 909 | Last update: 9 Oct 2020
 
 ### [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) <a href="https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/Nuclides/github-highlight-selected"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -115,7 +115,7 @@ Installs: 1000 | Stars: 133 | Last update: 8 Oct 2019
 
 Neat hovercards for GitHub.
 
-Installs: 21413 | Stars: 1570 | Last update: 15 Jan 2021
+Installs: 21420 | Stars: 1570 | Last update: 15 Jan 2021
 
 ### [GitHub Issue Link Status](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -151,13 +151,13 @@ Installs: 488 | Stars: 36 | Last update: 19 Jul 2019
 
 This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.
 
-Installs: 1105 | Stars: 221 | Last update: 27 Jan 2021
+Installs: 1104 | Stars: 222 | Last update: 27 Jan 2021
 
 ### [GitHub vscode-icons](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.
 
-Installs: 1229 | Stars: 114 | Last update: 14 Feb 2021
+Installs: 1229 | Stars: 115 | Last update: 14 Feb 2021
 
 ### [Github Saved Filters](https://www.producthunt.com/posts/github-saved-filters) <a href="https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -199,7 +199,7 @@ Installs: 77 | Stars: 218 | Last update: 26 May 2018
 
 See forks with the most stars under the names of repositories.
 
-Installs: 1238 | Stars: 366 | Last update: 26 Dec 2020
+Installs: 1239 | Stars: 367 | Last update: 26 Dec 2020
 
 ### [Module Linker](https://github.com/fiatjaf/module-linker) <a href="https://chrome.google.com/webstore/detail/module-linker/dglofghjinifeolcpjfjmfdnnbaanggn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -217,13 +217,13 @@ Installs: 20 | Stars: 11 | Last update: 1 Oct 2018
 
 A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
 
-Installs: 357 | Stars: 105 | Last update: 9 Mar 2021
+Installs: 356 | Stars: 105 | Last update: 9 Mar 2021
 
 ### [Notifier for GitHub](https://github.com/sindresorhus/notifier-for-github) <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/notifier-for-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
 
-Installs: 10390 | Stars: 1260 | Last update: 19 Nov 2020
+Installs: 10389 | Stars: 1260 | Last update: 19 Nov 2020
 
 ### [OctoHint](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -241,7 +241,7 @@ Installs: 64 | Stars: 83 | Last update: 5 Mar 2020
 
 OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.
 
-Installs: 30285 | Stars: 4663 | Last update: 2 Jan 2021
+Installs: 30289 | Stars: 4664 | Last update: 2 Jan 2021
 
 ### [OctoPermalinker](https://github.com/josephfrazier/octopermalinker) <a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -255,7 +255,7 @@ Installs: 114 | Stars: 14 | Last update: 20 May 2017
 
 Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
 
-Installs: 332725 | Stars: 21122 | Last update: 1 Mar 2021
+Installs: 332722 | Stars: 21122 | Last update: 1 Mar 2021
 
 ### [Open GitHub file links in IDE](https://github.com/lmichelin/open-github-links-in-ide) <a href="https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/open-github-in-ide/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -267,19 +267,19 @@ Installs: 220 | Stars: 13 | Last update: 20 Mar 2021
 
 Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
 
-Installs: 522 | Stars: 46 | Last update: 5 Jun 2020
+Installs: 523 | Stars: 46 | Last update: 5 Jun 2020
 
 ### [Potential changes for GitHub](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Browser extension that shows which pull requests contain changes related to a file.
 
-Installs: 59 | Stars: 92 | Last update: 15 Oct 2020
+Installs: 58 | Stars: 92 | Last update: 15 Oct 2020
 
 ### [Refined GitHub](https://github.com/sindresorhus/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/lautis/refined-github-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Extension that simplifies the GitHub interface and adds useful features.
 
-Installs: 45377 | Stars: 14020 | Last update: 17 Mar 2021
+Installs: 45380 | Stars: 14026 | Last update: 17 Mar 2021
 
 ### [Render Whitespace on GitHub](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -303,7 +303,7 @@ The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewi
 4. Hover tooltips
 5. File tree navigation
 
-Installs: 100000 | Stars: 4523 | Last update: 23 Feb 2021
+Installs: 100000 | Stars: 4527 | Last update: 23 Feb 2021
 
 ### [Tab Size on GitHub](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
@@ -333,4 +333,4 @@ Installs: 2000 | Stars: 123 | Last update: 24 Jul 2020
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
 
-Installs: 2143 | Stars: 543 | Last update: 31 Jan 2021
+Installs: 2142 | Stars: 543 | Last update: 31 Jan 2021
