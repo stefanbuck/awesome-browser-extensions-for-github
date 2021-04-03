@@ -6,7 +6,7 @@ on:
     branches:
       - 'main'
 jobs:
-  sort:
+  update:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -27,6 +27,6 @@ jobs:
             git config user.email "github@stefanbuck.com"
             git config user.name "Stefan Buck"
             git add README.md data.json
-            git commit -m "Update awesome list"
+            git diff-index --quiet HEAD || git commit -m "Update awesome list"
 
       - run: git push
