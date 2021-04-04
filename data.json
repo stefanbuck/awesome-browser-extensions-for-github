@@ -782,11 +782,7 @@
     "name": "Old School GitHub",
     "source": "https://github.com/daattali/oldschool-github-extension",
     "tags": [
-      "github",
-      "chrome-extension",
-      "firefox-addon",
-      "firefox-extension",
-      "chrome-extensions"
+      "theme"
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb",
