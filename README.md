@@ -87,12 +87,6 @@ Set custom tab size for code view on GitHub.com
 
 Installs: 727 | Stars: 59 | Last update: 6 May 2019
 
-### [GitHub Dark Mode](https://github.com/MrWillCom/github-dark-mode) <a href="https://addons.mozilla.org/addon/github-dark-mode/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/mkmlkegjpmlpmdddbibkainphcilpagm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a> <a href="https://github.com/aeilot/github-dark-mode-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
-
-The Dark Mode for GitHub.com
-
-Installs: 29 | Stars: 16 | Last update: 5 Dec 2020
-
 ### [GitHub Diff Navigator](https://github.com/daattali/github-diff-navigator-extension) <a href="https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Easily navigate through the changes in a file that has been edited on GitHub.
