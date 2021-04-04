@@ -716,22 +716,6 @@
     "lastUpdate": "30 Mar 2021"
   },
   {
-    "name": "GitHub Dark Mode",
-    "source": "https://github.com/MrWillCom/github-dark-mode",
-    "tags": [
-      "theme"
-    ],
-    "store": {
-      "firefox": "https://addons.mozilla.org/addon/github-dark-mode/",
-      "edge": "https://microsoftedge.microsoft.com/addons/detail/mkmlkegjpmlpmdddbibkainphcilpagm",
-      "safari": "https://github.com/aeilot/github-dark-mode-safari"
-    },
-    "description": "The Dark Mode for GitHub.com",
-    "stars": 16,
-    "installCount": 29,
-    "lastUpdate": "5 Dec 2020"
-  },
-  {
     "name": "GIFs for GitHub",
     "source": "https://github.com/N1ck/gifs-for-github",
     "tags": [
