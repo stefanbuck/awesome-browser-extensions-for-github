@@ -764,5 +764,17 @@
     "installCount": 228,
     "lastUpdate": "20 Mar 2021",
     "stars": 13
+  },
+  {
+    "name": "Old School GitHub",
+    "source": "https://github.com/daattali/oldschool-github-extension",
+    "tags": [
+      "theme"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb",
+      "firefox": "https://addons.mozilla.org/addon/old-school-github/"
+    },
+    "description": "Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design)."
   }
 ]
