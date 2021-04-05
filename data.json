@@ -428,7 +428,8 @@
       "profile"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl"
+      "chrome": "https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl",
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-user-languages/"
     },
     "description": "Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.",
     "stars": 36,
