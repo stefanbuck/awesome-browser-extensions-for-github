@@ -64,7 +64,8 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo"
+      "chrome": "https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo",
+      "firefox": "https://addons.mozilla.org/addon/diff-navigator-for-github/"
     },
     "description": "Easily navigate through the changes in a file that has been edited on GitHub.",
     "stars": 13,
