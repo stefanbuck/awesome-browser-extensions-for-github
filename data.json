@@ -202,7 +202,8 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"
+      "chrome": "https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-story-points/"
     },
     "description": "Chrome extension to see story points in GitHub projects.",
     "stars": 43,
