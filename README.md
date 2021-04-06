@@ -13,6 +13,10 @@ All numbers are updated daily and include the overall  usage of an extension acr
 <br>
 <br>
 
+# Supporters
+
+Thanks for those who are supporting my work via [GitHub Sponsors](https://github.com/sponsors/stefanbuck?frequency=one-time&sponsor=stefanbuck).
+
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
 ### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
