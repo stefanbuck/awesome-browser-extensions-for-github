@@ -776,5 +776,17 @@
       "firefox": "https://addons.mozilla.org/addon/old-school-github/"
     },
     "description": "Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design)."
+  },
+  {
+    "name": "GitHub CSV Diff",
+    "source": "https://github.com/banyan/github-csv-diff",
+    "tags": [
+      "pullrequest",
+      "codereview"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek"
+    },
+    "description": "GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page."
   }
 ]
