@@ -79,7 +79,6 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/module-linker/dglofghjinifeolcpjfjmfdnnbaanggn",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/module-linker/"
     },
     "description": "An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.",
