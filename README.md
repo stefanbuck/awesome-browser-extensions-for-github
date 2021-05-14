@@ -208,7 +208,7 @@ See forks with the most stars under the names of repositories.
 
 Installs: 1241 | Stars: 368 | Last update: 26 Dec 2020
 
-### [Module Linker](https://github.com/fiatjaf/module-linker) <a href="https://chrome.google.com/webstore/detail/module-linker/dglofghjinifeolcpjfjmfdnnbaanggn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+### [Module Linker](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/en-US/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
 
