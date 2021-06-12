@@ -1,0 +1,63 @@
+name: Submit new extensions
+description: Submit new extensions by raising an issue
+labels: [submit]
+
+title: "Submit new extension"
+
+body:
+- type: input
+  id: name
+  attributes:
+    label: Name of the browser extension
+  validations:
+    required: true
+
+- type: input
+  id: description
+  attributes:
+    label: A short description
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Please select one or more categories
+    options:
+      - label: Code
+      - label: Codereview
+      - label: Comments
+      - label: IDE
+      - label: Miscellaneous
+      - label: Navigation
+      - label: Newsfeed
+      - label: Notifications
+      - label: Profile
+      - label: Pull Request
+      - label: Repository
+      - label: Search
+      - label: Theme
+
+- type: input
+  id: chrome
+  attributes:
+    label: Chrome web store url
+
+- type: input
+  id: firefox
+  attributes:
+    label: Firefox Addons url
+
+- type: input
+  id: edge
+  attributes:
+    label: Microsoft Edge Add-ons url
+
+- type: input
+  id: opera
+  attributes:
+    label: Opera Addons url
+
+- type: input
+  id: safari
+  attributes:
+    label: Mac App Store url
