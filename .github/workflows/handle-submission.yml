@@ -1,0 +1,41 @@
+on:
+  issues:
+    types: [labeled]
+jobs:
+  setup:
+    if: ${{ github.event.label.name == 'merge' }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - uses: stefanbuck/github-issue-praser@main
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/submit-extension.yml
+
+      - run: echo ${{ toJSON(steps.issue-parser.outputs.jsonString) }} > submission.json
+      - run: node submission.js
+
+      - run: yarn
+      
+      - run: node ./update.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - run: node ./generate-readme.js
+
+      - run: |
+            git config user.email "github@stefanbuck.com"
+            git config user.name "Stefan Buck"
+            git add README.md data.json
+            git diff-index --quiet HEAD || git commit -m "Add new list item"
+
+      - run: git push
+
+      - uses: peter-evans/close-issue@v1
+        with:
+          comment: Merged! Check out the <a href="../">README</a>.

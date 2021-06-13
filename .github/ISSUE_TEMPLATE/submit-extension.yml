@@ -1,5 +1,5 @@
-name: Submit new extensions
-description: Submit new extensions by raising an issue
+name: Submit new extension
+description: Submit new extension by raising an issue
 labels: [submit]
 
 title: "Submit new extension"
@@ -18,6 +18,11 @@ body:
     label: A short description
   validations:
     required: true
+
+- type: input
+  id: source
+  attributes:
+    label: Source code repository
 
 - type: checkboxes
   attributes:
