@@ -411,7 +411,6 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk",
-      "firefox": "https://addons.mozilla.org/firefox/addon/github-hovercard/",
       "opera": "https://addons.opera.com/extensions/details/github-hovercard/",
       "edge": "https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"
     },
@@ -574,8 +573,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe",
-      "firefox": "https://addons.mozilla.org/firefox/addon/github-file-icon/"
+      "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
     "stars": 910,
