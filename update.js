@@ -65,11 +65,19 @@ async function downloadStats(regexDownloads, regexVersion, storeUrl) {
         return ret;
     }
 
-    const res = await got.get(storeUrl, {
-        headers: {
-            'accept-language': 'en,en-US',
-        }
-    })
+    let res;
+    try {  
+        res = await got.get(storeUrl, {
+            headers: {
+                'accept-language': 'en,en-US',
+            }
+        })
+    }catch(error) {
+        console.log(storeUrl)
+        console.log(error)
+        return ret;
+    }
+
     const matchesDownloads = regexDownloads.exec(res.body);
     if (matchesDownloads && matchesDownloads[1]) {
         ret.download = parseInt(matchesDownloads[1].replace(/[.,]/g, ''), 10)
