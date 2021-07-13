@@ -348,6 +348,12 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
 
 Installs: 2000 | Stars: 122 | Last update: 24 Jul 2020
 
+### [gitpod - dev environments in a browser tab](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/tr/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
+
+Installs: n/a | Stars: n/a | Last update: n/a
+
 ### [npmhub](https://github.com/npmhub/npmhub) <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/npm-hub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/npmhub/id1542090429"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.

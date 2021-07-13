@@ -802,5 +802,19 @@
       "firefox": "https://addons.mozilla.org/en-us/firefox/addon/gitako-github-file-tree/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"
     }
+  },
+  {
+    "name": "gitpod - dev environments in a browser tab",
+    "description": "gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.",
+    "source": "https://github.com/gitpod-io/browser-extension",
+    "tags": [
+      "code",
+      "ide",
+      "repository"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
+      "firefox": "https://addons.mozilla.org/tr/firefox/addon/gitpod/"
+    }
   }
 ]
