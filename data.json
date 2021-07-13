@@ -688,21 +688,6 @@
     "lastUpdate": "29 Mar 2021"
   },
   {
-    "name": "GitHub Awesome Autocomplete",
-    "source": "https://github.com/algolia/github-awesome-autocomplete",
-    "tags": [
-      "search"
-    ],
-    "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd",
-      "safari": "https://github.com/algolia/github-awesome-autocomplete#installation"
-    },
-    "description": "Simple and discreet extension that enhances GitHub's search, letting you search for repositories and people faster than ever.",
-    "stars": 1019,
-    "installCount": 10000,
-    "lastUpdate": "22 Feb 2018"
-  },
-  {
     "name": "Sourcegraph",
     "source": "https://github.com/sourcegraph/sourcegraph/tree/main/client/browser",
     "tags": [
