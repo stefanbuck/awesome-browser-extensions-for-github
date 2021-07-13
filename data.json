@@ -787,5 +787,20 @@
       "chrome": "https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek"
     },
     "description": "GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page."
+  },
+  {
+    "name": "gitako - github file tree",
+    "description": "file tree for github, and more than that.",
+    "source": "https://github.com/enixcoda/gitako",
+    "tags": [
+      "navigation",
+      "repository",
+      "search"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk",
+      "firefox": "https://addons.mozilla.org/en-us/firefox/addon/gitako-github-file-tree/",
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"
+    }
   }
 ]
