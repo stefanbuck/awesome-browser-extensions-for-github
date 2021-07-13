@@ -21,7 +21,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-history/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
     "stars": 12473,
@@ -36,7 +36,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-code-folding"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-code-folding"
     },
     "description": "Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.",
     "stars": 227,
@@ -79,7 +79,7 @@
       "code"
     ],
     "store": {
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/module-linker/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/module-linker/"
     },
     "description": "An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.",
     "stars": 229,
@@ -157,7 +157,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-issue-link-status/"
     },
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
     "stars": 248,
@@ -172,7 +172,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-writer/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-writer/"
     },
     "description": "This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.",
     "stars": 221,
@@ -187,7 +187,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/codeflower/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/codeflower/"
     },
     "description": "Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.",
     "stars": 7,
@@ -202,7 +202,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-story-points/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-story-points/"
     },
     "description": "Chrome extension to see story points in GitHub projects.",
     "stars": 43,
@@ -274,7 +274,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/refined-github-/",
+      "firefox": "https://addons.mozilla.org/firefox/addon/refined-github-/",
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
@@ -350,7 +350,7 @@
       "notifications"
     ],
     "store": {
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"
+      "firefox": "https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"
     },
     "description": "Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.",
     "stars": 51,
@@ -365,7 +365,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/notifications-preview-github/"
     },
     "description": "A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.",
     "stars": 106,
@@ -443,7 +443,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-original-streak/",
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-original-streak/",
       "opera": "https://addons.opera.com/it/extensions/details/github-original-streak/"
     },
     "description": "Extension to get back current and longest streak.",
@@ -516,7 +516,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/potential-changes-for-github/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/potential-changes-for-github/"
     },
     "description": "Browser extension that shows which pull requests contain changes related to a file.",
     "stars": 92,
@@ -531,7 +531,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/pr-monitor/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/pr-monitor/"
     },
     "description": "Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.",
     "stars": 46,
@@ -559,7 +559,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/enhanced-github/",
+      "firefox": "https://addons.mozilla.org/firefox/addon/enhanced-github/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
@@ -575,7 +575,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-file-icon/"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
     "stars": 910,
@@ -618,7 +618,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-vscode-icons/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-vscode-icons/"
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
     "stars": 119,
@@ -633,7 +633,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/hide-files-on-github-/",
+      "firefox": "https://addons.mozilla.org/firefox/addon/hide-files-on-github-/",
       "opera": "https://github.com/sindresorhus/hide-files-on-github#install"
     },
     "description": "Hide dotfiles from the GitHub file browser.",
@@ -710,7 +710,8 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack",
-      "firefox": "https://docs.sourcegraph.com/integration/browser_extension"
+      "firefox": "https://addons.mozilla.org/firefox/addon/sourcegraph-for-firefox/",
+      "safari": "https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"
     },
     "description": "The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:\n\n1. Go to definition\n2. Find references\n3. Powerful code search with regexp matching, diff searches, and other filters\n4. Hover tooltips\n5. File tree navigation",
     "stars": 4548,
@@ -726,7 +727,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep",
-      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gifs-for-github/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/gifs-for-github/"
     },
     "description": "Easily search GIPHY to add a GIF into any GitHub comment box.",
     "stars": 49,
@@ -799,7 +800,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk",
-      "firefox": "https://addons.mozilla.org/en-us/firefox/addon/gitako-github-file-tree/",
+      "firefox": "https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"
     }
   },
@@ -814,7 +815,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
-      "firefox": "https://addons.mozilla.org/tr/firefox/addon/gitpod/"
+      "firefox": "https://addons.mozilla.org/firefox/addon/gitpod/"
     }
   }
 ]
