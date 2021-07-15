@@ -25,7 +25,7 @@
     },
     "description": "Quickly browse the history of a file from any git repository.",
     "stars": 12581,
-    "installCount": 7217,
+    "installCount": 7215,
     "lastUpdate": "6 May 2020"
   },
   {
@@ -40,7 +40,7 @@
     },
     "description": "Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.",
     "stars": 250,
-    "installCount": 2172,
+    "installCount": 2171,
     "lastUpdate": "10 Apr 2019"
   },
   {
@@ -117,7 +117,7 @@
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
     "stars": 4761,
-    "installCount": 30724,
+    "installCount": 30727,
     "lastUpdate": "2 Jan 2021"
   },
   {
@@ -132,7 +132,7 @@
     },
     "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.",
     "stars": 66,
-    "installCount": 667,
+    "installCount": 668,
     "lastUpdate": "25 Aug 2018"
   },
   {
@@ -161,7 +161,7 @@
     },
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
     "stars": 266,
-    "installCount": 1093,
+    "installCount": 1094,
     "lastUpdate": "8 Jun 2021"
   },
   {
@@ -176,7 +176,7 @@
     },
     "description": "This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.",
     "stars": 236,
-    "installCount": 1105,
+    "installCount": 1106,
     "lastUpdate": "27 Jan 2021"
   },
   {
@@ -278,8 +278,8 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 14944,
-    "installCount": 45205,
+    "stars": 14952,
+    "installCount": 45210,
     "lastUpdate": "12 Jul 2021"
   },
   {
@@ -310,8 +310,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 21410,
-    "installCount": 434377,
+    "stars": 21416,
+    "installCount": 434390,
     "lastUpdate": "4 Jul 2021"
   },
   {
@@ -354,7 +354,7 @@
     },
     "description": "Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.",
     "stars": 53,
-    "installCount": 190,
+    "installCount": 191,
     "lastUpdate": "21 Jun 2021"
   },
   {
@@ -385,7 +385,7 @@
     },
     "description": "Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.",
     "stars": 1334,
-    "installCount": 10395,
+    "installCount": 10397,
     "lastUpdate": "31 May 2021"
   },
   {
@@ -415,8 +415,8 @@
       "edge": "https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"
     },
     "description": "Neat hovercards for GitHub.",
-    "stars": 1610,
-    "installCount": 22247,
+    "stars": 1611,
+    "installCount": 22252,
     "lastUpdate": "12 May 2021"
   },
   {
@@ -535,7 +535,7 @@
     "description": "Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.",
     "stars": 54,
     "installCount": 575,
-    "lastUpdate": "3 Jun 2021"
+    "lastUpdate": "15 Jul 2021"
   },
   {
     "name": "Semantic Code Reviews",
@@ -562,8 +562,8 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
-    "stars": 1296,
-    "installCount": 40330,
+    "stars": 1297,
+    "installCount": 40333,
     "lastUpdate": "22 Apr 2021"
   },
   {
@@ -576,7 +576,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
-    "stars": 969,
+    "stars": 970,
     "installCount": 10000,
     "lastUpdate": "9 Oct 2020"
   },
@@ -652,7 +652,7 @@
     },
     "description": "See forks with the most stars under the names of repositories.",
     "stars": 388,
-    "installCount": 1251,
+    "installCount": 1252,
     "lastUpdate": "4 Jul 2021"
   },
   {
@@ -667,7 +667,7 @@
       "safari": "https://apps.apple.com/app/npmhub/id1542090429"
     },
     "description": "When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.",
-    "stars": 554,
+    "stars": 555,
     "installCount": 2127,
     "lastUpdate": "31 Jan 2021"
   },
@@ -697,8 +697,8 @@
       "safari": "https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"
     },
     "description": "The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:\n\n1. Go to definition\n2. Find references\n3. Powerful code search with regexp matching, diff searches, and other filters\n4. Hover tooltips\n5. File tree navigation",
-    "stars": 4869,
-    "installCount": 100572,
+    "stars": 4875,
+    "installCount": 100576,
     "lastUpdate": "12 May 2021"
   },
   {
@@ -714,7 +714,7 @@
     },
     "description": "Easily search GIPHY to add a GIF into any GitHub comment box.",
     "stars": 63,
-    "installCount": 2236,
+    "installCount": 2237,
     "lastUpdate": "1 Jul 2021"
   },
   {
@@ -792,7 +792,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"
     },
-    "installCount": 7543,
+    "installCount": 7540,
     "lastUpdate": "19 Jun 2021"
   },
   {
@@ -809,7 +809,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/gitpod/"
     },
     "stars": 41,
-    "installCount": 63324,
+    "installCount": 63323,
     "lastUpdate": "15 Apr 2021"
   }
 ]
