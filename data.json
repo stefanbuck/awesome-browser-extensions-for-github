@@ -811,5 +811,18 @@
     "stars": 42,
     "installCount": 63138,
     "lastUpdate": "5 Aug 2021"
+  },
+  {
+    "name": "Linguist - translate github and other sites with comfort",
+    "description": "Linguist is a powerful browser extension for translate pages and text, which are ready to replace your favorite translate service",
+    "source": "https://github.com/translate-tools/linguist",
+    "tags": [
+      "tranlsate",
+      "language",
+      "i18n"
+    ],
+    "store": {
+      "firefox": "https://addons.mozilla.org/addon/linguist-translator/"
+    }
   }
 ]
