@@ -811,5 +811,21 @@
     "stars": 44,
     "installCount": 63107,
     "lastUpdate": "5 Aug 2021"
+  },
+  {
+    "name": "Contributors on GitHub",
+    "description": "Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.",
+    "source": "https://github.com/hzoo/contributors-on-github",
+    "tags": [
+      "comments",
+      "miscellaneous"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"
+    },
+    "stars": 412,
+    "installCount": 308,
+    "lastUpdate": "1 Mar 2021"
   }
 ]
