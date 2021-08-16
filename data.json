@@ -14,6 +14,22 @@
     "lastUpdate": "3 Jun 2021"
   },
   {
+    "name": "Contributors on GitHub",
+    "source": "https://github.com/hzoo/contributors-on-github",
+    "tags": [
+      "codereview",
+      "miscellaneous",
+      "profile",
+      "pullrequest",
+      "repository"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"
+    },
+    "description": "Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR."
+  },
+  {
     "name": "Git History",
     "source": "https://github.com/pomber/git-history",
     "tags": [
