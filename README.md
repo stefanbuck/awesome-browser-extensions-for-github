@@ -1,31 +1,23 @@
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-All numbers are updated daily and include the overall  usage of an extension across all browsers, the last publish date and stars of the GitHub repository! Contributions are welcome but first see <a href="./contributing.md">Contributing</a>
+All numbers are updated daily and include the overall  usage of an extension across all browsers, the last publish date and stars of the GitHub repository!
 
+## Codeless contribution
+
+Submitting a new extension is easy as opening an Issue. In fact, this is all you have to do. [Create a new issue](https://github.com/stefanbuck/awesome-browser-extensions-for-github/issues/new?assignees=&labels=submit&template=submit-extension.yml&title=Submit+new+extension), that's it! I'll take it from there. If you need to update an existing listing, please follow the formal pull request process.
+
+Want to know more about this process? Check out the [Codeless Contributions with GitHub Issue Forms](https://stefanbuck.com/blog/codeless-contributions-with-github-issue-forms) post on my blog.
+
+<br>
+<br>
 <br>
 <br>
 <div align="center">
-	<b>Visit the <a href="https://stefanbuck.com/awesome-browser-extensions-for-github">awesome browser extensions for GitHub</a> web version with additional filter options.</b>
+	Visit the <a href="https://stefanbuck.com/awesome-browser-extensions-for-github">web version</a> with additional filter options.
 </div>
-
-<br>
 <br>
 
-## Supporters
-
-Thanks for those who are supporting my work via [GitHub Sponsors](https://github.com/sponsors/stefanbuck).
-
-[Your logo here?](https://github.com/sponsors/stefanbuck?frequency=one-time&sponsor=stefanbuck)
-
-<br>
-<br>
-
-<div align="center">
-	<a href="https://jumpcat.dev"><img src="https://user-images.githubusercontent.com/1393946/129461213-47cc4860-e320-45fa-8549-3231d846c6e2.png" height="200" alt="Jumpcat "/></a>
-</div>
-
-<br>
-<br>
+# List of browser extensions for GitHub
 
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
