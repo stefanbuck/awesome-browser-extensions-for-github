@@ -12,7 +12,7 @@ jobs:
         with:
           node-version: 12
 
-      - uses: stefanbuck/github-issue-praser@main
+      - uses: stefanbuck/github-issue-praser@v2
         id: issue-parser
         with:
           template-path: .github/ISSUE_TEMPLATE/submit-extension.yml
