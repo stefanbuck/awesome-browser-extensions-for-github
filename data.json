@@ -128,7 +128,7 @@
     ],
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom",
-      "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"
+      "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"
     },
     "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.",
     "stars": 65,
@@ -253,7 +253,7 @@
   },
   {
     "name": "OctoLenses",
-    "source": "https://github.com/rgehan/octolenses-browser-extension",
+    "source": "https://github.com/rgehan/octolenses",
     "tags": [
       "miscellaneous"
     ],
@@ -268,7 +268,7 @@
   },
   {
     "name": "Refined GitHub",
-    "source": "https://github.com/sindresorhus/refined-github",
+    "source": "https://github.com/refined-github/refined-github",
     "tags": [
       "miscellaneous"
     ],
@@ -306,7 +306,7 @@
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc",
       "firefox": "https://addons.mozilla.org/firefox/addon/octotree/",
-      "safari": "https://github.com/buunguyen/octotree/#install-on-safari",
+      "safari": "https://github.com/ovity/octotree#install-on-safari",
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
@@ -539,7 +539,7 @@
   },
   {
     "name": "Semantic Code Reviews",
-    "website": "https://explore.dev/",
+    "website": "https://reviewpad.com",
     "tags": [
       "pullrequest"
     ],
