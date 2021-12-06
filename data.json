@@ -827,5 +827,16 @@
     "stars": 413,
     "installCount": 310,
     "lastUpdate": "1 Mar 2021"
+  },
+  {
+    "name": "xhub",
+    "description": "Extends GitHub pages with math, diagrams, embedded YouTube videos etc.",
+    "source": "https://github.com/nschloe/xhub",
+    "tags": [
+      "miscellaneous"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"
+    }
   }
 ]
