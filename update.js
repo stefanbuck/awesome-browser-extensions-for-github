@@ -104,6 +104,9 @@ async function operaStats(storeUrl) {
 }
 
 function findRecentVersion(dateList) {
+    if (dateList.length === 0) {
+        return 'n/a'
+    }
     return format(new Date(Math.max(...dateList.filter(Boolean).map(a => new Date(a)))), 'd MMM yyyy');
 }
 
@@ -150,7 +153,7 @@ async function updateDownloadStats(itemIndex) {
     }
 
     if (installCount) item.installCount = installCount;
-    item.lastUpdate = findRecentVersion(lastUpdates);
+    item.lastUpdate = findRecentVersion(lastUpdates.filter(Boolean));
 
     console.log(item.name, item.lastUpdate, installCount)
 
