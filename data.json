@@ -87,20 +87,6 @@
     "lastUpdate": "27 Nov 2019"
   },
   {
-    "name": "OctoHint",
-    "source": "https://github.com/pd4d10/octohint",
-    "tags": [
-      "code"
-    ],
-    "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
-    },
-    "description": "Octohint adds IntelliSense hint feature to GitHub.",
-    "stars": 919,
-    "installCount": 6000,
-    "lastUpdate": "25 Dec 2018"
-  },
-  {
     "name": "OctoLinker",
     "website": "https://octolinker.now.sh",
     "source": "https://github.com/OctoLinker/OctoLinker",
