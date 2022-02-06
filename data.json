@@ -103,7 +103,7 @@
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
     "stars": 4880,
-    "installCount": 31407,
+    "installCount": 31408,
     "lastUpdate": "22 Jan 2022"
   },
   {
@@ -264,7 +264,7 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 16847,
+    "stars": 16848,
     "installCount": 56276,
     "lastUpdate": "2 Feb 2022"
   },
@@ -297,7 +297,7 @@
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
     "stars": 21791,
-    "installCount": 335340,
+    "installCount": 335341,
     "lastUpdate": "24 Dec 2021"
   },
   {
@@ -402,7 +402,7 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1662,
-    "installCount": 21430,
+    "installCount": 21431,
     "lastUpdate": "12 May 2021"
   },
   {
@@ -858,5 +858,20 @@
     },
     "installCount": 355,
     "lastUpdate": "3 Feb 2022"
+  },
+  {
+    "name": "Octohint",
+    "description": "The missing IntelliSense hint for GitHub and GitLab",
+    "source": "https://github.com/pd4d10/octohint",
+    "tags": [
+      "code",
+      "navigation"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
+    },
+    "stars": 922,
+    "installCount": 2000,
+    "lastUpdate": "4 Feb 2022"
   }
 ]
