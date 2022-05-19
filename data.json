@@ -873,5 +873,16 @@
     "stars": 935,
     "installCount": 4000,
     "lastUpdate": "4 Feb 2022"
+  },
+  {
+    "name": "New Tab search for GitHub",
+    "description": "All your issues, PRs, repos and other work documents right in your new tab",
+    "tags": [
+      "search"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"
+    }
   }
 ]
