@@ -66,13 +66,13 @@ async function downloadStats(regexDownloads, regexVersion, storeUrl) {
     }
 
     let res;
-    try {  
+    try {
         res = await got.get(storeUrl, {
             headers: {
                 'accept-language': 'en,en-US',
             }
         })
-    }catch(error) {
+    } catch (error) {
         console.log(storeUrl)
         console.log(error)
         return ret;
@@ -107,7 +107,11 @@ function findRecentVersion(dateList) {
     if (dateList.length === 0) {
         return 'n/a'
     }
-    return format(new Date(Math.max(...dateList.filter(Boolean).map(a => new Date(a)))), 'd MMM yyyy');
+    try {
+        return format(new Date(Math.max(...dateList.filter(Boolean).map(a => new Date(a)))), 'd MMM yyyy');
+    } catch (error) {
+        return 'n/a'
+    }
 }
 
 async function updateDownloadStats(itemIndex) {
