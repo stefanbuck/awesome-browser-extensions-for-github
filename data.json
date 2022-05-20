@@ -875,11 +875,12 @@
     "lastUpdate": "4 Feb 2022"
   },
   {
-    "name": "New Tab search for GitHub",
+    "name": "eesel: The new tab for GitHub",
     "description": "All your issues, PRs, repos and other work documents right in your new tab",
     "tags": [
       "search"
     ],
+    "website": "https://www.eesel.app/",
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"
