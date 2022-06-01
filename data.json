@@ -24,7 +24,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 12795,
+    "stars": 12796,
     "installCount": 7227,
     "lastUpdate": "6 May 2020"
   },
@@ -102,8 +102,8 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
-    "stars": 4949,
-    "installCount": 31558,
+    "stars": 4951,
+    "installCount": 31562,
     "lastUpdate": "7 Apr 2022"
   },
   {
@@ -147,7 +147,7 @@
     },
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
     "stars": 278,
-    "installCount": 1015,
+    "installCount": 1016,
     "lastUpdate": "4 Nov 2021"
   },
   {
@@ -264,8 +264,8 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 17910,
-    "installCount": 56471,
+    "stars": 17922,
+    "installCount": 56476,
     "lastUpdate": "22 May 2022"
   },
   {
@@ -296,8 +296,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 22002,
-    "installCount": 436932,
+    "stars": 22004,
+    "installCount": 436945,
     "lastUpdate": "4 May 2022"
   },
   {
@@ -370,8 +370,8 @@
       "opera": "https://github.com/sindresorhus/notifier-for-github#install"
     },
     "description": "Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.",
-    "stars": 1519,
-    "installCount": 10486,
+    "stars": 1520,
+    "installCount": 10487,
     "lastUpdate": "2 Mar 2022"
   },
   {
@@ -401,8 +401,8 @@
       "edge": "https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"
     },
     "description": "Neat hovercards for GitHub.",
-    "stars": 1689,
-    "installCount": 24140,
+    "stars": 1690,
+    "installCount": 24148,
     "lastUpdate": "12 May 2021"
   },
   {
@@ -505,7 +505,7 @@
     },
     "description": "Browser extension that shows which pull requests contain changes related to a file.",
     "stars": 94,
-    "installCount": 51,
+    "installCount": 50,
     "lastUpdate": "15 Oct 2020"
   },
   {
@@ -548,8 +548,8 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
-    "stars": 1581,
-    "installCount": 40585,
+    "stars": 1585,
+    "installCount": 40584,
     "lastUpdate": "25 Dec 2021"
   },
   {
@@ -562,7 +562,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
-    "stars": 1089,
+    "stars": 1090,
     "installCount": 10000,
     "lastUpdate": "27 Mar 2022"
   },
@@ -590,7 +590,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"
     },
     "description": "Automatically adds repository size to GitHub's repository summary.",
-    "stars": 1016,
+    "stars": 1017,
     "installCount": 10000,
     "lastUpdate": "26 Jun 2020"
   },
@@ -605,7 +605,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-vscode-icons/"
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
-    "stars": 210,
+    "stars": 211,
     "installCount": 2000,
     "lastUpdate": "30 Sep 2021"
   },
@@ -683,8 +683,8 @@
       "safari": "https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"
     },
     "description": "The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:\n\n1. Go to definition\n2. Find references\n3. Powerful code search with regexp matching, diff searches, and other filters\n4. Hover tooltips\n5. File tree navigation",
-    "stars": 6126,
-    "installCount": 101138,
+    "stars": 6130,
+    "installCount": 101136,
     "lastUpdate": "8 Apr 2022"
   },
   {
@@ -730,7 +730,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/open-github-in-ide/"
     },
     "description": "This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.",
-    "installCount": 588,
+    "installCount": 589,
     "lastUpdate": "22 Nov 2021",
     "stars": 39
   },
@@ -778,7 +778,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"
     },
-    "installCount": 10685,
+    "installCount": 10686,
     "lastUpdate": "28 Apr 2022"
   },
   {
@@ -795,7 +795,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/gitpod/"
     },
     "stars": 84,
-    "installCount": 62944,
+    "installCount": 62942,
     "lastUpdate": "17 May 2022"
   },
   {
@@ -842,7 +842,7 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"
     },
     "stars": 159,
-    "installCount": 3211,
+    "installCount": 3210,
     "lastUpdate": "1 Dec 2021"
   },
   {
@@ -857,7 +857,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/workerb-for-pull-requests/cagholjopklnloocclidppnkmpnkghja"
     },
     "installCount": 688,
-    "lastUpdate": "24 May 2022"
+    "lastUpdate": "31 May 2022"
   },
   {
     "name": "Octohint",
@@ -870,7 +870,7 @@
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
     },
-    "stars": 937,
+    "stars": 938,
     "installCount": 4000,
     "lastUpdate": "4 Feb 2022"
   },
