@@ -24,7 +24,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 12799,
+    "stars": 12798,
     "installCount": 7222,
     "lastUpdate": "6 May 2020"
   },
@@ -102,7 +102,7 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
-    "stars": 4957,
+    "stars": 4956,
     "installCount": 31566,
     "lastUpdate": "7 Apr 2022"
   },
@@ -264,7 +264,7 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 17975,
+    "stars": 17974,
     "installCount": 56451,
     "lastUpdate": "22 May 2022"
   },
@@ -296,7 +296,7 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 22022,
+    "stars": 22021,
     "installCount": 436852,
     "lastUpdate": "4 May 2022"
   },
@@ -370,7 +370,7 @@
       "opera": "https://github.com/sindresorhus/notifier-for-github#install"
     },
     "description": "Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.",
-    "stars": 1522,
+    "stars": 1521,
     "installCount": 10476,
     "lastUpdate": "2 Mar 2022"
   },
@@ -446,7 +446,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"
     },
     "description": "Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.",
-    "stars": 3182,
+    "stars": 3181,
     "installCount": 10000,
     "lastUpdate": "6 Mar 2022"
   },
@@ -562,7 +562,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
-    "stars": 1092,
+    "stars": 1091,
     "installCount": 10000,
     "lastUpdate": "27 Mar 2022"
   },
@@ -605,7 +605,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-vscode-icons/"
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
-    "stars": 213,
+    "stars": 212,
     "installCount": 2000,
     "lastUpdate": "30 Sep 2021"
   },
@@ -810,7 +810,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"
     },
-    "stars": 431,
+    "stars": 430,
     "installCount": 336,
     "lastUpdate": "1 Mar 2021"
   },
@@ -887,5 +887,21 @@
     },
     "installCount": 6062,
     "lastUpdate": "2 Jun 2022"
+  },
+  {
+    "name": "GitHub Red Issues",
+    "description": "Revert closed GitHub issues from purple back to red",
+    "source": "https://github.com/Katsute/GitHub-Red-Issues",
+    "tags": [
+      "miscellaneous",
+      "theme"
+    ],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc",
+      "firefox": "https://addons.mozilla.org/firefox/addon/github-red-issues"
+    },
+    "stars": 34,
+    "installCount": 21,
+    "lastUpdate": "23 May 2022"
   }
 ]
