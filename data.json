@@ -24,7 +24,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 12814,
+    "stars": 12815,
     "installCount": 7222,
     "lastUpdate": "6 May 2020"
   },
@@ -69,7 +69,7 @@
     },
     "description": "Easily navigate through the changes in a file that has been edited on GitHub.",
     "stars": 17,
-    "installCount": 186,
+    "installCount": 185,
     "lastUpdate": "24 Jun 2020"
   },
   {
@@ -103,7 +103,7 @@
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
     "stars": 4979,
-    "installCount": 31649,
+    "installCount": 31650,
     "lastUpdate": "7 Apr 2022"
   },
   {
@@ -118,7 +118,7 @@
     },
     "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.",
     "stars": 70,
-    "installCount": 589,
+    "installCount": 588,
     "lastUpdate": "25 Aug 2018"
   },
   {
@@ -326,7 +326,7 @@
     },
     "description": "Helps you see easily which activities happened since you last visited GitHub.",
     "stars": 24,
-    "installCount": 158,
+    "installCount": 159,
     "lastUpdate": "n/a"
   },
   {
@@ -433,7 +433,7 @@
     },
     "description": "Extension to get back current and longest streak.",
     "stars": 212,
-    "installCount": 687,
+    "installCount": 680,
     "lastUpdate": "30 Jun 2021"
   },
   {
@@ -520,7 +520,7 @@
     },
     "description": "Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.",
     "stars": 89,
-    "installCount": 688,
+    "installCount": 690,
     "lastUpdate": "7 Jul 2022"
   },
   {
@@ -605,7 +605,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-vscode-icons/"
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
-    "stars": 219,
+    "stars": 220,
     "installCount": 2000,
     "lastUpdate": "30 Sep 2021"
   },
@@ -713,7 +713,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"
     },
     "description": "Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.",
-    "installCount": 321,
+    "installCount": 320,
     "lastUpdate": "30 Jun 2022"
   },
   {
@@ -811,7 +811,7 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"
     },
     "stars": 431,
-    "installCount": 344,
+    "installCount": 347,
     "lastUpdate": "1 Mar 2021"
   },
   {
@@ -825,7 +825,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"
     },
     "stars": 59,
-    "installCount": 455,
+    "installCount": 454,
     "lastUpdate": "14 Jun 2022"
   },
   {
