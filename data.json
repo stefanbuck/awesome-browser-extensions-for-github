@@ -891,7 +891,7 @@
   {
     "name": "GitHub Red Issues",
     "description": "Revert closed GitHub issues from purple back to red",
-    "source": "https://github.com/Katsute/GitHub-Red-Issues",
+    "source": "https://github.com/KatsuteDev/GitHub-Red-Issues",
     "tags": [
       "miscellaneous",
       "theme"
