@@ -903,5 +903,18 @@
     "stars": 37,
     "installCount": 22,
     "lastUpdate": "13 Oct 2022"
+  },
+  {
+    "name": "GitZip for github",
+    "description": "It can make the sub-directories and files of github repository as zip and download it",
+    "source": "https://github.com/GitZip/chrome-extension",
+    "tags": [],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gitzip/"
+    },
+    "stars": 21,
+    "installCount": 92970,
+    "lastUpdate": "19 Jul 2022"
   }
 ]
