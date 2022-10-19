@@ -234,7 +234,7 @@
     },
     "description": "Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.",
     "stars": 229,
-    "installCount": 68,
+    "installCount": 66,
     "lastUpdate": "26 May 2018"
   },
   {
@@ -901,7 +901,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-red-issues"
     },
     "stars": 37,
-    "installCount": 21,
+    "installCount": 22,
     "lastUpdate": "13 Oct 2022"
   }
 ]
