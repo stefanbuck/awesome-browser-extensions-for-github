@@ -69,7 +69,7 @@
     },
     "description": "Easily navigate through the changes in a file that has been edited on GitHub.",
     "stars": 19,
-    "installCount": 212,
+    "installCount": 214,
     "lastUpdate": "24 Jun 2020"
   },
   {
@@ -103,7 +103,7 @@
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
     "stars": 5055,
-    "installCount": 31935,
+    "installCount": 31936,
     "lastUpdate": "15 Jul 2022"
   },
   {
@@ -147,7 +147,7 @@
     },
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
     "stars": 291,
-    "installCount": 1009,
+    "installCount": 1001,
     "lastUpdate": "4 Nov 2021"
   },
   {
@@ -177,7 +177,7 @@
     },
     "description": "Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.",
     "stars": 12,
-    "installCount": 188,
+    "installCount": 186,
     "lastUpdate": "26 Apr 2022"
   },
   {
@@ -192,7 +192,7 @@
     },
     "description": "Chrome extension to see story points in GitHub projects.",
     "stars": 60,
-    "installCount": 752,
+    "installCount": 742,
     "lastUpdate": "17 Aug 2020"
   },
   {
@@ -234,7 +234,7 @@
     },
     "description": "Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.",
     "stars": 229,
-    "installCount": 66,
+    "installCount": 64,
     "lastUpdate": "26 May 2018"
   },
   {
@@ -297,7 +297,7 @@
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
     "stars": 22221,
-    "installCount": 437886,
+    "installCount": 437887,
     "lastUpdate": "20 Oct 2022"
   },
   {
@@ -683,7 +683,7 @@
       "safari": "https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"
     },
     "description": "The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:\n\n1. Go to definition\n2. Find references\n3. Powerful code search with regexp matching, diff searches, and other filters\n4. Hover tooltips\n5. File tree navigation",
-    "stars": 7031,
+    "stars": 7032,
     "installCount": 101265,
     "lastUpdate": "18 Oct 2022"
   },
@@ -825,7 +825,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"
     },
     "stars": 69,
-    "installCount": 472,
+    "installCount": 467,
     "lastUpdate": "18 Sep 2022"
   },
   {
@@ -913,7 +913,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gitzip/"
     },
-    "stars": 22,
+    "stars": 23,
     "installCount": 92994,
     "lastUpdate": "19 Jul 2022"
   }
