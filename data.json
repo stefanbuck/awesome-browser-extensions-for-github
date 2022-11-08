@@ -24,7 +24,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 13128,
+    "stars": 13130,
     "installCount": 7285,
     "lastUpdate": "6 May 2020"
   },
@@ -161,7 +161,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-writer/"
     },
     "description": "This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.",
-    "stars": 302,
+    "stars": 303,
     "installCount": 1118,
     "lastUpdate": "13 Aug 2022"
   },
@@ -264,7 +264,7 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 19235,
+    "stars": 19237,
     "installCount": 67472,
     "lastUpdate": "6 Nov 2022"
   },
@@ -296,8 +296,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 22242,
-    "installCount": 437981,
+    "stars": 22243,
+    "installCount": 437982,
     "lastUpdate": "20 Oct 2022"
   },
   {
