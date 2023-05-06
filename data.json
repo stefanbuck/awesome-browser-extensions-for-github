@@ -929,5 +929,18 @@
     "stars": 33,
     "installCount": 273,
     "lastUpdate": "10 Aug 2022"
+  },
+  {
+    "name": "GitHub to Linear",
+    "description": "View and create Linear tickets from any GitHub PR or issue.",
+    "source": "https://github.com/delucis/github-to-linear",
+    "tags": [],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/github-to-linear/hlambaminaoofejligodincejhcbljik",
+      "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/github-to-linear/"
+    },
+    "stars": 18,
+    "installCount": 29,
+    "lastUpdate": "12 Apr 2023"
   }
 ]
