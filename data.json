@@ -264,7 +264,7 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 21971,
+    "stars": 21972,
     "installCount": 78319,
     "lastUpdate": "5 Oct 2023"
   },
@@ -297,7 +297,7 @@
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
     "stars": 22548,
-    "installCount": 337288,
+    "installCount": 337289,
     "lastUpdate": "16 Aug 2023"
   },
   {
@@ -590,7 +590,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"
     },
     "description": "Automatically adds repository size to GitHub's repository summary.",
-    "stars": 1171,
+    "stars": 1172,
     "installCount": 20000,
     "lastUpdate": "26 Jun 2020"
   },
@@ -942,5 +942,18 @@
     "stars": 20,
     "installCount": 50,
     "lastUpdate": "12 Apr 2023"
+  },
+  {
+    "name": "Le Git Graph",
+    "description": "Browser extension to add git graph to GitHub website.",
+    "source": "https://github.com/NirmalScaria/le-git-graph",
+    "tags": [],
+    "store": {
+      "chrome": "https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff",
+      "firefox": "https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"
+    },
+    "stars": 1849,
+    "installCount": 5309,
+    "lastUpdate": "29 Sep 2023"
   }
 ]
