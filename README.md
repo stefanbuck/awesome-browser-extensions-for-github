@@ -93,6 +93,12 @@ Code folding - the ability to selectively hide and display sections of a code - 
 
 Installs: 121 | Stars: 288 | Last update: 12 Jan 2017
 
+### [GitHub Custom Notifier](https://github.com/qiweiii/github-custom-notifier) <a href="https://chromewebstore.google.com/detail/github-custom-notifier/aelkipgppclpfimeamgmlonimflbhlgf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="[https://addons.mozilla.org/firefox/addon/github-code-folding](https://addons.mozilla.org/en-US/firefox/addon/github-custom-notifier/)"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Get custom notifications that are not available from standard GitHub notification and emails.
+
+Installs: 1 | Stars: 1 | Last update: 29 Mar 2024
+
 ### [GitHub Custom Tab Size](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Set custom tab size for code view on GitHub.com
