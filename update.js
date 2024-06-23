@@ -94,7 +94,7 @@ async function downloadStats(regexDownloads, regexVersion, storeUrl) {
 }
 
 async function chromeStats(storeUrl) {
-    return downloadStats(/content=\"UserDownloads:([0-9,]+)/, /h-C-b-p-D-xh-hh">([^<]+)/, storeUrl)
+    return downloadStats(/([0-9,]+) users/, /h-C-b-p-D-xh-hh">([^<]+)/, storeUrl)
 }
 async function firefoxStats(storeUrl) {
     return downloadStats(/average_daily_users":([0-9,]+)/, /AddonMoreInfo-last-updated">[^(]+\(([^)]+)/, storeUrl)
