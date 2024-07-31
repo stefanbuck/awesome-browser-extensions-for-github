@@ -24,8 +24,8 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 13526,
-    "installCount": 194,
+    "stars": 13525,
+    "installCount": 196,
     "lastUpdate": "13 Oct 2023"
   },
   {
@@ -40,7 +40,7 @@
     },
     "description": "Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.",
     "stars": 289,
-    "installCount": 114,
+    "installCount": 115,
     "lastUpdate": "25 Apr 2024"
   },
   {
@@ -162,7 +162,7 @@
     },
     "description": "This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.",
     "stars": 380,
-    "installCount": 109,
+    "installCount": 108,
     "lastUpdate": "10 Apr 2024"
   },
   {
@@ -177,7 +177,7 @@
     },
     "description": "Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.",
     "stars": 15,
-    "installCount": 20,
+    "installCount": 21,
     "lastUpdate": "25 Apr 2022"
   },
   {
@@ -264,8 +264,8 @@
       "safari": "https://apps.apple.com/app/id1519867270"
     },
     "description": "Extension that simplifies the GitHub interface and adds useful features.",
-    "stars": 23882,
-    "installCount": 8116,
+    "stars": 23899,
+    "installCount": 8127,
     "lastUpdate": "30 Jul 2024"
   },
   {
@@ -297,7 +297,7 @@
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
     "stars": 22739,
-    "installCount": 37134,
+    "installCount": 37142,
     "lastUpdate": "9 Jun 2024"
   },
   {
@@ -371,7 +371,7 @@
     },
     "description": "Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.",
     "stars": 1817,
-    "installCount": 515,
+    "installCount": 514,
     "lastUpdate": "24 Apr 2024"
   },
   {
@@ -402,7 +402,7 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1820,
-    "installCount": 18539,
+    "installCount": 18542,
     "lastUpdate": "n/a"
   },
   {
@@ -433,7 +433,7 @@
     },
     "description": "Extension to get back current and longest streak.",
     "stars": 231,
-    "installCount": 25,
+    "installCount": 24,
     "lastUpdate": "30 Jun 2021"
   },
   {
@@ -549,7 +549,7 @@
     },
     "description": "Displays size of each file, download link and an option of copying file contents directly to clipboard",
     "stars": 2065,
-    "installCount": 620,
+    "installCount": 621,
     "lastUpdate": "3 Jun 2024"
   },
   {
@@ -562,7 +562,7 @@
       "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
-    "stars": 1416,
+    "stars": 1417,
     "installCount": 20000,
     "lastUpdate": "n/a"
   },
@@ -638,7 +638,7 @@
     },
     "description": "See forks with the most stars under the names of repositories.",
     "stars": 593,
-    "installCount": 307,
+    "installCount": 308,
     "lastUpdate": "30 Mar 2024"
   },
   {
@@ -683,8 +683,8 @@
       "safari": "https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"
     },
     "description": "The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:\n\n1. Go to definition\n2. Find references\n3. Powerful code search with regexp matching, diff searches, and other filters\n4. Hover tooltips\n5. File tree navigation",
-    "stars": 9971,
-    "installCount": 848,
+    "stars": 9976,
+    "installCount": 847,
     "lastUpdate": "14 Apr 2023"
   },
   {
@@ -700,7 +700,7 @@
     },
     "description": "Easily search GIPHY to add a GIF into any GitHub comment box.",
     "stars": 181,
-    "installCount": 505,
+    "installCount": 506,
     "lastUpdate": "18 Jan 2024"
   },
   {
@@ -730,7 +730,7 @@
       "firefox": "https://addons.mozilla.org/firefox/addon/open-github-in-ide/"
     },
     "description": "This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.",
-    "installCount": 37,
+    "installCount": 38,
     "lastUpdate": "23 Sep 2023",
     "stars": 71
   },
@@ -794,8 +794,8 @@
       "chrome": "https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
       "firefox": "https://addons.mozilla.org/firefox/addon/gitpod/"
     },
-    "stars": 142,
-    "installCount": 2284,
+    "stars": 143,
+    "installCount": 2283,
     "lastUpdate": "21 Jun 2024"
   },
   {
@@ -870,7 +870,7 @@
     "store": {
       "chrome": "https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
     },
-    "stars": 963,
+    "stars": 962,
     "installCount": 4000,
     "lastUpdate": "n/a"
   },
@@ -914,7 +914,7 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gitzip/"
     },
     "stars": 38,
-    "installCount": 3387,
+    "installCount": 3386,
     "lastUpdate": "21 Aug 2023"
   },
   {
@@ -952,8 +952,8 @@
       "chrome": "https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"
     },
-    "stars": 3240,
-    "installCount": 453,
+    "stars": 3241,
+    "installCount": 452,
     "lastUpdate": "1 Jan 2024"
   }
 ]
