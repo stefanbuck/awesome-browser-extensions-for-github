@@ -33,7 +33,7 @@ Removes clutter from your pull request by automatically marking as viewed files 
 
 Installs: 39 | Stars: 8 | Last update: n/a
 
-### [BlackEagle](https://github.com/andersliuyang/BlackEagleAI-One-click-Summary-for-Any-Webpage) <a href="https://chromewebstore.google.com/detail/hhmmanelkingboejoaelahnbpghhnmil"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/blackeagleai/nfnonndhjocfbdekdffinapjnakjinen"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+### [BlackEagle](https://github.com/andersliuyang/BlackEagleAI) <a href="https://chromewebstore.google.com/detail/hhmmanelkingboejoaelahnbpghhnmil"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/blackeagleai/nfnonndhjocfbdekdffinapjnakjinen"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
 
 Your personal local-first AI browser assistant. It can understand web content, perform browser operations (click/fill), and generate images or summaries using your own LLM API. Perfect for market research and content creation directly within GitHub or any other site.
 
