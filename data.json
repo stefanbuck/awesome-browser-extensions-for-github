@@ -465,6 +465,22 @@
     "lastUpdate": "n/a"
   },
   {
+    "name": "BlackEagle",
+    "description": "Your personal local-first AI browser assistant. Understand web content, perform browser operations (click/fill/navigation), and generate images using your own LLM API.",
+    "source": "https://github.com/andersliuyang/BlackEagleAI",
+    "tags": [
+      "miscellaneous",
+      "ai"
+    ],
+    "store": {
+      "chrome": "https://chromewebstore.google.com/detail/hhmmanelkingboejoaelahnbpghhnmil",
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/blackeagleai/nfnonndhjocfbdekdffinapjnakjinen"
+    },
+    "stars": 1,
+    "installCount": 1,
+    "lastUpdate": "25 Jan 2026"
+  },
+  {
     "name": "Gifhub Pull Request",
     "source": "https://github.com/bguzmanrio/gifhub-pull-request",
     "tags": [
