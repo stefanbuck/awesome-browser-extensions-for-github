@@ -51,6 +51,12 @@ The CoderStats link for GitHub Chrome extension displays a link to the CoderStat
 
 Installs: 13 | Stars: 20 | Last update: 2 May 2023
 
+### [Commit Watch](https://github.com/Mohammed-3tef/CommitWatch) <a href="https://addons.mozilla.org/en-US/firefox/addon/commit-watch/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Intelligently monitors GitHub and GitLab repositories and notifies you about important commits, releases, and activity with automatic file-based detection.
+
+Installs: 5 | Stars: 5 | Last update: 15 Feb 2026
+
 ### [Contributors on GitHub](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
