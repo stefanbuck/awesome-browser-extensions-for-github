@@ -1,4 +1,9 @@
 {
+  "resolutions": {
+    "normalize-url": "^6.1.0",
+    "http-cache-semantics": "^4.2.0",
+    "got": "^11.8.6"
+  },
   "dependencies": {
     "date-fns": "^2.15.0",
     "got": "^11.5.2",
