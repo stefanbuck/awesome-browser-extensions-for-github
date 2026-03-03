@@ -1,4 +1,4 @@
-# Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome browser extensions for GitHub [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 All numbers are updated daily and include the overall  usage of an extension across all browsers, the last publish date and stars of the GitHub repository!
 
