@@ -412,3 +412,28 @@ Installs: 72 | Stars: 758 | Last update: 26 Jul 2024
 Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 426 | Stars: 91 | Last update: n/a
+
+---
+
+## Built by Zovo
+
+This is part of the [Zovo](https://zovo.one) developer tools family. Zovo builds privacy-first Chrome extensions for developers.
+
+### Related Zovo Repositories
+
+- [zovo-extension-template](https://github.com/theluckystrike/zovo-extension-template) - Privacy-first Chrome extension template
+- [zovo-types-webext](https://github.com/theluckystrike/zovo-types-webext) - TypeScript definitions for browser extensions
+- [chrome-storage-plus](https://github.com/theluckystrike/chrome-storage-plus) - Type-safe storage wrapper
+- [webext-bridge](https://github.com/theluckystrike/webext-bridge) - Cross-context messaging
+
+### Zovo Chrome Extensions
+
+- [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
+- [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
+- [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
+
+Visit [zovo.one](https://zovo.one) for more information.
+
+---
+
+*Built by [Zovo](https://zovo.one)*
