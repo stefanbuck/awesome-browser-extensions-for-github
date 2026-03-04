@@ -97,8 +97,6 @@
     "store": {
       "chrome": "https://chromewebstore.google.com/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
       "firefox": "https://addons.mozilla.org/firefox/addon/octolinker/",
-      "opera": "https://addons.opera.com/extensions/details/octolinker/",
-      "safari": "https://apps.apple.com/app/octolinker/id1549308269",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
     "description": "OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.",
@@ -116,7 +114,7 @@
       "chrome": "https://chromewebstore.google.com/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom",
       "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"
     },
-    "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.",
+    "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `\u00b7` and tabs as `\u2192` in all the code on GitHub.",
     "stars": 76,
     "installCount": 22,
     "lastUpdate": "25 Apr 2024"
@@ -601,8 +599,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chromewebstore.google.com/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd",
-      "firefox": "https://addons.mozilla.org/firefox/addon/github-vscode-icons/"
+      "chrome": "https://chromewebstore.google.com/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
     "stars": 309,
@@ -649,8 +646,7 @@
     ],
     "store": {
       "chrome": "https://chromewebstore.google.com/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj",
-      "firefox": "https://addons.mozilla.org/firefox/addon/npm-hub/",
-      "safari": "https://apps.apple.com/app/npmhub/id1542090429"
+      "firefox": "https://addons.mozilla.org/firefox/addon/npm-hub/"
     },
     "description": "When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.",
     "stars": 758,
@@ -673,7 +669,7 @@
   },
   {
     "name": "Sourcegraph",
-    "source": "https://github.com/sourcegraph/sourcegraph/tree/main/client/browser",
+    "source": "https://github.com/sourcegraph/sourcegraph",
     "tags": [
       "search"
     ],
@@ -791,8 +787,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chromewebstore.google.com/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
-      "firefox": "https://addons.mozilla.org/firefox/addon/gitpod/"
+      "chrome": "https://chromewebstore.google.com/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"
     },
     "stars": 143,
     "installCount": 2280,
