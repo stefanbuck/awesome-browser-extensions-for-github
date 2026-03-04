@@ -6,7 +6,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"
+      "chrome": "https://chromewebstore.google.com/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"
     },
     "description": "Next level code navigation for GitHub.",
     "stars": 65,
@@ -20,7 +20,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
+      "chrome": "https://chromewebstore.google.com/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
@@ -35,7 +35,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf",
+      "chrome": "https://chromewebstore.google.com/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-code-folding"
     },
     "description": "Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.",
@@ -50,7 +50,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"
+      "chrome": "https://chromewebstore.google.com/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"
     },
     "description": "Set custom tab size for code view on GitHub.com",
     "stars": 69,
@@ -64,7 +64,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo",
+      "chrome": "https://chromewebstore.google.com/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo",
       "firefox": "https://addons.mozilla.org/addon/diff-navigator-for-github/"
     },
     "description": "Easily navigate through the changes in a file that has been edited on GitHub.",
@@ -95,7 +95,7 @@
       "navigation"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
+      "chrome": "https://chromewebstore.google.com/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp",
       "firefox": "https://addons.mozilla.org/firefox/addon/octolinker/",
       "opera": "https://addons.opera.com/extensions/details/octolinker/",
       "safari": "https://apps.apple.com/app/octolinker/id1549308269",
@@ -113,7 +113,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom",
+      "chrome": "https://chromewebstore.google.com/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom",
       "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"
     },
     "description": "Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.",
@@ -128,7 +128,7 @@
       "code"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"
+      "chrome": "https://chromewebstore.google.com/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"
     },
     "description": "Make tab indented code more readable by forcing the tab size to 4 instead of 8.",
     "stars": 281,
@@ -142,7 +142,7 @@
       "comments"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic",
+      "chrome": "https://chromewebstore.google.com/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-issue-link-status/"
     },
     "description": "Colorize issue and PR links to see their status (open, closed, merged).",
@@ -157,7 +157,7 @@
       "comments"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap",
+      "chrome": "https://chromewebstore.google.com/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-writer/"
     },
     "description": "This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.",
@@ -172,7 +172,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh",
+      "chrome": "https://chromewebstore.google.com/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh",
       "firefox": "https://addons.mozilla.org/firefox/addon/codeflower/"
     },
     "description": "Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.",
@@ -187,7 +187,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko",
+      "chrome": "https://chromewebstore.google.com/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-story-points/"
     },
     "description": "Chrome extension to see story points in GitHub projects.",
@@ -202,7 +202,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"
+      "chrome": "https://chromewebstore.google.com/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"
     },
     "description": "Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.",
     "stars": 131,
@@ -216,7 +216,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"
+      "chrome": "https://chromewebstore.google.com/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"
     },
     "description": "Replace browser new tab screen with GitHub trending projects.",
     "stars": 352,
@@ -230,7 +230,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"
+      "chrome": "https://chromewebstore.google.com/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"
     },
     "description": "Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.",
     "stars": 235,
@@ -244,7 +244,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci",
+      "chrome": "https://chromewebstore.google.com/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-octolenses/"
     },
     "description": "Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.",
@@ -259,7 +259,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf",
+      "chrome": "https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf",
       "firefox": "https://addons.mozilla.org/firefox/addon/refined-github-/",
       "safari": "https://apps.apple.com/app/id1519867270"
     },
@@ -275,7 +275,7 @@
       "navigation"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"
+      "chrome": "https://chromewebstore.google.com/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"
     },
     "description": "OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches, and adds a link to where the branch pointed when the comment/file was made/updated. This helps you avoid following a link that was broken after being posted. For context, here's some discussion about broken GitHub links: [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).\n\nFor example, suppose you're looking at a gist that links to a file on the master branch of a repo. At the time the gist was made, the link worked, but if the file gets removed, the link is broken. OctoPermalinker uses the gist creation date to add a permalink that still works.",
     "stars": 27,
@@ -290,7 +290,7 @@
       "navigation"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc",
+      "chrome": "https://chromewebstore.google.com/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc",
       "firefox": "https://addons.mozilla.org/firefox/addon/octotree/",
       "safari": "https://github.com/ovity/octotree#install-on-safari",
       "opera": "https://addons.opera.com/extensions/details/octotree/"
@@ -307,7 +307,7 @@
       "newsfeed"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"
+      "chrome": "https://chromewebstore.google.com/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"
     },
     "description": "Chrome extension which helps you not to miss important changes in your news thread related to your repo",
     "stars": 16,
@@ -321,7 +321,7 @@
       "newsfeed"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe",
+      "chrome": "https://chromewebstore.google.com/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe",
       "firefox": "https://addons.mozilla.org/fr/firefox/addon/whats-new-github/"
     },
     "description": "Helps you see easily which activities happened since you last visited GitHub.",
@@ -350,7 +350,7 @@
       "notifications"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj",
+      "chrome": "https://chromewebstore.google.com/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj",
       "firefox": "https://addons.mozilla.org/firefox/addon/notifications-preview-github/"
     },
     "description": "A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.",
@@ -365,7 +365,7 @@
       "notifications"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn",
+      "chrome": "https://chromewebstore.google.com/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn",
       "firefox": "https://addons.mozilla.org/firefox/addon/notifier-for-github/",
       "opera": "https://github.com/sindresorhus/notifier-for-github#install"
     },
@@ -381,7 +381,7 @@
       "profile"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng",
+      "chrome": "https://chromewebstore.google.com/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng",
       "firefox": "https://addons.mozilla.org/firefox/addon/coderstats/"
     },
     "description": "The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.",
@@ -396,7 +396,7 @@
       "profile"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk",
+      "chrome": "https://chromewebstore.google.com/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk",
       "opera": "https://addons.opera.com/extensions/details/github-hovercard/",
       "edge": "https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"
     },
@@ -412,7 +412,7 @@
       "profile"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl",
+      "chrome": "https://chromewebstore.google.com/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-user-languages/"
     },
     "description": "Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.",
@@ -427,7 +427,7 @@
       "profile"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja",
+      "chrome": "https://chromewebstore.google.com/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-original-streak/",
       "opera": "https://addons.opera.com/it/extensions/details/github-original-streak/"
     },
@@ -443,7 +443,7 @@
       "profile"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"
+      "chrome": "https://chromewebstore.google.com/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"
     },
     "description": "Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.",
     "stars": 3486,
@@ -457,7 +457,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"
+      "chrome": "https://chromewebstore.google.com/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"
     },
     "description": "Removes clutter from your pull request by automatically marking as viewed files that aren't worth reviewing.",
     "stars": 8,
@@ -471,7 +471,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/gifhub-pull-request/gfjohbpkkbbflchpioebapldlmiflfho"
+      "chrome": "https://chromewebstore.google.com/detail/gifhub-pull-request/gfjohbpkkbbflchpioebapldlmiflfho"
     },
     "description": "Find the best GIFs for your awesome pull requests.",
     "stars": 22,
@@ -485,7 +485,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj",
+      "chrome": "https://chromewebstore.google.com/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj",
       "safari": "https://github.com/Nuclides/github-highlight-selected"
     },
     "description": "Highlight selected word in GitHub source view like Sublime Text.",
@@ -500,7 +500,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob",
+      "chrome": "https://chromewebstore.google.com/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob",
       "firefox": "https://addons.mozilla.org/firefox/addon/potential-changes-for-github/"
     },
     "description": "Browser extension that shows which pull requests contain changes related to a file.",
@@ -515,7 +515,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng",
+      "chrome": "https://chromewebstore.google.com/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng",
       "firefox": "https://addons.mozilla.org/firefox/addon/pr-monitor/"
     },
     "description": "Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.",
@@ -530,7 +530,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"
+      "chrome": "https://chromewebstore.google.com/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"
     },
     "description": "Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.",
     "installCount": 36,
@@ -543,7 +543,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd",
+      "chrome": "https://chromewebstore.google.com/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd",
       "firefox": "https://addons.mozilla.org/firefox/addon/enhanced-github/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"
     },
@@ -559,7 +559,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
+      "chrome": "https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"
     },
     "description": "A browser extension which gives different filetypes different icons on GitHub.",
     "stars": 1422,
@@ -573,7 +573,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"
+      "chrome": "https://chromewebstore.google.com/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"
     },
     "description": "Displays npm package stats on GitHub",
     "stars": 57,
@@ -587,7 +587,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"
+      "chrome": "https://chromewebstore.google.com/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"
     },
     "description": "Automatically adds repository size to GitHub's repository summary.",
     "stars": 1211,
@@ -601,7 +601,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd",
+      "chrome": "https://chromewebstore.google.com/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-vscode-icons/"
     },
     "description": "Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) in the repository browser.",
@@ -616,7 +616,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp",
+      "chrome": "https://chromewebstore.google.com/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp",
       "firefox": "https://addons.mozilla.org/firefox/addon/hide-files-on-github-/",
       "opera": "https://github.com/sindresorhus/hide-files-on-github#install"
     },
@@ -632,7 +632,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib",
+      "chrome": "https://chromewebstore.google.com/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib",
       "firefox": "https://addons.mozilla.org/firefox/addon/lovely-forks/",
       "opera": "https://github.com/musically-ut/lovely-forks/"
     },
@@ -648,7 +648,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj",
+      "chrome": "https://chromewebstore.google.com/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj",
       "firefox": "https://addons.mozilla.org/firefox/addon/npm-hub/",
       "safari": "https://apps.apple.com/app/npmhub/id1542090429"
     },
@@ -664,7 +664,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd",
+      "chrome": "https://chromewebstore.google.com/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd",
       "firefox": "https://www.zenhub.com/extension"
     },
     "description": "ZenHub is the first and only project management suite that works natively within GitHub; enhancing your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a browser extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback via a +1 button, and support for uploading any file type directly into the GitHub interface. ZenHub makes it easy to centralize all processes into GitHub, keeping your team lean and agile.",
@@ -678,7 +678,7 @@
       "search"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack",
+      "chrome": "https://chromewebstore.google.com/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack",
       "firefox": "https://addons.mozilla.org/firefox/addon/sourcegraph-for-firefox/",
       "safari": "https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"
     },
@@ -695,7 +695,7 @@
       "comments"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep",
+      "chrome": "https://chromewebstore.google.com/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep",
       "firefox": "https://addons.mozilla.org/firefox/addon/gifs-for-github/"
     },
     "description": "Easily search GIPHY to add a GIF into any GitHub comment box.",
@@ -710,7 +710,7 @@
       "search"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"
+      "chrome": "https://chromewebstore.google.com/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"
     },
     "description": "Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.",
     "installCount": 553,
@@ -726,7 +726,7 @@
       "codereview"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned",
+      "chrome": "https://chromewebstore.google.com/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned",
       "firefox": "https://addons.mozilla.org/firefox/addon/open-github-in-ide/"
     },
     "description": "This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.",
@@ -741,7 +741,7 @@
       "theme"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb",
+      "chrome": "https://chromewebstore.google.com/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb",
       "firefox": "https://addons.mozilla.org/addon/old-school-github/"
     },
     "description": "Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).",
@@ -757,7 +757,7 @@
       "codereview"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek"
+      "chrome": "https://chromewebstore.google.com/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek"
     },
     "description": "GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.",
     "stars": 4,
@@ -774,7 +774,7 @@
       "search"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk",
+      "chrome": "https://chromewebstore.google.com/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk",
       "firefox": "https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"
     },
@@ -791,7 +791,7 @@
       "repository"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
+      "chrome": "https://chromewebstore.google.com/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki",
       "firefox": "https://addons.mozilla.org/firefox/addon/gitpod/"
     },
     "stars": 143,
@@ -807,7 +807,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph",
+      "chrome": "https://chromewebstore.google.com/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"
     },
     "stars": 467,
@@ -822,7 +822,7 @@
       "miscellaneous"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"
+      "chrome": "https://chromewebstore.google.com/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"
     },
     "stars": 91,
     "installCount": 426,
@@ -837,7 +837,7 @@
       "theme"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc",
+      "chrome": "https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/material-icons-for-github/",
       "edge": "https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"
     },
@@ -854,7 +854,7 @@
       "pullrequest"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/workerb-for-pull-requests/cagholjopklnloocclidppnkmpnkghja"
+      "chrome": "https://chromewebstore.google.com/detail/workerb-for-pull-requests/cagholjopklnloocclidppnkmpnkghja"
     },
     "installCount": 1000,
     "lastUpdate": "n/a"
@@ -868,7 +868,7 @@
       "navigation"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
+      "chrome": "https://chromewebstore.google.com/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"
     },
     "stars": 961,
     "installCount": 4000,
@@ -882,7 +882,7 @@
     ],
     "website": "https://www.eesel.app/",
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono",
+      "chrome": "https://chromewebstore.google.com/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"
     },
     "installCount": 113,
@@ -897,7 +897,7 @@
       "theme"
     ],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc",
+      "chrome": "https://chromewebstore.google.com/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc",
       "firefox": "https://addons.mozilla.org/firefox/addon/github-red-issues"
     },
     "stars": 39,
@@ -910,7 +910,7 @@
     "source": "https://github.com/GitZip/chrome-extension",
     "tags": [],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn",
+      "chrome": "https://chromewebstore.google.com/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/gitzip/"
     },
     "stars": 38,
@@ -923,7 +923,7 @@
     "source": "https://github.com/IndexStorm/git-rec-ext/",
     "tags": [],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk",
+      "chrome": "https://chromewebstore.google.com/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"
     },
     "stars": 49,
@@ -936,7 +936,7 @@
     "source": "https://github.com/delucis/github-to-linear",
     "tags": [],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/github-to-linear/hlambaminaoofejligodincejhcbljik",
+      "chrome": "https://chromewebstore.google.com/detail/github-to-linear/hlambaminaoofejligodincejhcbljik",
       "firefox": "https://addons.mozilla.org/en-GB/firefox/addon/github-to-linear/"
     },
     "stars": 24,
@@ -949,7 +949,7 @@
     "source": "https://github.com/NirmalScaria/le-git-graph",
     "tags": [],
     "store": {
-      "chrome": "https://chrome.google.com/webstore/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff",
+      "chrome": "https://chromewebstore.google.com/detail/le-git-graph-commits-grap/joggkdfebigddmaagckekihhfncdobff",
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/le-git-graph-github-git-graph/"
     },
     "stars": 3313,
