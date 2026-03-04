@@ -189,7 +189,7 @@ It can make the sub-directories and files of github repository as zip and downlo
 
 Installs: 3358 | Stars: 38 | Last update: 21 Aug 2023
 
-### [Github Saved Filters](https://www.producthunt.com/posts/github-saved-filters) <a href="https://chromewebstore.google.com/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Github Saved Filters](https://chromewebstore.google.com/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm) <a href="https://chromewebstore.google.com/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.
 
@@ -207,7 +207,7 @@ Replace browser new tab screen with GitHub trending projects.
 
 Installs: 2000 | Stars: 352 | Last update: n/a
 
-### [Hide files on GitHub](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chromewebstore.google.com/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/hide-files-on-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+### [Hide files on GitHub](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chromewebstore.google.com/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
 Hide dotfiles from the GitHub file browser.
 
@@ -341,7 +341,7 @@ Introduces the Explore tab in the pull request interface where you can review ch
 
 Installs: 36 | Stars: n/a | Last update: n/a
 
-### [Sourcegraph](https://github.com/sourcegraph/sourcegraph) <a href="https://chromewebstore.google.com/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/sourcegraph-for-firefox/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+### [Sourcegraph](https://chromewebstore.google.com/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack) <a href="https://chromewebstore.google.com/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
 
