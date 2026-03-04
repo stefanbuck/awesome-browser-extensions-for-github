@@ -673,7 +673,7 @@
   },
   {
     "name": "Sourcegraph",
-    "source": "https://github.com/sourcegraph/sourcegraph/tree/main/client/browser",
+    "source": "https://github.com/sourcegraph/sourcegraph",
     "tags": [
       "search"
     ],
