@@ -412,3 +412,9 @@ Installs: 72 | Stars: 758 | Last update: 26 Jul 2024
 Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 426 | Stars: 91 | Last update: n/a
+
+### [RemoteOpenClaw](https://remoteopenclaw.com)
+
+Open marketplace for AI skills and personas built on OpenClaw.
+
+Installs: n/a | Stars: n/a | Last update: n/a
