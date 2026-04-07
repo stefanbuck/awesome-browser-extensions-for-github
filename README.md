@@ -2,6 +2,7 @@
 
 All numbers are updated daily and include the overall  usage of an extension across all browsers, the last publish date and stars of the GitHub repository!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for GitHub browser extension workflow orchestration, automated developer tool management, and multi-agent coordination. MIT licensed.
 ## Codeless contribution
 
 Submitting a new extension is easy as opening an Issue. In fact, this is all you have to do. [Create a new issue](https://github.com/stefanbuck/awesome-browser-extensions-for-github/issues/new?assignees=&labels=submit&template=submit-extension.yml&title=Submit+new+extension), that's it! I'll take it from there. If you need to update an existing listing, please follow the formal pull request process.
