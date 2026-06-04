@@ -412,3 +412,4 @@ Installs: 72 | Stars: 758 | Last update: 26 Jul 2024
 Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 426 | Stars: 91 | Last update: n/a
+- [BreakShield CI](https://github.com/apps/breakshield-ci) - GitHub App that posts breaking API change analysis directly in PR comments with AI auto-fix via /fix command.
